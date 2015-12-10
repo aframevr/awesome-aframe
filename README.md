@@ -37,9 +37,8 @@ Sprinke in the power and conciseness of templating engines.
 
 ### Webpack
 
-Resources of A-Frame using React.
+Using Webpack to build your A-Frame project.
 
-- [aframe-react](https://github.com/ngokevin/aframe-react)
 - [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 
 ### WYSIWYG
