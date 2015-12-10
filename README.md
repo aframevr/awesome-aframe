@@ -27,26 +27,26 @@ Learn about the entity component system which A-Frame is based on.
 
 Use React with A-Frame. Share your A-Frame React Components!
 
-- [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate]
+- [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 
 ### Templating
 
 Sprinke in the power and conciseness of templating engines.
 
-- [aframe-jade-boilerplate](https://github.com/KevinGrandon/aframe-jade-boilerplate]
+- [aframe-jade-boilerplate](https://github.com/KevinGrandon/aframe-jade-boilerplate)
 
 ### Webpack
 
 Resources of A-Frame using React.
 
-- [aframe-react](https://github.com/ngokevin/aframe-react]
-- [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate]
+- [aframe-react](https://github.com/ngokevin/aframe-react)
+- [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 
 ### WYSIWYG
 
-Minecraft time
+Minecraft time.
 
-- A-Frame Editor [https://github.com/aframevr/aframe-editor/]
+- [A-Frame Editor](https://github.com/aframevr/aframe-editor/)
 
 ### Contributions
 
