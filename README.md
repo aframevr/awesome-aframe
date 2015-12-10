@@ -39,6 +39,7 @@ Sprinke in the power and conciseness of templating engines.
 
 Resources of A-Frame using React.
 
+- [aframe-react](https://github.com/ngokevin/aframe-react]
 - [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate]
 
 ### WYSIWYG
