@@ -8,7 +8,7 @@ Straight from the horse's mouth.
 
 - [Official Site](https://aframevr.io)
 - [Team Site](https://mozvr.com)
-- [Examples](http://aframevr.github.io/aframe/examples/)
+- [Examples](https://aframe.io/examples/)
 
 #### Repositories
 
@@ -19,7 +19,7 @@ Straight from the horse's mouth.
 
 Find human beings using A-Frame.
 
-- [Slack](https://aframevr.slack.com)
+- [Slack](http://aframevr-slack.herokuapp.com/)
 - [Tumblr](http://aframevr.tumblr.com/)
 - [Twitter](https://twitter.com/aframevr)
 
@@ -31,9 +31,9 @@ Learn how to A-Frame.
 
 - [Introducing A-Frame - Kickstarting WebVR](http://ngokevin.com/blog/aframe)
 
-#### Entity Component System (ECS)
+#### Entity-Component System (ECS)
 
-Learn about the entity component system which A-Frame is based on.
+Learn about the entity-component system which A-Frame is based on.
 
 - [Wikipedia Entry](https://en.wikipedia.org/wiki/Entity_component_system)
 - [Entity Systems Wiki](http://entity-systems.wikidot.com/)
