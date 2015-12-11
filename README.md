@@ -38,6 +38,12 @@ Learn about the entity component system which A-Frame is based on.
 - [Wikipedia Entry](https://en.wikipedia.org/wiki/Entity_component_system)
 - [Entity Systems Wiki](http://entity-systems.wikidot.com/)
 
+### Components
+
+Third-party A-Frame components (of the entity-component system).
+
+- [aframe-layout](https://github.com/ngokevin/aframe-layout)
+
 ### React
 
 Use React with A-Frame. Share your A-Frame React Components!
