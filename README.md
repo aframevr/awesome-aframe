@@ -46,7 +46,7 @@ Third-party A-Frame components (of the entity-component system).
 
 ### React
 
-Use React with A-Frame. Share your A-Frame React Components!
+**Experimental:** Use React with A-Frame. Share your A-Frame React Components!
 
 - [aframe-react](https://github.com/ngokevin/aframe-react)
 - [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
