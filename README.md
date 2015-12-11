@@ -7,16 +7,31 @@ A collection of awesome things regarding [A-Frame](https://github.com/aframevr/a
 Straight from the horse's mouth.
 
 - [Official Site](https://aframevr.io)
+- [Team Site](https://mozvr.com)
 - [Examples](http://aframevr.github.io/aframe/examples/)
+
+#### Repositories
+
+- [A-Frame](https://github.com/aframevr/aframe)
+- [A-Frame Core](https://github.com/aframevr/aframe-core)
 
 ### Community
 
 Find human beings using A-Frame.
 
 - [Slack](https://aframevr.slack.com)
+- [Tumblr](http://aframevr.tumblr.com/)
 - [Twitter](https://twitter.com/aframevr)
 
-### Entity Component System (ECS)
+### Guides and Tutorials
+
+#### A-Frame
+
+Learn how to A-Frame.
+
+- [Introducing A-Frame - Kickstarting WebVR](http://ngokevin.com/blog/aframe)
+
+#### Entity Component System (ECS)
 
 Learn about the entity component system which A-Frame is based on.
 
@@ -27,6 +42,7 @@ Learn about the entity component system which A-Frame is based on.
 
 Use React with A-Frame. Share your A-Frame React Components!
 
+- [aframe-react](https://github.com/ngokevin/aframe-react)
 - [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 
 ### Templating
@@ -43,10 +59,10 @@ Using Webpack to build your A-Frame project.
 
 ### WYSIWYG
 
-Minecraft time.
+Building our way towards Minecraft.
 
 - [A-Frame Editor](https://github.com/aframevr/aframe-editor/)
 
 ### Contributions
 
-Your contributions and suggestions are heartily welcome.
+Your contributions and suggestions are heartily welcome. Just make a pull request.
