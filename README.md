@@ -29,7 +29,7 @@ Find human beings using A-Frame.
 
 Learn how to A-Frame.
 
-- [Introducing A-Frame - Kickstarting WebVR](http://ngokevin.com/blog/aframe)
+- [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
 
 #### Entity-Component System (ECS)
 
