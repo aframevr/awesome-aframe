@@ -27,7 +27,7 @@ Find human beings using A-Frame.
 
 #### A-Frame
 
-Learn how to A-Frame.
+Learn how to use A-Frame.
 
 - [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
 
@@ -53,7 +53,7 @@ Third-party A-Frame components (of the entity-component system).
 
 ### Templating
 
-Sprinke in the power and conciseness of templating engines.
+Sprinkle in the power and conciseness of templating engines.
 
 - [aframe-jade-boilerplate](https://github.com/KevinGrandon/aframe-jade-boilerplate)
 
@@ -65,4 +65,4 @@ Using Webpack to build your A-Frame project.
 
 ### Contributions
 
-Your contributions and suggestions are heartily welcome. Just make a pull request.
+Your contributions and suggestions are heartily welcome. Just make a [pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
