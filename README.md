@@ -63,12 +63,6 @@ Using Webpack to build your A-Frame project.
 
 - [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 
-### WYSIWYG
-
-Building our way towards Minecraft.
-
-- [A-Frame Editor](https://github.com/aframevr/aframe-editor/)
-
 ### Contributions
 
 Your contributions and suggestions are heartily welcome. Just make a pull request.
