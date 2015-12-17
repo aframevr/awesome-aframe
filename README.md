@@ -44,9 +44,6 @@ Third-party A-Frame components (of the entity-component system).
 
 - [aframe-layout](https://github.com/ngokevin/aframe-layout)
 
-H:)'m
-
-
 ### React
 
 **Experimental:** Use React with A-Frame. Share your A-Frame React Components!
