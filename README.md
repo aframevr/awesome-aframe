@@ -44,6 +44,7 @@ Third-party A-Frame components (of the entity-component system).
 
 - [aframe-component-boilerplate](https://github.com/ngokevin/aframe-component-boilerplate)
 - [aframe-layout](https://github.com/ngokevin/aframe-layout)
+- [aframe-text-component](https://github.com/ngokevin/aframe-text-component)
 
 ### React
 
