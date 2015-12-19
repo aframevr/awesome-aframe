@@ -65,6 +65,10 @@ Using Webpack to build your A-Frame project.
 
 - [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 
+### Scenes
+
+- [a-wakens](https://github.com/ngokevin/a-wakens)
+
 ### Contributions
 
 Your contributions and suggestions are heartily welcome. Just make a pull request.
