@@ -20,7 +20,7 @@ Straight from the horse's mouth.
 Find human beings using A-Frame.
 
 - [Slack](http://aframevr-slack.herokuapp.com/)
-- [Tumblr](http://aframevr.tumblr.com/)
+- [Made with A-Frame Tumblr](http://aframevr.tumblr.com/)
 - [Twitter](https://twitter.com/aframevr)
 
 ### Guides and Tutorials
@@ -42,6 +42,7 @@ Learn about the entity-component system which A-Frame is based on.
 
 Third-party A-Frame components (of the entity-component system).
 
+- [aframe-component-boilerplate](https://github.com/ngokevin/aframe-component-boilerplate)
 - [aframe-layout](https://github.com/ngokevin/aframe-layout)
 
 ### React
