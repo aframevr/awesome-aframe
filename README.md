@@ -68,6 +68,7 @@ Using Webpack to build your A-Frame project.
 ### Scenes
 
 - [a-wakens](https://github.com/ngokevin/a-wakens)
+- [a-invaders](http://swimminglessonsformodernlife.com/a-invaders/) [repo](https://github.com/dmarcos/a-invaders)
 
 ### Contributions
 
