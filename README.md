@@ -22,6 +22,7 @@ Find human beings using A-Frame.
 - [Slack](http://aframevr-slack.herokuapp.com/)
 - [Made with A-Frame Tumblr](http://aframevr.tumblr.com/)
 - [Twitter](https://twitter.com/aframevr)
+- [IRC](irc://irc.mozilla.org/vr)
 
 ### Guides and Tutorials
 
@@ -35,6 +36,7 @@ Learn how to A-Frame.
 
 Learn about the entity-component system which A-Frame is based on.
 
+- [How A-Frame is Different from Other 3D Markup Languages](http://ngokevin.com/blog/aframe-vs-3dml/)
 - [Wikipedia Entry](https://en.wikipedia.org/wiki/Entity_component_system)
 - [Entity Systems Wiki](http://entity-systems.wikidot.com/)
 
