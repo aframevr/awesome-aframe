@@ -71,6 +71,7 @@ Using Webpack to build your A-Frame project.
 
 - [a-wakens](https://github.com/ngokevin/a-wakens)
 - [a-invaders](https://github.com/dmarcos/a-invaders)
+- [DrawVR: a Minecraft-Inspired VR Website Experience](http://drawvr.com/)
 
 ### Contributions
 
