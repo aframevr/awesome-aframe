@@ -6,7 +6,7 @@ A collection of awesome things regarding [A-Frame](https://github.com/aframevr/a
 
 Straight from the horse's mouth.
 
-- [Official Site](https://aframevr.io)
+- [Official Site](https://aframe.io)
 - [Team Site](https://mozvr.com)
 - [Examples](https://aframe.io/examples/)
 
