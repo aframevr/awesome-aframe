@@ -49,7 +49,17 @@ Third-party A-Frame components (of the entity-component system).
 - [aframe-obj-loader-component](https://github.com/donmccurdy/aframe-obj-loader-component)
 - [aframe-text-component](https://github.com/ngokevin/aframe-text-component)
 
-### React
+### Frameworks/Libraries
+
+#### [D3.js](http://d3js.org/)
+
+- [D3.js](http://blockbuilder.org/enjalot/1fd196cd99f8d58a56d3)
+
+#### [Popmotion](https://github.com/Popmotion/popmotion)
+
+- [aframe-role](https://github.com/Popmotion/aframe-role)
+
+#### [React](https://github.com/facebook/react)
 
 **Experimental:** Use React with A-Frame. Share your A-Frame React Components!
 
@@ -57,7 +67,7 @@ Third-party A-Frame components (of the entity-component system).
 - [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 - [aframe-react-starter](https://github.com/fouad/aframe-react-starter)
 
-### Templating
+#### Templating
 
 Sprinkle in the power and conciseness of templating engines.
 
