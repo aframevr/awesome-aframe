@@ -22,7 +22,7 @@ Find human beings using A-Frame.
 - [Slack](http://aframevr-slack.herokuapp.com/)
 - [Made with A-Frame Tumblr](http://aframevr.tumblr.com/)
 - [Twitter](https://twitter.com/aframevr)
-- [IRC](irc://irc.mozilla.org/vr)
+- IRC: `irc://irc.mozilla.org:6697/#VR`
 
 ### Guides and Tutorials
 
