@@ -55,6 +55,7 @@ Third-party A-Frame components (of the entity-component system).
 
 - [aframe-react](https://github.com/ngokevin/aframe-react)
 - [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
+- [aframe-react-starter](https://github.com/fouad/aframe-react-starter)
 
 ### Templating
 
