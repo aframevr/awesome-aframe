@@ -93,6 +93,8 @@ Using Webpack to build your A-Frame project.
 - [DrawVR: a Minecraft-Inspired VR Website Experience](http://drawvr.com/)
 - [Ricoh Theta S Live Preview](https://gtk2k.github.io/aframe_theta_s_live_preview/livepreview.html) &mdash; [Code](https://github.com/gtk2k/gtk2k.github.io/tree/master/aframe_theta_s_live_preview)
 - [EEVO](http://mhansen-dev.eevo.nyc/)
+- [Hershey Sweet Lights](https://htmlpreview.github.io/?https://github.com/davexoxide/sweet-lights/blob/master/index.html) &mdash; [Code](https://github.com/davexoxide/sweet-lights/)
+- [VR GIF](http://x627.com/vr-gif/) &mdash; [Post](http://x627.com/a-frame-is-awesome/)
 
 ### Contributions
 
