@@ -92,6 +92,7 @@ Using Webpack to build your A-Frame project.
 - [a-invaders](https://github.com/dmarcos/a-invaders)
 - [DrawVR: a Minecraft-Inspired VR Website Experience](http://drawvr.com/)
 - [Ricoh Theta S Live Preview](https://gtk2k.github.io/aframe_theta_s_live_preview/livepreview.html) &mdash; [Code](https://github.com/gtk2k/gtk2k.github.io/tree/master/aframe_theta_s_live_preview)
+- [EEVO](http://mhansen-dev.eevo.nyc/)
 
 ### Contributions
 
