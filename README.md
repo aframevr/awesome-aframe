@@ -45,6 +45,7 @@ Learn about the entity-component system which A-Frame is based on.
 Third-party A-Frame components (of the entity-component system).
 
 - [aframe-component-boilerplate](https://github.com/ngokevin/aframe-component-boilerplate)
+- [aframe-gamepad-controls](https://github.com/donmccurdy/aframe-gamepad-controls)
 - [aframe-layout-component](https://github.com/ngokevin/aframe-layout-component)
 - [aframe-obj-loader-component](https://github.com/donmccurdy/aframe-obj-loader-component)
 - [aframe-text-component](https://github.com/ngokevin/aframe-text-component)
