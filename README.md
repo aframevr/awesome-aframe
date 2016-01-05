@@ -45,6 +45,7 @@ Learn about the entity-component system which A-Frame is based on.
 Third-party A-Frame components (of the entity-component system).
 
 - [aframe-component-boilerplate](https://github.com/ngokevin/aframe-component-boilerplate)
+- [aframe-gamepad-controls](https://github.com/donmccurdy/aframe-gamepad-controls)
 - [aframe-layout-component](https://github.com/ngokevin/aframe-layout-component)
 - [aframe-obj-loader-component](https://github.com/donmccurdy/aframe-obj-loader-component)
 - [aframe-text-component](https://github.com/ngokevin/aframe-text-component)
@@ -73,6 +74,7 @@ Third-party A-Frame components (of the entity-component system).
 - [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 - [aframe-react-starter](https://github.com/fouad/aframe-react-starter)
 - [React + TweenMax demo](http://codepen.io/cheapsteak/pen/pgbdGa?editors=001) (by [@cheapsteak])
+- [React + Redux demo (incl. switching between 2d and 3d)](https://github.com/RSpace/aframe-meetup-example) (by [@RSpace])
 
 #### Templating
 
@@ -95,6 +97,7 @@ Using Webpack to build your A-Frame project.
 - [EEVO](http://mhansen-dev.eevo.nyc/)
 - [Hershey Sweet Lights](https://htmlpreview.github.io/?https://github.com/davexoxide/sweet-lights/blob/master/index.html) &mdash; [Code](https://github.com/davexoxide/sweet-lights/)
 - [VR GIF](http://x627.com/vr-gif/) &mdash; [Post](http://x627.com/a-frame-is-awesome/)
+- [MeetupVR: Demonstrates interaction and switching between 2d and 3d](http://immersionftw.com/meetup-vr) &mdash; [Code](https://github.com/RSpace/aframe-meetup-example) &mdash; [Post](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7)
 
 ### Contributions
 
@@ -102,3 +105,4 @@ Your contributions and suggestions are heartily welcomed. Simply make a [pull re
 
 
 [@cheapsteak]: https://github.com/cheapsteak/
+[@RSpace]: https://github.com/RSpace/
