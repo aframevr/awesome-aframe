@@ -31,6 +31,7 @@ Find human beings using A-Frame.
 Learn how to use A-Frame.
 
 - [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
+- [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German)
 
 #### Entity-Component System (ECS)
 
