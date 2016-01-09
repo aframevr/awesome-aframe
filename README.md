@@ -90,19 +90,19 @@ Using Webpack to build your A-Frame project.
 
 ### Scenes
 
-- [a-wakens](https://github.com/ngokevin/a-wakens)
+- [a-wakens: Star Wars Audio Visualization](https://ngokevin.github.com/a-wakens) &mdash; [Code](https://github.com/ngokevin/a-wakens)
 - [a-invaders](https://github.com/dmarcos/a-invaders)
 - [DrawVR: a Minecraft-Inspired VR Website Experience](http://drawvr.com/)
 - [Ricoh Theta S Live Preview](https://gtk2k.github.io/aframe_theta_s_live_preview/livepreview.html) &mdash; [Code](https://github.com/gtk2k/gtk2k.github.io/tree/master/aframe_theta_s_live_preview)
 - [EEVO](http://mhansen-dev.eevo.nyc/)
 - [Hershey Sweet Lights](https://htmlpreview.github.io/?https://github.com/davexoxide/sweet-lights/blob/master/index.html) &mdash; [Code](https://github.com/davexoxide/sweet-lights/)
 - [VR GIF](http://x627.com/vr-gif/) &mdash; [Post](http://x627.com/a-frame-is-awesome/)
-- [MeetupVR: Demonstrates interaction and switching between 2d and 3d](http://immersionftw.com/meetup-vr) &mdash; [Code](https://github.com/RSpace/aframe-meetup-example) &mdash; [Post](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7)
+- [MeetupVR: Switching Interaction Between 2D and 3D](http://immersionftw.com/meetup-vr) &mdash; [Code](https://github.com/RSpace/aframe-meetup-example) &mdash; [Post](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7)
+- [threeschwifty: 360-degree Photo and Video Viewer](https://ngokevin.github.com/threeschwifty) &mdash; [Code](https://github.com/ngokevin/threeschwifty)
 
 ### Contributions
 
 Your contributions and suggestions are heartily welcomed. Simply make a [pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
-
 
 [@cheapsteak]: https://github.com/cheapsteak/
 [@RSpace]: https://github.com/RSpace/
