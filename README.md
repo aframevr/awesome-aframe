@@ -76,7 +76,7 @@ Third-party A-Frame components (of the entity-component system).
 - [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
 - [aframe-react-starter](https://github.com/fouad/aframe-react-starter)
 - [React + TweenMax demo](http://codepen.io/cheapsteak/pen/pgbdGa?editors=001) (by [@cheapsteak])
-- [React + Redux demo (incl. switching between 2d and 3d)](https://github.com/RSpace/aframe-meetup-example) (by [@RSpace])
+- [React + Redux demo (incl. switching between 2d and 3d)](https://github.com/RSpace/aframe-meetup-example)
 
 #### Templating
 
@@ -109,4 +109,3 @@ Your contributions and suggestions are heartily welcomed. Simply make a [pull re
 
 [@cheapsteak]: https://github.com/cheapsteak/
 [@drawvr]: https://www.reddit.com/user/drawvr
-[@RSpace]: https://github.com/RSpace/
