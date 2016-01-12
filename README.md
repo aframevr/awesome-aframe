@@ -32,6 +32,8 @@ Learn how to use A-Frame.
 
 - [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
 - [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German)
+- [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German)
+- [Das Objekt-Komponenten System von A-Frame verstehen](http://thevrjump.com/de/aframe-system) (German)
 
 #### Entity-Component System (ECS)
 
