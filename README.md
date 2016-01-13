@@ -10,11 +10,6 @@ Straight from the horse's mouth.
 - [Team Site](http://mozvr.com)
 - [Examples](https://aframe.io/examples/)
 
-#### Repositories
-
-- [A-Frame](https://github.com/aframevr/aframe)
-- [A-Frame Core](https://github.com/aframevr/aframe-core)
-
 ### Community
 
 Find human beings using A-Frame.
