@@ -51,6 +51,7 @@ Third-party A-Frame components (of the entity-component system).
 - [aframe-extrude-and-lathe](https://github.com/JosePedroDias/aframe-extrude-and-lathe)
 - ["alongpath" component](https://jsbin.com/dasefeh/edit?html,output)
 - [aframe-fps-look-component](https://github.com/cemkod/aframe-fps-look-component)
+- [aframe-no-click-look-controls](https://github.com/alexrkass/aframe-no-click-look-controls)
 
 ### Frameworks/Libraries
 
