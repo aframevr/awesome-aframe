@@ -52,6 +52,8 @@ Third-party A-Frame components (of the entity-component system).
 - ["alongpath" component](https://jsbin.com/dasefeh/edit?html,output)
 - [aframe-fps-look-component](https://github.com/cemkod/aframe-fps-look-component)
 - [aframe-no-click-look-controls](https://github.com/alexrkass/aframe-no-click-look-controls)
+- [collider/explode/spawner components](https://github.com/dmarcos/a-invaders/tree/master/js/components)
+- [aframe-physics-components](https://github.com/ngokevin/aframe-physics-components)
 
 ### Frameworks/Libraries
 
