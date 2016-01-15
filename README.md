@@ -19,15 +19,20 @@ Find human beings using A-Frame.
 - [Twitter](https://twitter.com/aframevr)
 - IRC: `irc://irc.mozilla.org:6697/#VR`
 
-### Guides and Tutorials
-
-#### A-Frame
+### Learning
 
 Learn how to use A-Frame.
 
+#### Guides and Tutorials
+
 - [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
-- [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German)
+- [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=de&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-system)
 - [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German)
+
+#### Videos
+
+- ["A Review of Mozilla's A-Frame WebVR Framework" by ARVR Magazine](https://www.youtube.com/watch?v=4IqBLoJd0ww)
+- ["Responsive Web Design with A-Frame"](https://www.youtube.com/watch?v=HogJdsepZRo) by [@alexrkrass]
 
 #### Entity-Component System (ECS)
 
@@ -89,5 +94,6 @@ Use React with A-Frame. Share your A-Frame React Components!
 
 Your contributions and suggestions are heartily welcomed. Simply make a [pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
+[@alexrkrass]: https://github.com/alexrkass
 [@cheapsteak]: https://github.com/cheapsteak/
 [@drawvr]: https://www.reddit.com/user/drawvr
