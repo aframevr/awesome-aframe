@@ -59,7 +59,6 @@ Third-party A-Frame components (of the entity-component system).
 
 - [aframe-jade-boilerplate](https://github.com/KevinGrandon/aframe-jade-boilerplate)
 - [aframe-role](https://github.com/Popmotion/aframe-role)
-
 - [D3.js](http://blockbuilder.org/enjalot/1fd196cd99f8d58a56d3)
 - [Vue.js + TweenMax demo](http://codepen.io/cheapsteak/pen/dGXZjx?editors=101) (by [@cheapsteak])
 
