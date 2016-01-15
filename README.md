@@ -26,47 +26,41 @@ Find human beings using A-Frame.
 Learn how to use A-Frame.
 
 - [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
-- [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German)
 - [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German)
-- [Das Objekt-Komponenten System von A-Frame verstehen](http://thevrjump.com/de/aframe-system) (German)
+- [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German)
 
 #### Entity-Component System (ECS)
 
 Learn about the entity-component system which A-Frame is based on.
 
+- [Das Objekt-Komponenten System von A-Frame verstehen](http://thevrjump.com/de/aframe-system) (German)
+- [Entity Systems Wiki](http://entity-systems.wikidot.com/)
 - [How A-Frame is Different from Other 3D Markup Languages](http://ngokevin.com/blog/aframe-vs-3dml/)
 - [Wikipedia Entry](https://en.wikipedia.org/wiki/Entity_component_system)
-- [Entity Systems Wiki](http://entity-systems.wikidot.com/)
 
 ### Components
 
 Third-party A-Frame components (of the entity-component system).
 
 - [aframe-component-boilerplate](https://github.com/ngokevin/aframe-component-boilerplate)
-- [aframe-gamepad-controls](https://github.com/donmccurdy/aframe-gamepad-controls)
-- [aframe-layout-component](https://github.com/ngokevin/aframe-layout-component)
-- [aframe-obj-loader-component](https://github.com/donmccurdy/aframe-obj-loader-component)
-- [aframe-text-component](https://github.com/ngokevin/aframe-text-component)
+- ["alongpath" component](https://jsbin.com/dasefeh/edit?html,output)
 - [aframe-bmfont-text](https://github.com/mattdesl/aframe-bmfont-text)
 - [aframe-extrude-and-lathe](https://github.com/JosePedroDias/aframe-extrude-and-lathe)
-- ["alongpath" component](https://jsbin.com/dasefeh/edit?html,output)
 - [aframe-fps-look-component](https://github.com/cemkod/aframe-fps-look-component)
+- [aframe-gamepad-controls](https://github.com/donmccurdy/aframe-gamepad-controls)
+- [aframe-layout-component](https://github.com/ngokevin/aframe-layout-component)
 - [aframe-no-click-look-controls](https://github.com/alexrkass/aframe-no-click-look-controls)
-- [collider/explode/spawner components](https://github.com/dmarcos/a-invaders/tree/master/js/components)
+- [aframe-obj-loader-component](https://github.com/donmccurdy/aframe-obj-loader-component)
 - [aframe-physics-components](https://github.com/ngokevin/aframe-physics-components)
+- [aframe-text-component](https://github.com/ngokevin/aframe-text-component)
+- [collider/explode/spawner components](https://github.com/dmarcos/a-invaders/tree/master/js/components)
 
 ### Frameworks/Libraries
 
-#### [D3.js](http://d3js.org/)
-
-- [D3.js](http://blockbuilder.org/enjalot/1fd196cd99f8d58a56d3)
-
-#### [Popmotion](https://github.com/Popmotion/popmotion)
-
+- [aframe-jade-boilerplate](https://github.com/KevinGrandon/aframe-jade-boilerplate)
 - [aframe-role](https://github.com/Popmotion/aframe-role)
 
-#### [Vue.js](https://github.com/vuejs/vue/)
-
+- [D3.js](http://blockbuilder.org/enjalot/1fd196cd99f8d58a56d3)
 - [Vue.js + TweenMax demo](http://codepen.io/cheapsteak/pen/dGXZjx?editors=101) (by [@cheapsteak])
 
 #### [React](https://github.com/facebook/react)
@@ -74,35 +68,23 @@ Third-party A-Frame components (of the entity-component system).
 Use React with A-Frame. Share your A-Frame React Components!
 
 - [aframe-react](https://github.com/ngokevin/aframe-react)
-- [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
+- [aframe-react-boilerplate (with Webpack)](https://github.com/ngokevin/aframe-react-boilerplate)
 - [aframe-react-starter](https://github.com/fouad/aframe-react-starter)
-- [React + TweenMax demo](http://codepen.io/cheapsteak/pen/pgbdGa?editors=001) (by [@cheapsteak])
-- [React + Redux demo (incl. switching between 2d and 3d)](https://github.com/RSpace/aframe-meetup-example)
-
-#### Templating
-
-Sprinkle in the power and conciseness of templating engines.
-
-- [aframe-jade-boilerplate](https://github.com/KevinGrandon/aframe-jade-boilerplate)
-
-### Webpack
-
-Using Webpack to build your A-Frame project.
-
-- [aframe-react-boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
+- [React + Redux Demo (incl. switching between 2d and 3d)](https://github.com/RSpace/aframe-meetup-example)
+- [React + TweenMax Demo](http://codepen.io/cheapsteak/pen/pgbdGa?editors=001) (by [@cheapsteak])
 
 ### Scenes
 
-- [a-wakens: Star Wars Audio Visualization](https://ngokevin.github.com/a-wakens) &mdash; [Code](https://github.com/ngokevin/a-wakens)
 - [a-invaders](https://github.com/dmarcos/a-invaders)
-- [DrawVR: a Minecraft-Inspired VR Website Experience](http://drawvr.com/) (by [@drawvr])
-- [Ricoh Theta S Live Preview](https://gtk2k.github.io/aframe_theta_s_live_preview/livepreview.html) &mdash; [Code](https://github.com/gtk2k/gtk2k.github.io/tree/master/aframe_theta_s_live_preview)
+- [a-wakens: Star Wars Audio Visualization](https://ngokevin.github.com/a-wakens) &mdash; [Code](https://github.com/ngokevin/a-wakens)
+- [DrawVR: Minecraft-Inspired VR Website Experience](http://drawvr.com/) (by [@drawvr])
+- [DrawVR: Movie Theater](http://drawvr.com/theater/) (by [@drawvr])
 - [EEVO](http://mhansen-dev.eevo.nyc/)
 - [Hershey Sweet Lights](https://htmlpreview.github.io/?https://github.com/davexoxide/sweet-lights/blob/master/index.html) &mdash; [Code](https://github.com/davexoxide/sweet-lights/)
-- [VR GIF](http://x627.com/vr-gif/) &mdash; [Post](http://x627.com/a-frame-is-awesome/)
 - [MeetupVR: Switching Interaction Between 2D and 3D](http://immersionftw.com/meetup-vr) &mdash; [Code](https://github.com/RSpace/aframe-meetup-example) &mdash; [Post](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7)
+- [Ricoh Theta S Live Preview](https://gtk2k.github.io/aframe_theta_s_live_preview/livepreview.html) &mdash; [Code](https://github.com/gtk2k/gtk2k.github.io/tree/master/aframe_theta_s_live_preview)
 - [threeschwifty: 360-degree Photo and Video Viewer](https://ngokevin.github.com/threeschwifty) &mdash; [Code](https://github.com/ngokevin/threeschwifty)
-- [DrawVR: Movie Theater](http://drawvr.com/theater/) (by [@drawvr])
+- [VR GIF](http://x627.com/vr-gif/) &mdash; [Post](http://x627.com/a-frame-is-awesome/)
 
 ### Contributions
 
