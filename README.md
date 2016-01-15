@@ -26,8 +26,8 @@ Learn how to use A-Frame.
 #### Guides and Tutorials
 
 - [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
-- [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=de&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-system)
-- [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German)
+- [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) &mdash; [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-einstieg)
+- [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German) &mdash; [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-grundlagen)
 
 #### Videos
 
@@ -38,7 +38,7 @@ Learn how to use A-Frame.
 
 Learn about the entity-component system which A-Frame is based on.
 
-- [Das Objekt-Komponenten System von A-Frame verstehen](http://thevrjump.com/de/aframe-system) (German)
+- [Das Objekt-Komponenten System von A-Frame verstehen](http://thevrjump.com/de/aframe-system) (German) &mdash; [Translated](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-system&edit-text=)
 - [Entity Systems Wiki](http://entity-systems.wikidot.com/)
 - [How A-Frame is Different from Other 3D Markup Languages](http://ngokevin.com/blog/aframe-vs-3dml/)
 - [Wikipedia Entry](https://en.wikipedia.org/wiki/Entity_component_system)
