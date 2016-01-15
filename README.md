@@ -89,6 +89,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Ricoh Theta S Live Preview](https://gtk2k.github.io/aframe_theta_s_live_preview/livepreview.html) &mdash; [Code](https://github.com/gtk2k/gtk2k.github.io/tree/master/aframe_theta_s_live_preview)
 - [threeschwifty: 360-degree Photo and Video Viewer](https://ngokevin.github.com/threeschwifty) &mdash; [Code](https://github.com/ngokevin/threeschwifty)
 - [VR GIF](http://x627.com/vr-gif/) &mdash; [Post](http://x627.com/a-frame-is-awesome/)
+- [Virtual Art School Tour](http://stampswebdesign.com/withersc/hud/index.html) (by [@withersc])
 
 ### Contributions
 
