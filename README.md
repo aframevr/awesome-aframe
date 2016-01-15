@@ -1,6 +1,15 @@
 ## awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome things regarding [A-Frame](https://github.com/aframevr/aframe).
+A collection of awesome things regarding [A-Frame VR](https://github.com/aframevr/aframe). Easily build WebVR experiences.
+
+## Table of Contents
+
+- [Official Resources](#official-resources)
+- [Community](#community)
+- [Learning](#learning)
+- [Components](#components)
+- [Frameworks/Libraries](#frameworks-libraries)
+- [Scenes](#scenes)
 
 ### Offical Resources
 
@@ -92,9 +101,12 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [VR GIF](http://x627.com/vr-gif/) &mdash; [Post](http://x627.com/a-frame-is-awesome/)
 - [Virtual Art School Tour](http://stampswebdesign.com/withersc/hud/index.html) (by [@withersc])
 
-### Contributions
+Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
-Your contributions and suggestions are heartily welcomed. Simply make a [pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 
 [@alexrkrass]: https://github.com/alexrkass
 [@cheapsteak]: https://github.com/cheapsteak/
