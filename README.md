@@ -59,7 +59,6 @@ Third-party A-Frame components (of the entity-component system).
 
 - [aframe-component-boilerplate](https://github.com/ngokevin/aframe-component-boilerplate) - Boilerplate for creating and sharing A-Frame VR components.
 - [alongpath component](https://jsbin.com/dasefeh/edit?html,output) - Interpolating an entity's position along a path.
-- [aframe-bmfont-text](https://github.com/mattdesl/aframe-bmfont-text) - Rendering bitmap font texts.
 - [aframe-extrude-and-lathe](https://github.com/JosePedroDias/aframe-extrude-and-lathe) - Extrude and lathe geometries.
 - [aframe-fps-look-component](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse.
 - [aframe-gamepad-controls](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API.
