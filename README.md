@@ -90,7 +90,9 @@ Use React with A-Frame. Share your A-Frame React Components!
 
 - [a-invaders](https://github.com/dmarcos/a-invaders) - Space invaders game.
 - [a-wakens](https://ngokevin.github.com/a-wakens) &mdash; [Code](https://github.com/ngokevin/a-wakens) - Star Wars Audio Visualization
-- [Minecraft-Inspired VR Website Experience](http://drawvr.com/) (by [@drawvr])
+- [VR Website Navigation](http://drawvr.com/) (by [@drawvr])
+- [Tron-Inspired VR Website Experience](http://drawvr.com/tron/) (by [@drawvr])
+- [Minecraft-Inspired VR Website Experience](http://drawvr.com/minecraft/) (by [@drawvr])
 - [Movie Theater](http://drawvr.com/theater/) (by [@drawvr])
 - [EEVO](http://mhansen-dev.eevo.nyc/) - 360-degree image with transitions.
 - [Hershey Sweet Lights](https://htmlpreview.github.io/?https://github.com/davexoxide/sweet-lights/blob/master/index.html) &mdash; [Code](https://github.com/davexoxide/sweet-lights/)
