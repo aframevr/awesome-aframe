@@ -36,8 +36,8 @@ Learn how to use A-Frame.
 
 - [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
 - [Hands-on With Virtual Reality Using A-Frame, React and Redux](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7#.nce7sfdzl)
-- [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) &mdash; [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-einstieg)
-- [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German) &mdash; [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-grundlagen)
+- [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-einstieg)
+- [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-grundlagen)
 
 #### Videos
 
@@ -48,8 +48,8 @@ Learn how to use A-Frame.
 
 Learn about the entity-component system which A-Frame is based on.
 
-- [Das Objekt-Komponenten System von A-Frame verstehen](http://thevrjump.com/de/aframe-system) (German) &mdash; [Translated](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-system&edit-text=)
-- [Eigene Komponenten für A-Frame programmieren](http://thevrjump.com/de/aframe-komponenten) (German) &mdash; [Translated](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-komponenten&edit-text=)
+- [Das Objekt-Komponenten System von A-Frame verstehen](http://thevrjump.com/de/aframe-system) (German) - [Translated](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-system&edit-text=)
+- [Eigene Komponenten für A-Frame programmieren](http://thevrjump.com/de/aframe-komponenten) (German) - [Translated](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-komponenten&edit-text=)
 - [Entity Systems Wiki](http://entity-systems.wikidot.com/)
 - [How A-Frame is Different from Other 3D Markup Languages](http://ngokevin.com/blog/aframe-vs-3dml/)
 - [Wikipedia Entry](https://en.wikipedia.org/wiki/Entity_component_system)
@@ -58,17 +58,17 @@ Learn about the entity-component system which A-Frame is based on.
 
 Third-party A-Frame components (of the entity-component system).
 
-- [aframe-component-boilerplate](https://github.com/ngokevin/aframe-component-boilerplate) - Boilerplate for creating and sharing A-Frame VR components.
-- [alongpath component](https://jsbin.com/dasefeh/edit?html,output) - Interpolating an entity's position along a path.
-- [aframe-extrude-and-lathe](https://github.com/JosePedroDias/aframe-extrude-and-lathe) - Extrude and lathe geometries.
+- [aframe-component-boilerplate](https://github.com/ngokevin/aframe-component-boilerplate) - Boilerplate for creating and sharing A-Frame VR components
+- [alongpath component](https://jsbin.com/dasefeh/edit?html,output) - Interpolating an entity's position along a path
+- [aframe-extrude-and-lathe](https://github.com/JosePedroDias/aframe-extrude-and-lathe) - Extrude and lathe geometries
 - [aframe-fps-look-component](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse.
-- [aframe-gamepad-controls](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API.
-- [aframe-layout-component](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities.
-- [aframe-no-click-look-controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mousedown + drag.
-- [aframe-obj-loader-component](https://github.com/donmccurdy/aframe-obj-loader-component) - Loader for .OBJ models and .MTL materials.
-- [aframe-physics-components](https://github.com/ngokevin/aframe-physics-components) - Rigid-body physics.
-- [aframe-text-component](https://github.com/ngokevin/aframe-text-component) - Polygonal text.
-- [collider/explode/spawner components](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning.
+- [aframe-gamepad-controls](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
+- [aframe-layout-component](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
+- [aframe-no-click-look-controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mousedown + drag
+- [aframe-obj-loader-component](https://github.com/donmccurdy/aframe-obj-loader-component) - Loader for .OBJ models and .MTL materials
+- [aframe-physics-components](https://github.com/ngokevin/aframe-physics-components) - Rigid-body physics
+- [aframe-text-component](https://github.com/ngokevin/aframe-text-component) - Polygonal text
+- [collider/explode/spawner components](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
 
 ### Frameworks/Libraries
 
@@ -89,20 +89,20 @@ Use React with A-Frame. Share your A-Frame React Components!
 
 ### Scenes
 
-- [a-invaders](https://github.com/dmarcos/a-invaders) - Space invaders game.
-- [a-wakens](https://ngokevin.github.com/a-wakens) &mdash; [Code](https://github.com/ngokevin/a-wakens) - Star Wars Audio Visualization
+- [a-invaders](http://swimminglessonsformodernlife.com/a-invaders/) - Space invaders game [[Code]](https://github.com/dmarcos/a-invaders)
+- [a-wakens](https://ngokevin.github.com/a-wakens) - Star Wars Audio Visualization [[Code]](https://github.com/ngokevin/a-wakens)
 - [VR Website Navigation](http://drawvr.com/) (by [@drawvr])
 - [Tron-Inspired VR Website Experience](http://drawvr.com/tron/) (by [@drawvr])
 - [Minecraft-Inspired VR Website Experience](http://drawvr.com/minecraft/) (by [@drawvr])
 - [Movie Theater](http://drawvr.com/theater/) (by [@drawvr])
-- [EEVO](http://mhansen-dev.eevo.nyc/) - 360-degree image with transitions.
-- [Hershey Sweet Lights](https://htmlpreview.github.io/?https://github.com/davexoxide/sweet-lights/blob/master/index.html) &mdash; [Code](https://github.com/davexoxide/sweet-lights/)
-- [MeetupVR](http://immersionftw.com/meetup-vr) &mdash; [Code](https://github.com/RSpace/aframe-meetup-example) &mdash; [Post](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7) - Switching Interaction between 2D and 3D.
-- [Ricoh Theta S Live Preview](https://gtk2k.github.io/aframe_theta_s_live_preview/livepreview.html) &mdash; [Code](https://github.com/gtk2k/gtk2k.github.io/tree/master/aframe_theta_s_live_preview) - Live video preview with the Ricoh Theta S.
-- [threeschwifty](https://ngokevin.github.com/threeschwifty) &mdash; [Code](https://github.com/ngokevin/threeschwifty) - 360-degree photo and video viewer.
-- [VR GIF](http://x627.com/vr-gif/) &mdash; [Post](http://x627.com/a-frame-is-awesome/) - GIFs in VR.
-- [Virtual Art School Tour](http://stampswebdesign.com/withersc/hud/index.html) (by [@withersc]) - 360-degree photos with navigation.
-- [360-Degree Photosphere Viewer](https://www.ideaspacevr.org/examples/aframe/aframe-360-degree-photosphere) - 360-degree photo viewer with navigation [Code](https://github.com/IdeaSpaceVR/aframe-360-degree-photosphere)
+- [EEVO](http://mhansen-dev.eevo.nyc/) - 360-degree image with transitions
+- [Hershey Sweet Lights](https://htmlpreview.github.io/?https://github.com/davexoxide/sweet-lights/blob/master/index.html) - Holiday scene [[Code]](https://github.com/davexoxide/sweet-lights/)
+- [MeetupVR](http://immersionftw.com/meetup-vr) - Switching interaction between 2D and 3D [[Code]](https://github.com/RSpace/aframe-meetup-example) [[Post]](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7)
+- [Ricoh Theta S Live Preview](https://gtk2k.github.io/aframe_theta_s_live_preview/livepreview.html) - Live video preview with the Ricoh Theta S [[Code]](https://github.com/gtk2k/gtk2k.github.io/tree/master/aframe_theta_s_live_preview)
+- [threeschwifty](https://ngokevin.github.com/threeschwifty) - 360-degree photo and video viewer [[Code]](https://github.com/ngokevin/threeschwifty)
+- [VR GIF](http://x627.com/vr-gif/) - GIFs in VR [[Post]](http://x627.com/a-frame-is-awesome/)
+- [Virtual Art School Tour](http://stampswebdesign.com/withersc/hud/index.html) (by [@withersc]) - 360-degree photos with navigation
+- [360-Degree Photosphere Viewer](https://www.ideaspacevr.org/examples/aframe/aframe-360-degree-photosphere) - 360-degree photo viewer with navigation [[Code]](https://github.com/IdeaSpaceVR/aframe-360-degree-photosphere)
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
