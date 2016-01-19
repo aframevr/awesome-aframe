@@ -102,6 +102,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [threeschwifty](https://ngokevin.github.com/threeschwifty) &mdash; [Code](https://github.com/ngokevin/threeschwifty) - 360-degree photo and video viewer.
 - [VR GIF](http://x627.com/vr-gif/) &mdash; [Post](http://x627.com/a-frame-is-awesome/) - GIFs in VR.
 - [Virtual Art School Tour](http://stampswebdesign.com/withersc/hud/index.html) (by [@withersc]) - 360-degree photos with navigation.
+- [360-Degree Photosphere Viewer](https://www.ideaspacevr.org/examples/aframe/aframe-360-degree-photosphere) &mdash; [Code](https://github.com/IdeaSpaceVR/aframe-360-degree-photosphere) - simple 360-degree viewer for equirectangular photos with navigation.
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
