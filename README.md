@@ -38,11 +38,12 @@ Learn how to use A-Frame.
 - [Hands-on With Virtual Reality Using A-Frame, React and Redux](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7#.nce7sfdzl)
 - [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-einstieg)
 - [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-grundlagen)
+- [Introduction to A-Frame](http://www.slideshare.net/ellisonmu/introduction-to-aframe-57170744) - slides from talk at Mozilla Taipei (by [@daoshengmu])
 
 #### Videos
 
-- ["A Review of Mozilla's A-Frame WebVR Framework" by ARVR Magazine](https://www.youtube.com/watch?v=4IqBLoJd0ww)
-- ["Responsive Web Design with A-Frame"](https://www.youtube.com/watch?v=HogJdsepZRo) by [@alexrkrass]
+- ["A Review of Mozilla's A-Frame WebVR Framework"](https://www.youtube.com/watch?v=4IqBLoJd0ww) (by [AR/VR Magazine](http://www.arvrmagazine.com/))
+- ["Responsive Web Design with A-Frame"](https://www.youtube.com/watch?v=HogJdsepZRo) (by [@alexrkrass])
 
 #### Entity-Component System (ECS)
 
@@ -115,3 +116,4 @@ Your contributions and suggestions are heartily welcome. Check out the guideline
 [@cheapsteak]: https://github.com/cheapsteak/
 [@drawvr]: https://www.reddit.com/user/drawvr
 [@withersc]: https://www.behance.net/chriswithers
+[@daoshengmu]: https://github.com/daoshengmu
