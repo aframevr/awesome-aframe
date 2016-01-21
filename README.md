@@ -59,17 +59,18 @@ Learn about the entity-component system which A-Frame is based on.
 
 Third-party A-Frame components (of the entity-component system).
 
-- [aframe-component-boilerplate](https://github.com/ngokevin/aframe-component-boilerplate) - Boilerplate for creating and sharing A-Frame VR components
-- [alongpath component](https://jsbin.com/dasefeh/edit?html,output) - Interpolating an entity's position along a path
-- [aframe-extrude-and-lathe](https://github.com/JosePedroDias/aframe-extrude-and-lathe) - Extrude and lathe geometries
-- [aframe-fps-look-component](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse.
-- [aframe-gamepad-controls](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
-- [aframe-layout-component](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
-- [aframe-no-click-look-controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mousedown + drag
-- [aframe-obj-loader-component](https://github.com/donmccurdy/aframe-obj-loader-component) - Loader for .OBJ models and .MTL materials
-- [aframe-physics-components](https://github.com/ngokevin/aframe-physics-components) - Rigid-body physics
-- [aframe-text-component](https://github.com/ngokevin/aframe-text-component) - Polygonal text
-- [collider/explode/spawner components](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
+- [Component Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate) - Boilerplate for creating and sharing A-Frame VR components
+- [Along Path](https://jsbin.com/dasefeh/edit?html,output) - Interpolating an entity's position along a path
+- [Extrude and Lathe](https://github.com/JosePedroDias/aframe-extrude-and-lathe) - Extrude and lathe geometries
+- [FPS Look](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse
+- [Gamepad Controls](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
+- [Layout](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
+- [No-click Look Controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mousedown + drag
+- [OBJ and MTL Loader](https://github.com/donmccurdy/aframe-obj-loader-component) - Loader for .OBJ models and .MTL materials
+- [Physics](https://github.com/ngokevin/aframe-physics-components) - Rigid-body physics
+- [Text](https://github.com/ngokevin/aframe-text-component) - Polygonal text
+- [Collider, Explode, Spawner](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
+- [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 
 ### Frameworks/Libraries
 
