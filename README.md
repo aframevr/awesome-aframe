@@ -49,11 +49,12 @@ Learn how to use A-Frame.
 
 Learn about the entity-component system which A-Frame is based on.
 
+- [Entity Systems Wiki](http://entity-systems.wikidot.com/)
+- [Wikipedia Entry](https://en.wikipedia.org/wiki/Entity_component_system)
+- [How A-Frame is Different from Other 3D Markup Languages](http://ngokevin.com/blog/aframe-vs-3dml/)
 - [Das Objekt-Komponenten System von A-Frame verstehen](http://thevrjump.com/de/aframe-system) (German) - [Translated](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-system&edit-text=)
 - [Eigene Komponenten für A-Frame programmieren](http://thevrjump.com/de/aframe-komponenten) (German) - [Translated](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-komponenten&edit-text=)
-- [Entity Systems Wiki](http://entity-systems.wikidot.com/)
-- [How A-Frame is Different from Other 3D Markup Languages](http://ngokevin.com/blog/aframe-vs-3dml/)
-- [Wikipedia Entry](https://en.wikipedia.org/wiki/Entity_component_system)
+- [How to Write an A-Frame VR Component](http://ngokevin.com/blog/aframe-component/)
 
 ### Components
 
