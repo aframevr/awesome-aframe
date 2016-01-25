@@ -18,6 +18,7 @@ Straight from the horse's mouth.
 - [Official Site](https://aframe.io)
 - [Team Site](http://mozvr.com)
 - [Examples](https://aframe.io/examples/)
+- [MozVR Codepen](http://codepen.io/team/mozvr/pens/public/)
 
 ### Community
 
