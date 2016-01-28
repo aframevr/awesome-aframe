@@ -8,7 +8,7 @@ A collection of awesome things regarding [A-Frame VR](https://github.com/aframev
 - [Community](#community)
 - [Learning](#learning)
 - [Components](#components)
-- [Frameworks/Libraries](#frameworks-libraries)
+- [Integration](#integration)
 - [Scenes](#scenes)
 
 ### Offical Resources
@@ -75,7 +75,9 @@ Third-party A-Frame components (of the entity-component system).
 - [Collider, Explode, Spawner](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 
-### Frameworks/Libraries
+### Integration
+
+Integration with existing tools, frameworks, and libraries.
 
 - [aframe-jade-boilerplate](https://github.com/KevinGrandon/aframe-jade-boilerplate)
 - [aframe-role](https://github.com/Popmotion/aframe-role)
