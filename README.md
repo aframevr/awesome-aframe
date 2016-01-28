@@ -114,6 +114,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Tunnel Ride](http://drawvr.com/tunnel/) (by [@drawvr])
 - [Wheel Ride](http://drawvr.com/wheel/) (by [@drawvr])
 - [Equalizer Ride](http://drawvr.com/equalizer/) (by [@drawvr])
+- [Test Scape](http://x627.com/testscape/) (by [Michael Verdi](http://x627.com/directory/))
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
