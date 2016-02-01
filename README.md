@@ -81,7 +81,7 @@ Integration with existing tools, frameworks, and libraries.
 
 - [aframe-jade-boilerplate](https://github.com/KevinGrandon/aframe-jade-boilerplate)
 - [aframe-role](https://github.com/Popmotion/aframe-role)
-- [D3.js](http://blockbuilder.org/enjalot/1fd196cd99f8d58a56d3)
+- [D3.js](http://blockbuilder.org/enjalot/1fd196cd99f8d58a56d3) - A-Frame with D3.js [[Video Tutorial]](https://www.youtube.com/watch?v=Tb2b5nFmmsM) 
 - [Vue.js + TweenMax demo](http://codepen.io/cheapsteak/pen/dGXZjx?editors=101) (by [@cheapsteak])
 
 #### [React](https://github.com/facebook/react)
