@@ -76,6 +76,7 @@ Third-party A-Frame components (of the entity-component system).
 - [Text](https://github.com/ngokevin/aframe-text-component) - Polygonal text
 - [Collider, Explode, Spawner](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
+- [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 canvas as a material texture, with support for extension components.
 
 ### Integration
 
