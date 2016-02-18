@@ -43,6 +43,7 @@ Learn how to use A-Frame.
 
 #### Videos
 
+- ["Building a Virtual Reality Web Experience"](https://air.mozilla.org/josh-carpenter-building-a-virtual-reality-web-experience/) (by [Josh Carpenter](http://twitter.com/jcarpenter)) - A sneak peek of A-Frame before it was released
 - ["A Review of Mozilla's A-Frame WebVR Framework"](https://www.youtube.com/watch?v=4IqBLoJd0ww) (by [AR/VR Magazine](http://www.arvrmagazine.com/))
 - ["Responsive Web Design with A-Frame"](https://www.youtube.com/watch?v=HogJdsepZRo) (by [@alexrkrass])
 - ["Using A-Frame with Epson Moverio and Crosswalk"](https://www.youtube.com/watch?v=Tt-pX1JMt60) (by [Pablo Mendigochea](https://twitter.com/hololeo/)) - Tech talk on building WebVR and VR apps with Crosswalk and A-Frame for the [Epson Moverio](http://www.epson.com/moverio) augmented-reality smart glasses
