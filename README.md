@@ -40,6 +40,7 @@ Learn how to use A-Frame.
 - [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-einstieg)
 - [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-grundlagen)
 - [Introduction to A-Frame](http://www.slideshare.net/ellisonmu/introduction-to-aframe-57170744) - Slides from talk at Mozilla Taipei (by [@daoshengmu])
+- [Build the Virtual Reality Web with A-Frame](http://www.slideshare.net/MozVR/build-the-virtual-reality-web-with-aframe/) - Slides from talk at ForwardJS (by [@ngokevin])
 
 #### Videos
 
@@ -134,7 +135,8 @@ Your contributions and suggestions are heartily welcome. Check out the guideline
 
 [@alexrkrass]: https://github.com/alexrkass
 [@cheapsteak]: https://github.com/cheapsteak/
-[@drawvr]: https://www.reddit.com/user/drawvr
-[@withersc]: https://www.behance.net/chriswithers
 [@daoshengmu]: https://github.com/daoshengmu
+[@drawvr]: https://www.reddit.com/user/drawvr
+[@ngokevin]: https://github.com/ngokevin
+[@withersc]: https://www.behance.net/chriswithers
 [@ybinstock]: http://github.com/ybinstock
