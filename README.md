@@ -49,9 +49,9 @@ Learn how to use A-Frame.
 - ["Responsive Web Design with A-Frame"](https://www.youtube.com/watch?v=HogJdsepZRo) (by [@alexrkrass])
 - ["Using A-Frame with Epson Moverio and Crosswalk"](https://www.youtube.com/watch?v=Tt-pX1JMt60) (by [Pablo Mendigochea](https://twitter.com/hololeo/)) - Tech talk on building WebVR and VR apps with Crosswalk and A-Frame for the [Epson Moverio](http://www.epson.com/moverio) augmented-reality smart glasses
 
-#### Entity-Component System (ECS)
+#### Entity-Component-System (ECS)
 
-Learn about the entity-component system which A-Frame is based on.
+Learn about the entity-component-system pattern which A-Frame is based on.
 
 - [Entity Systems Wiki](http://entity-systems.wikidot.com/)
 - [Wikipedia Entry](https://en.wikipedia.org/wiki/Entity_component_system)
@@ -63,7 +63,7 @@ Learn about the entity-component system which A-Frame is based on.
 
 ### Components
 
-Third-party A-Frame components (of the entity-component system).
+Third-party A-Frame components (of the entity-component-system pattern).
 
 - [Component Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate) - Boilerplate for creating and sharing A-Frame VR components
 - [Along Path](https://jsbin.com/dasefeh/edit?html,output) - Interpolating an entity's position along a path
