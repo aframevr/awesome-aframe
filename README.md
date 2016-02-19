@@ -128,6 +128,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Monument](https://sandbox.donmccurdy.com/vr/monument/) - Monument valley scene exported from [MagicaVoxel](https://ephtracy.github.io/)
 - [Drop](http://drawvr.com/drop/) (by [@drawvr]) - Look down and free-fall.
 - [Aztec Pong](http://meta-meta.github.io/aztec-pong/) - Play Pong floating atop an Aztec monument.
+- [Hello, Pizza!](http://carpedmt.github.io/) - If a pizza spins in a forest and no one is around to eat it, does it make a sound?
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
