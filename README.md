@@ -126,6 +126,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Concert Hall 360°](https://ybinstock.github.io/concert_hall_360/) (by [@ybinstock]) - 360° view of an empty concert hall with Vivaldi’s _The Four Seasons_ playing in the background [[Code]](https://github.com/ybinstock/concert_hall_360)
 - [Where in the World Is Carmen Sandiego?](https://ybinstock.github.io/carmensandiego_360/) (by [@ybinstock]) - A scavenger hunt game inspired by the popular series [[Code]](https://github.com/ybinstock/carmensandiego_360/)
 - [Monument](https://sandbox.donmccurdy.com/vr/monument/) - Monument valley scene exported from [MagicaVoxel](https://ephtracy.github.io/)
+- [Drop](http://drawvr.com/drop/) (by [@drawvr]) - Look down and free-fall.
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
