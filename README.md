@@ -80,7 +80,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 - [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
 - [Text Wrap](https://github.com/maxkrieger/aframe-textwrap-component) - Wrapping text dynamically rendered onto the `draw` component
-- [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Mustache, Nunjucks JS template engines.
+- [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines.
 
 ### Integration
 
@@ -90,7 +90,7 @@ Integration with existing tools, frameworks, and libraries.
 - [aframe-role](https://github.com/Popmotion/aframe-role) - A-Frame with Popmotion for animations, physics, and input tracking
 - [D3.js](http://blockbuilder.org/enjalot/1fd196cd99f8d58a56d3) - A-Frame with D3.js [[Video Tutorial]](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
 - [Vue.js + TweenMax demo](http://codepen.io/cheapsteak/pen/dGXZjx?editors=101) (by [@cheapsteak]) - Example of A-Frame with Vue.js for reactive components
-- [aframe-templating-examples](https://github.com/ngokevin/aframe-templating-examples) - A-Frame with templating engines such as Handlebars.js or mustache.js
+- [aframe-templating-examples](https://github.com/ngokevin/aframe-templating-examples) - A-Frame with templating engines such as Handlebars, mustache, Nunjucks
 
 #### [React](https://github.com/facebook/react)
 
