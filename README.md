@@ -128,10 +128,11 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Cardboard Treasure Hunt](https://i3games.github.io/aframe-cardboard-demo/) (by [Michael Straeubig](https://github.com/i3games/)) - An A-Frame implementation of the [Google Cardboard "Treasure Hunt" demo](https://developers.google.com/cardboard/android/get-started">) [[Code]](https://github.com/i3games/aframe-cardboard-demo/)
 - [Concert Hall 360°](https://ybinstock.github.io/concert_hall_360/) (by [@ybinstock]) - 360° view of an empty concert hall with Vivaldi’s _The Four Seasons_ playing in the background [[Code]](https://github.com/ybinstock/concert_hall_360)
 - [Where in the World Is Carmen Sandiego?](https://ybinstock.github.io/carmensandiego_360/) (by [@ybinstock]) - A scavenger hunt game inspired by the popular series [[Code]](https://github.com/ybinstock/carmensandiego_360/)
-- [Monument](https://sandbox.donmccurdy.com/vr/monument/) - Monument valley scene exported from [MagicaVoxel](https://ephtracy.github.io/)
-- [Drop](http://drawvr.com/drop/) (by [@drawvr]) - Look down and free-fall.
-- [Aztec Pong](http://meta-meta.github.io/aztec-pong/) - Play Pong floating atop an Aztec monument.
-- [Hello, Pizza!](http://carpedmt.github.io/) - If a pizza spins in a forest and no one is around to eat it, does it make a sound?
+- [Monument](https://sandbox.donmccurdy.com/vr/monument/) - [Monument Valley](http://www.monumentvalleygame.com/) scene exported from [MagicaVoxel](https://ephtracy.github.io/) [[Code]](https://github.com/donmccurdy/sandbox-aframe/blob/master/examples/monument/index.html)
+- [Drop](http://drawvr.com/drop/) (by [@drawvr]) - Look down and free-fall
+- [Minecraft Viewer Boilerplate](https://ngokevin.github.io/aframe-minecraft-viewer-boilerplate/) - Boilerplate for viewing [Minecraft](http://minecraft.net/)-[esque](http://www.realtimerendering.com/erich/minecraft/public/mineways/) scenes [[Code]](https://github.com/ngokevin/aframe-minecraft-viewer-boilerplate/)
+- [Aztec Pong](http://meta-meta.github.io/aztec-pong/) - Play Pong floating atop an Aztec monument [[Code]](https://github.com/meta-meta/aztec-pong/)
+- [Hello, Pizza!](http://carpedmt.github.io/) - If a pizza spins in a forest and no one is around to eat it, does it make a sound? [[Cocde]](https://github.com/carpedmt/carpedmt.github.io/)
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
