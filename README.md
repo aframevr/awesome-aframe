@@ -80,6 +80,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 - [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
 - [Text Wrap](https://github.com/maxkrieger/aframe-textwrap-component) - Wrapping text dynamically rendered onto the `draw` component
+- [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Mustache, Nunjucks JS template engines.
 
 ### Integration
 
