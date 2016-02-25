@@ -91,6 +91,7 @@ Integration with existing tools, frameworks, and libraries.
 - [D3.js](http://blockbuilder.org/enjalot/1fd196cd99f8d58a56d3) - A-Frame with D3.js [[Video Tutorial]](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
 - [Vue.js + TweenMax demo](http://codepen.io/cheapsteak/pen/dGXZjx?editors=101) (by [@cheapsteak]) - Example of A-Frame with Vue.js for reactive components
 - [aframe-templating-examples](https://github.com/ngokevin/aframe-templating-examples) - A-Frame with templating engines such as Handlebars, mustache, Nunjucks
+- [SpineFrame](https://github.com/JoshGalvin/SpineFrame/) - Component for 2D sprite animation with [Spine](http://esotericsoftware.com/)
 
 #### [React](https://github.com/facebook/react)
 
