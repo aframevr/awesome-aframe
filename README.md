@@ -48,6 +48,7 @@ Learn how to use A-Frame.
 - ["A Review of Mozilla's A-Frame WebVR Framework"](https://www.youtube.com/watch?v=4IqBLoJd0ww) (by [AR/VR Magazine](http://www.arvrmagazine.com/))
 - ["Responsive Web Design with A-Frame"](https://www.youtube.com/watch?v=HogJdsepZRo) (by [@alexrkrass])
 - ["Using A-Frame with Epson Moverio and Crosswalk"](https://www.youtube.com/watch?v=Tt-pX1JMt60) (by [Pablo Mendigochea](https://twitter.com/hololeo/)) - Tech talk on building WebVR and VR apps with Crosswalk and A-Frame for the [Epson Moverio](http://www.epson.com/moverio) augmented-reality smart glasses
+- ["D3 + 3D: Using d3.js with A-Frame"](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
 
 #### Entity-Component-System (ECS)
 
