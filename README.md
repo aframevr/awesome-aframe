@@ -139,6 +139,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Hello, Pizza!](http://carpedmt.github.io/) - If a pizza spins in a forest and no one is around to eat it, does it make a sound? [[Cocde]](https://github.com/carpedmt/carpedmt.github.io/)
 - [GadgetPlus VR online store](http://vr.gadgetplus.ca/) (by [@drawvr]) - shop in VR for electronics and gifts
 - [Lullabot](http://vr.lullabot.com/) - VR teaser page for [Lullabot](https://www.lullabot.com/), an interactive strategy, design, and development company ([P.S. meet the team](http://vr.lullabot.com/team-photo/))
+- [Random Forest Treasure Hunt](http://www.utopiavr.io/examples/forest/) - Can you find the red cube? Randomly generated forest built with Handlebars template
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
