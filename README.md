@@ -82,7 +82,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
 - [Text Wrap](https://github.com/maxkrieger/aframe-textwrap-component) - Wrapping text dynamically rendered onto the `draw` component
 - [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
-- [Stereo] (https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers, so you can render 3D stereoscopic videos (full and half-dome).
+- [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
 
 ### Integration
 
