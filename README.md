@@ -143,6 +143,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Random Forest Treasure Hunt](http://www.utopiavr.io/examples/forest/) - Can you find the red cube? Randomly generated forest built with Handlebars template
 - [E-commerce Spy Store](http://vr.ispystore.ca/) (by [@drawvr]) - Black & white environment with fire
 - [E-commerce Gallery](http://vr.gadgetplus.ca/) (by [@drawvr]) - Product gallery in a large well-lit building
+- [Living Room](http://drawvr.com/living-room/) (by [@drawvr]) - Watch TV from your luxurious living room by the beach
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
