@@ -147,6 +147,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [E-commerce Gallery](http://vr.gadgetplus.ca/) (by [@drawvr]) - Product gallery in a large well-lit building
 - [Living Room](http://drawvr.com/living-room/) (by [@drawvr]) - Watch TV from your luxurious living room by the beach
 - [Alien Abduction](http://vedm.xyz/abductionvr/) (by [Gabriel de Diego](https://github.com/gdedi001), [Bruno Diaz](https://www.linkedin.com/in/bruno-diaz-265911100), [Joshua Ovieda](https://www.linkedin.com/in/joshua-oviedo-333001117) and  [Jose-Rafael Diaz](https://github.com/nowheyjose)) - Alien Abduction demo
+- [Hello VR](http://pixelz.de/vr/hellovr/) (by [pixelz.de]) - Moody dark scene with cool shadows, reflections ana animated clouds.
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
