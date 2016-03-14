@@ -86,9 +86,9 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
 - [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
 - [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
-- [Interpolation](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer.
-- [HTML Texture](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas.
-- [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors.
+- [Interpolation](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
+- [HTML Texture](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas
+- [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors
 
 ### Integration
 
@@ -153,7 +153,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [32Studios Lounge](http://32studios.magichandsrepair.com/browsertour/lounge/) - Enjoy a lounge with coffee machines, laptops, and VR headsets while grooving to Soundcloud
 - [Mars: An Interactive Journey](https://www.washingtonpost.com/video/mars/public/) - Explore Mars in virtual reality. Published by the Washington Post and created by a group at University of Texas at Austin. Read [their thoughts on A-Frame and WebVR](https://developer.washingtonpost.com/pb/blog/post/2016/03/11/vr-for-all/)
 - [Subreddit gallery](https://www.scenevr.com/r/aww) (by [@scenevr](https://www.scenevr.com/)) - View subreddits as virtual galleries
-
+- [360 Syria](http://360syria.com/) - View the devasatation of barrel bombs in Aleppo, Syria. Created in partnership with [AllJunior](http://junior.io) and Amnesty International UK
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
