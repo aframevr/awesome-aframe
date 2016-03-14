@@ -89,6 +89,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Interpolation](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
 - [HTML Texture](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas
 - [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors
+- [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls/) - Orbit camera around an entity
 
 ### Integration
 
