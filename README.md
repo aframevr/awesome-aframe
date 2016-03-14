@@ -100,6 +100,7 @@ Integration with existing tools, frameworks, and libraries.
 - [Vue.js + TweenMax demo](http://codepen.io/cheapsteak/pen/dGXZjx?editors=101) (by [@cheapsteak]) - Example of A-Frame with Vue.js for reactive components
 - [aframe-templating-examples](https://github.com/ngokevin/aframe-templating-examples) - A-Frame with templating engines such as Handlebars, mustache, Nunjucks
 - [SpineFrame](https://github.com/JoshGalvin/SpineFrame/) - Component for 2D sprite animation with [Spine](http://esotericsoftware.com/)
+- [Meteor](https://github.com/vladbalan/meteor-aframe) - A-Frame with Meteor, a Javascript app framework.
 
 #### [React](https://github.com/facebook/react)
 
