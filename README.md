@@ -90,6 +90,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [HTML Texture](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas
 - [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors
 - [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls/) - Orbit camera around an entity
+- [Universal Controls](https://github.com/donmccurdy/sandbox-aframe/blob/master/src/universal-controls.js) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse, touch alongside physics
 
 ### Integration
 
