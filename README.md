@@ -151,6 +151,8 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Hello VR](http://pixelz.de/vr/hellovr/) (by [@PIXELZ]) - Moody dark scene with cool shadows, reflections ana animated clouds
 - [32Studios Lounge](http://32studios.magichandsrepair.com/browsertour/lounge/) - Enjoy a lounge with coffee machines, laptops, and VR headsets while grooving to Soundcloud
 - [Mars: An Interactive Journey](https://www.washingtonpost.com/video/mars/public/) - Explore Mars in virtual reality. Published by the Washington Post and created by a group at University of Texas at Austin. Read [their thoughts on A-Frame and WebVR](https://developer.washingtonpost.com/pb/blog/post/2016/03/11/vr-for-all/)
+- [Subreddit gallery](https://www.scenevr.com/r/aww) (by [@scenevr](https://www.scenevr.com/)) - View subreddits as virtual galleries
+
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
