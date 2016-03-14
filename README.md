@@ -88,6 +88,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
 - [Interpolation](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer.
 - [HTML Texture](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas.
+- [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors.
 
 ### Integration
 
