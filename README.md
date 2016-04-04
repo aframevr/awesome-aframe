@@ -44,6 +44,7 @@ Learn how to use A-Frame.
 - [Build a Simple First-Person-Shooter Using Components](https://hacks.mozilla.org/2016/03/build-the-virtual-reality-web-with-a-frame/) - Mozilla Hacks post showing off an entity-component-system pattern workflow to build an interactive scene
 - [Relative Positioning in A-Frame](https://medium.com/immersion-for-the-win/relative-positioning-in-a-frame-d839fc0e3249) - How to use `<a-entity>` as a wrapper to create local coordinate spaces
 - [Building Cardboard Dungeon with A-Frame](https://hacks.mozilla.org/2016/03/building-cardboard-dungeon-with-a-frame/) - A case study on building a simple dungeon game usign A-Frame
+- [A-Frame: The Easiest Way to Bring VR to the Web Today](http://www.sitepoint.com/a-frame-the-easiest-way-to-bring-vr-to-the-web-today/) - Getting started on WebVR with A-Frame
 
 #### Videos
 
