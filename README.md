@@ -160,7 +160,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [360 Syria](http://360syria.com/) - View the devastation of barrel bombs in Aleppo, Syria. Created in partnership with [AllJunior](http://junior.io) and Amnesty International UK
 - [PerspecTV VR Player](http://32studios.magichandsrepair.com/designstudio/2016/03/perspectv-vr-player/) - 360-video VR player that allows you to view any 360-video from the web. Compatible with mobile
 - [Escape Game](http://drawvr.com/escape/) (by [@drawvr]) - Can you Escape?
-- 
+
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
 ## License
