@@ -163,6 +163,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [PerspecTV VR Player](http://32studios.magichandsrepair.com/designstudio/2016/03/perspectv-vr-player/) - 360-video VR player that allows you to view any 360-video from the web. Compatible with mobile
 - [Escape Game](http://drawvr.com/escape/) (by [@drawvr]) - Can you Escape?
 - [Escape 2: The Game](http://drawvr.com/escape2/) (by [@drawvr])
+- [Tron World - Carpet Ride](http://alexoviedo999.github.io/vr-carpet-ride/tron-world/) (by [alexoviedo999](http://alexoviedo999.com))
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
