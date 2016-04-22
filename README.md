@@ -16,16 +16,16 @@ A collection of awesome things regarding [A-Frame VR](https://github.com/aframev
 Straight from the horse's mouth.
 
 - [Official Site](https://aframe.io)
+- [Blog](https://aframe.io/blog/)
 - [Team Site](http://mozvr.com)
 - [Examples](https://aframe.io/examples/)
-- [MozVR Codepen](http://codepen.io/team/mozvr/pens/public/)
+- [Codepen](http://codepen.io/team/mozvr/pens/public/)
 
 ### Community
 
 Find human beings using A-Frame.
 
 - [Slack](http://aframevr-slack.herokuapp.com/)
-- [Made with A-Frame Tumblr](http://aframevr.tumblr.com/)
 - [Twitter](https://twitter.com/aframevr)
 - IRC: `irc://irc.mozilla.org:6697/#VR`
 
