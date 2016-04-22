@@ -94,6 +94,18 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors
 - [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls/) - Orbit camera around an entity
 - [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls/) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse, touch alongside physics
+- [Randomizer](https://github.com/ngokevin/aframe-randomizer-components) - Set random values
+- [Mesh Line](https://github.com/andreasplesch/aframe-meshline-component) - Draw thick lines
+- [Fence](https://github.com/atomicguy/aframe-fence-component) - Set boundaries on entity position
+- [Mouse Cursor](https://github.com/mayognaise/aframe-mouse-cursor-component) - Use mouse as a direct pointer
+- [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
+
+### Shaders
+
+- [Draw](https://github.com/mayognaise/aframe-draw-shader) - Render from canvas
+- [HTML](https://github.com/mayognaise/aframe-html-shader) - Render from HTML
+- [Video](https://github.com/mayognaise/aframe-video-shader) - iOS-compatible video material
+- [GIF](https://github.com/mayognaise/aframe-gif-shader) - Render animated GIFs
 
 ### Integration
 
@@ -106,6 +118,7 @@ Integration with existing tools, frameworks, and libraries.
 - [aframe-templating-examples](https://github.com/ngokevin/aframe-templating-examples) - A-Frame with templating engines such as Handlebars, mustache, Nunjucks
 - [SpineFrame](https://github.com/JoshGalvin/SpineFrame/) - Component for 2D sprite animation with [Spine](http://esotericsoftware.com/)
 - [Meteor](https://github.com/vladbalan/meteor-aframe) - A-Frame with [Meteor](https://www.meteor.com/), a JavaScript app framework
+- [Altspace](https://github.com/AltspaceVR/aframe-altspace-component) - Integration with AltspaceVR
 
 #### [React](https://github.com/facebook/react)
 
@@ -161,9 +174,12 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Subreddit gallery](https://www.scenevr.com/r/aww) (by [@scenevr](https://www.scenevr.com/)) - View subreddits as virtual galleries
 - [360 Syria](http://360syria.com/) - View the devastation of barrel bombs in Aleppo, Syria. Created in partnership with [AllJunior](http://junior.io) and Amnesty International UK
 - [PerspecTV VR Player](http://32studios.magichandsrepair.com/designstudio/2016/03/perspectv-vr-player/) - 360-video VR player that allows you to view any 360-video from the web. Compatible with mobile
-- [Escape Game](http://drawvr.com/escape/) (by [@drawvr]) - Can you Escape?
-- [Escape 2: The Game](http://drawvr.com/escape2/) (by [@drawvr])
+- [Escape Game](http://drawvr.com/escape/) (by [@drawvr]) - Can you escape?
+- [Escape Game 2: The Game](http://drawvr.com/escape/) (by [@drawvr]) - Can you escape again?
 - [Tron World - Carpet Ride](http://alexoviedo999.github.io/vr-carpet-ride/tron-world/) (by [alexoviedo999](http://alexoviedo999.com))
+- [SkyIslands VR](http://www.skyislandsvr.com/pages/overwater.html) - Floating islands over water
+- [Voxel Castle](https://www.scenevr.com/scenes/398/view) - Castle created with MagicaVoxel and baked in Blender
+- [Monument Valley Castle](https://www.scenevr.com/scenes/397/view) - Another castle created with MagicaVoxel and baked in Blender
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
