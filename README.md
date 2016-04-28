@@ -100,7 +100,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Fence](https://github.com/atomicguy/aframe-fence-component) - Set boundaries on entity position
 - [Mouse Cursor](https://github.com/mayognaise/aframe-mouse-cursor-component) - Use mouse as a direct pointer
 - [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
-- [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Add a customizable grid helper to your scene, useful for editors
+- [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Helper to add customizable grids to your scene, useful for editors
 
 ### Shaders
 
