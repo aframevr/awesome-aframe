@@ -101,6 +101,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Mouse Cursor](https://github.com/mayognaise/aframe-mouse-cursor-component) - Use mouse as a direct pointer
 - [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
 - [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Helper to add customizable grids to your scene, useful for editors
+- [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
 
 ### Shaders
 
