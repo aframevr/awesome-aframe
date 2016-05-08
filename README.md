@@ -187,6 +187,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Voxel Castle](https://www.scenevr.com/scenes/398/view) - Castle created with MagicaVoxel and baked in Blender
 - [Monument Valley Castle](https://www.scenevr.com/scenes/397/view) - Another castle created with MagicaVoxel and baked in Blender
 - [Lava Cave Game](http://drawvr.com/lava-cave) (by [@drawvr]) - Don't touch the lava
+- [Castle Game](http://drawvr.com/castle) (by [@drawvr]) - Hidden doors and gems
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
