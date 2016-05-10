@@ -31,9 +31,9 @@ Find human beings using A-Frame.
 
 ### Learning
 
-Learn how to use A-Frame.
+Learn about A-Frame.
 
-#### Guides and Tutorials
+#### Articles
 
 - [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
 - [Hands-on With Virtual Reality Using A-Frame, React and Redux](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7#.nce7sfdzl)
@@ -46,15 +46,20 @@ Learn how to use A-Frame.
 - [Building Cardboard Dungeon with A-Frame](https://hacks.mozilla.org/2016/03/building-cardboard-dungeon-with-a-frame/) - A case study on building a simple dungeon game usign A-Frame
 - [A-Frame: The Easiest Way to Bring VR to the Web Today](http://www.sitepoint.com/a-frame-the-easiest-way-to-bring-vr-to-the-web-today/) - Getting started on WebVR with A-Frame
 - [A-Frame 0.2.0 - The Extensible VR Web](https://hacks.mozilla.org/2016/03/a-frame-0-2-0-the-extensible-vr-web/) - Release of A-Frame 0.2.0
-- [Building a Simple Web VR UI with A-Frame](https://blog.neondaylight.com/build-a-simple-web-vr-ui-with-a-frame-a17a2d5b484) - Using cursor and components to swap photospheres.
+- [Building a Simple Web VR UI with A-Frame](https://blog.neondaylight.com/build-a-simple-web-vr-ui-with-a-frame-a17a2d5b484) - Using cursor and components to swap photospheres
+- [Lightmapping on the Server](https://medium.com/@bnolan/lightmapping-on-the-server-5485177ef2fa) - Server-side lightmapping with Blender
+- [Scene Export](https://medium.com/@bnolan/scene-export-89cc1c985ac8) - Exporting A-Frame-based scenes in SceneVR
+- [Using Thingiverse Files in A-Frame](https://medium.com/@bnolan/using-thingiverse-files-in-a-frame-50641ca3f721)
 
-#### Videos
+#### Talks and Videos
 
-- ["Building a Virtual Reality Web Experience"](https://air.mozilla.org/josh-carpenter-building-a-virtual-reality-web-experience/) (by [Josh Carpenter](http://twitter.com/jcarpenter)) - A sneak peek of A-Frame before it was released
-- ["A Review of Mozilla's A-Frame WebVR Framework"](https://www.youtube.com/watch?v=4IqBLoJd0ww) (by [AR/VR Magazine](http://www.arvrmagazine.com/))
-- ["Responsive Web Design with A-Frame"](https://www.youtube.com/watch?v=HogJdsepZRo) (by [@alexrkass])
-- ["Using A-Frame with Epson Moverio and Crosswalk"](https://www.youtube.com/watch?v=Tt-pX1JMt60) (by [Pablo Mendigochea](https://twitter.com/hololeo/)) - Tech talk on building WebVR and VR apps with Crosswalk and A-Frame for the [Epson Moverio](http://www.epson.com/moverio) augmented-reality smart glasses
-- ["D3 + 3D: Using d3.js with A-Frame"](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
+- [Building a Virtual Reality Web Experience](https://air.mozilla.org/josh-carpenter-building-a-virtual-reality-web-experience/) (by [Josh Carpenter](http://twitter.com/jcarpenter)) - A sneak peek of A-Frame before it was released
+- [A Review of Mozilla's A-Frame WebVR Framework](https://www.youtube.com/watch?v=4IqBLoJd0ww) (by [AR/VR Magazine](http://www.arvrmagazine.com/))
+- [Responsive Web Design with A-Frame](https://www.youtube.com/watch?v=HogJdsepZRo) (by [@alexrkass])
+- [Using A-Frame with Epson Moverio and Crosswalk](https://www.youtube.com/watch?v=Tt-pX1JMt60) (by [Pablo Mendigochea](https://twitter.com/hololeo/)) - Tech talk on building WebVR and VR apps with Crosswalk and A-Frame for the [Epson Moverio](http://www.epson.com/moverio) augmented-reality smart glasses
+- [D3 + 3D: Using d3.js with A-Frame](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
+- [Build the Virtual Reality Web with A-Frame](https://www.youtube.com/watch?v=f2pu-oMspLs) - Talk on A-Frame at ForwardJS
+- [VR on the Open Web with A-Frame and WebVR](http://voicesofvr.com/350-vr-on-the-open-web-with-a-frame-and-webvr/) - Voices of VR podcast featuring Josh Carpenter
 
 #### Entity-Component-System (ECS)
 
@@ -103,7 +108,10 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Helper to add customizable grids to your scene, useful for editors
 - [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
 - [Fit Texture](https://github.com/nylki/aframe-fit-texture-component) - Automatically scale entities relative to their texture, so you don't need to set width/height manually
-
+- [Audio Visualizer](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using dancer.js
+- [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Create customizable grids
+- [Entity Generator](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
+- [href](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
 
 ### Shaders
 
@@ -183,13 +191,26 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Escape Game](http://drawvr.com/escape/) - Can you escape? (by [@drawvr])
 - [Escape Game 2: The Game](http://drawvr.com/escape/) - Can you escape again? (by [@drawvr])
 - [Tron World - Carpet Ride](http://alexoviedo999.github.io/vr-carpet-ride/tron-world/) (by [alexoviedo999](http://alexoviedo999.com))
-- [SkyIslands VR](http://www.skyislandsvr.com/pages/overwater.html) - Floating islands over water
+- [OverWater](http://www.skyislandsvr.com/pages/overwater.html) - SkyIslands VR piece.
 - [Voxel Castle](https://www.scenevr.com/scenes/398/view) - Castle created with MagicaVoxel and baked in Blender
 - [Monument Valley Castle](https://www.scenevr.com/scenes/397/view) - Another castle created with MagicaVoxel and baked in Blender
 - [Lava Cave Game](http://drawvr.com/lava-cave) - Don't touch the lava (by [@drawvr])
 - [Castle Game](http://drawvr.com/castle/) (by [@drawvr]) - Hidden doors and gems
+- [Electrocat](http://topanga-band.com/electrocat/index.html) - Groove to Topanga's music
+- [Island](https://sandbox.donmccurdy.com/vr/island/) - Voxel-based island in the ocean
+- [Purple Rain](https://ngokevin.github.io/purple-rain/) - Prince tribute
+- [Green Laser Pointer Store](http://vr.greenlaserpointerstore.com/) - Shop for lasers
+- [Tiny Hands for Trump](http://tinyhandsfortrump.net/) - Donald Trump parody
+- [Starfox](http://ufosnap.com/starfox/) - Fly through a Starfox-themed space
+- [Moon Bowling](http://www.anj.fyi/moonbowling/) - Bowling in space with moons
+- [Moss March](http://www.skyislandsvr.com/pages/mossmarch.html) - SkyIslandsVR piece on a foggy swamp
+- [Space Blob Towers](http://www.skyislandsvr.com/pages/spaceblobtowers.html) - SkyIslandsVR piece on a pointy alien world
+- [Carnival Globe Trees](http://www.skyislandsvr.com/pages/carnivalglobetrees.html) - SkyIslandsVR piece with globe-shaped trees
+- [A-Brush](http://www.anj.fyi/sculpt/) - Doodle in 3D space with WASD and Cardboard cursor
+- [HelloWorldVR](http://georational.github.io/helloWorldVR.html) - Stonehenge after dark
+- [May the 4th Be With You](http://rudyjahchan.com/may4th/) - Star Wars
 
-Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
+Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
 ## License
 
