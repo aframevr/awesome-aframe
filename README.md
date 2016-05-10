@@ -157,7 +157,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Wheel Ride](http://drawvr.com/wheel/) (by [@drawvr])
 - [Equalizer Ride](http://drawvr.com/equalizer/) (by [@drawvr])
 - [Test Scape](http://x627.com/testscape/) (by [Michael Verdi](http://x627.com/directory/))
-- [INFIVERSE](http://infiverse.com/) (by [@drawvr]) Navigate a collection of cool A-Frame sites by walking through rooms and doorways (by [@drawvr])
+- [INFIVERSE](http://infiverse.com/) (by [@drawvr]) Navigate a collection of cool A-Frame sites by walking through rooms and doorways
 - [Cardboard Dungeon](https://chrismwaite.github.io/cardboard-dungeon/) (by [Christopher Waite](https://twitter.com/chrismwaite/)) - A first-person dungeon crawler designed for mobile [[Code]](https://github.com/chrismwaite/cardboard-dungeon/)
 - [Cardboard Treasure Hunt](https://i3games.github.io/aframe-cardboard-demo/) (by [Michael Straeubig](https://github.com/i3games/)) - An A-Frame implementation of the [Google Cardboard "Treasure Hunt" demo](https://developers.google.com/cardboard/android/get-started">) [[Code]](https://github.com/i3games/aframe-cardboard-demo/)
 - [Concert Hall 360°](https://ybinstock.github.io/concert_hall_360/) (by [@ybinstock]) - 360° view of an empty concert hall with Vivaldi’s _The Four Seasons_ playing in the background [[Code]](https://github.com/ybinstock/concert_hall_360)
@@ -167,26 +167,26 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Minecraft Viewer Boilerplate](https://ngokevin.github.io/aframe-minecraft-viewer-boilerplate/) - Boilerplate for viewing [Minecraft](http://minecraft.net/)-[esque](http://www.realtimerendering.com/erich/minecraft/public/mineways/) scenes [[Code]](https://github.com/ngokevin/aframe-minecraft-viewer-boilerplate/)
 - [Aztec Pong](http://meta-meta.github.io/aztec-pong/) - Play Pong floating atop an Aztec monument [[Code]](https://github.com/meta-meta/aztec-pong/)
 - [Hello, Pizza!](http://carpedmt.github.io/) - If a pizza spins in a forest and no one is around to eat it, does it make a sound? [[Code]](https://github.com/carpedmt/carpedmt.github.io/)
-- [GadgetPlus VR online store](http://vr.gadgetplus.ca/) (by [@drawvr]) - shop in VR for electronics and gifts
+- [GadgetPlus VR Online Store](http://vr.gadgetplus.ca/) - Shop in VR for electronics and gifts (by [@drawvr])
 - [Lullabot](http://vr.lullabot.com/) - VR teaser page for [Lullabot](https://www.lullabot.com/), an interactive strategy, design, and development company ([P.S. meet the team](http://vr.lullabot.com/team-photo/))
 - [Random Forest Treasure Hunt](http://www.utopiavr.io/examples/forest/) - Can you find the red cube? Randomly generated forest built with Handlebars template
-- [E-commerce Spy Store](http://vr.ispystore.ca/) (by [@drawvr]) - Black & white environment with fire
-- [E-commerce Gallery](http://vr.gadgetplus.ca/) (by [@drawvr]) - Product gallery in a large well-lit building
-- [Living Room](http://drawvr.com/living-room/) (by [@drawvr]) - Watch TV from your luxurious living room by the beach
+- [E-commerce Spy Store](http://vr.ispystore.ca/) - Black & white environment with fire (by [@drawvr])
+- [E-commerce Gallery](http://vr.gadgetplus.ca/) - Product gallery in a large well-lit building (by [@drawvr])
+- [Living Room](http://drawvr.com/living-room/) - Watch TV from your luxurious living room by the beach (by [@drawvr])
 - [Alien Abduction](http://vedm.xyz/abductionvr/) (by [Gabriel de Diego](https://github.com/gdedi001), [Bruno Diaz](https://www.linkedin.com/in/bruno-diaz-265911100), [Joshua Ovieda](https://www.linkedin.com/in/joshua-oviedo-333001117) and [Jose-Rafael Diaz](https://github.com/nowheyjose)) - Alien Abduction demo
 - [Hello VR](http://pixelz.de/vr/hellovr/) (by [@PIXELZ]) - Moody dark scene with cool shadows, reflections, and animated clouds
 - [32Studios Lounge](http://32studios.magichandsrepair.com/browsertour/lounge/) - Enjoy a lounge with coffee machines, laptops, and VR headsets while grooving to SoundCloud
 - [Mars: An Interactive Journey](https://www.washingtonpost.com/video/mars/public/) - Explore Mars in virtual reality. Published by the Washington Post and created by a group at University of Texas at Austin. Read [their thoughts on A-Frame and WebVR](https://developer.washingtonpost.com/pb/blog/post/2016/03/11/vr-for-all/)
-- [Subreddit gallery](https://www.scenevr.com/r/aww) (by [@scenevr](https://www.scenevr.com/)) - View subreddits as virtual galleries
+- [Subreddit gallery](https://www.scenevr.com/r/aww) - View subreddits as virtual galleries (by [@scenevr])
 - [360 Syria](http://360syria.com/) - View the devastation of barrel bombs in Aleppo, Syria. Created in partnership with [AllJunior](http://junior.io) and Amnesty International UK
 - [PerspecTV VR Player](http://32studios.magichandsrepair.com/designstudio/2016/03/perspectv-vr-player/) - 360-video VR player that allows you to view any 360-video from the web. Compatible with mobile
-- [Escape Game](http://drawvr.com/escape/) (by [@drawvr]) - Can you escape?
-- [Escape Game 2: The Game](http://drawvr.com/escape/) (by [@drawvr]) - Can you escape again?
+- [Escape Game](http://drawvr.com/escape/) - Can you escape? (by [@drawvr])
+- [Escape Game 2: The Game](http://drawvr.com/escape/) - Can you escape again? (by [@drawvr])
 - [Tron World - Carpet Ride](http://alexoviedo999.github.io/vr-carpet-ride/tron-world/) (by [alexoviedo999](http://alexoviedo999.com))
 - [SkyIslands VR](http://www.skyislandsvr.com/pages/overwater.html) - Floating islands over water
 - [Voxel Castle](https://www.scenevr.com/scenes/398/view) - Castle created with MagicaVoxel and baked in Blender
 - [Monument Valley Castle](https://www.scenevr.com/scenes/397/view) - Another castle created with MagicaVoxel and baked in Blender
-- [Lava Cave Game](http://drawvr.com/lava-cave/) (by [@drawvr]) - Don't touch the lava
+- [Lava Cave Game](http://drawvr.com/lava-cave) - Don't touch the lava (by [@drawvr])
 - [Castle Game](http://drawvr.com/castle/) (by [@drawvr]) - Hidden doors and gems
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
@@ -204,3 +204,4 @@ Your contributions and suggestions are heartily welcome. Check out the guideline
 [@withersc]: https://www.behance.net/chriswithers
 [@ybinstock]: http://github.com/ybinstock
 [@PIXELZ]: http://pixelz.de/
+[@scenevr]: https://www.scenevr.com
