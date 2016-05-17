@@ -112,6 +112,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Create customizable grids
 - [Entity Generator](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
 - [href](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
+- [UI Modal](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
 
 ### Shaders
 
