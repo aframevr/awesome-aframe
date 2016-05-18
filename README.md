@@ -210,6 +210,9 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [A-Brush](http://www.anj.fyi/sculpt/) - Doodle in 3D space with WASD and Cardboard cursor
 - [HelloWorldVR](http://georational.github.io/helloWorldVR.html) - Stonehenge after dark
 - [May the 4th Be With You](http://rudyjahchan.com/may4th/) - Star Wars
+- [Pirate](http://drawvr.com/pirate/) (by [@drawvr]) - Cannon balls, knocking down blocks
+- [Mini Golf](http://drawvr.com/minigolf/) (by [@drawvr]) - 9 Holes
+- [Welcome to A-Frame](http://drawvr.com/welcome/) (by [@drawvr]) - Quick introduction to A-Frame
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
