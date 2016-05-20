@@ -213,6 +213,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Pirate](http://drawvr.com/pirate/) (by [@drawvr]) - Cannon balls, knocking down blocks
 - [Mini Golf](http://drawvr.com/minigolf/) (by [@drawvr]) - 9 Holes
 - [Welcome to A-Frame](http://drawvr.com/welcome/) (by [@drawvr]) - Quick introduction to A-Frame
+- [Photo Sphere Diver](https://www.ideaspacevr.org/themes/web-vr-photo-sphere-diver) (by [IdeaSpace](https://www.ideaspacevr.org/)) - Dive into your photo spheres
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
