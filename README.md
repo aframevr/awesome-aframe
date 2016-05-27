@@ -60,6 +60,7 @@ Learn about A-Frame.
 - [D3 + 3D: Using d3.js with A-Frame](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
 - [Build the Virtual Reality Web with A-Frame](https://www.youtube.com/watch?v=f2pu-oMspLs) - Talk on A-Frame at ForwardJS
 - [VR on the Open Web with A-Frame and WebVR](http://voicesofvr.com/350-vr-on-the-open-web-with-a-frame-and-webvr/) - Voices of VR podcast featuring Josh Carpenter
+- [A-Frame: VR for Developers](https://www.youtube.com/watch?v=wRqoSdPZQBY) (by [@dmarcos] and [@ngokevin]) - Talk on A-Frame at [SFHTML5](http://www.meetup.com/sfhtml5/)
 
 #### Entity-Component-System (ECS)
 
@@ -222,9 +223,10 @@ Contributions and suggestions are very welcome. Check out the guidelines and [ma
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
-[@alexrkrass]: https://github.com/alexrkass
+[@alexrkass]: https://github.com/alexrkass
 [@cheapsteak]: https://github.com/cheapsteak/
 [@daoshengmu]: https://github.com/daoshengmu
+[@dmarcos]: https://github.com/dmarcos
 [@drawvr]: https://www.reddit.com/user/drawvr
 [@ngokevin]: https://github.com/ngokevin
 [@withersc]: https://www.behance.net/chriswithers
