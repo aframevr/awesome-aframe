@@ -114,6 +114,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Entity Generator](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
 - [href](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
 - [UI Modal](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
+- [Cubemap](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
 
 ### Shaders
 
