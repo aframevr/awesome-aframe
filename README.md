@@ -216,7 +216,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Mini Golf](http://drawvr.com/minigolf/) (by [@drawvr]) - 9 Holes
 - [Welcome to A-Frame](http://drawvr.com/welcome/) (by [@drawvr]) - Quick introduction to A-Frame
 - [Photo Sphere Diver](https://www.ideaspacevr.org/themes/web-vr-photo-sphere-diver) (by [IdeaSpace](https://www.ideaspacevr.org/)) - Dive into your photo spheres
-- [Sketch VR](http://uniform-futures.github.io/sketch-vr/) (by [@uniformfutures]) -  See your paper doodle in VR
+- [Sketch VR](https://uniform-futures.github.io/sketch-vr/) (by [@uniformfutures]) - Doodle on paper, take a picture, and view it in VR [[Code]](https://github.com/uniform-futures/sketch-vr/)
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
