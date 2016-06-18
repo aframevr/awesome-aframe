@@ -1,6 +1,6 @@
 ## awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome things regarding [A-Frame VR](https://github.com/aframevr/aframe). Easily build WebVR experiences.
+A collection of awesome things regarding [A-Frame](https://github.com/aframevr/aframe), the WebVR framework.
 
 ## Table of Contents
 
@@ -15,8 +15,8 @@ A collection of awesome things regarding [A-Frame VR](https://github.com/aframev
 
 Straight from the horse's mouth.
 
-- [Official Site](https://aframe.io)
 - [Blog](https://aframe.io/blog/)
+- [Official Site](https://aframe.io)
 - [Team Site](http://mozvr.com)
 - [Examples](https://aframe.io/examples/)
 - [Codepen](http://codepen.io/team/mozvr/pens/public/)
@@ -86,10 +86,12 @@ Third-party components (of the entity-component-system pattern).
 - [Audio Visualizer](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using WebAudio API
 - [Broadcast](https://github.com/ngokevin/aframe-broadcast-component) - Multiuser with WebSockets
 - [Collider, Explode, Spawner](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
+- [Crease](https://github.com/andreasplesch/aframe-crease-component) - Creased shading
 - [Cubemap](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
 - [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
 - [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
 - [Entity Generator](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
+- [Event Set](https://github.com/ngokevin/aframe-event-set-component) - Set properties in response to events, replacement for declarative events
 - [Extrude and Lathe](https://github.com/JosePedroDias/aframe-extrude-and-lathe) - Extrude and lathe geometries
 - [FPS Look](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse
 - [Fence](https://github.com/atomicguy/aframe-fence-component) - Set boundaries on entity position
@@ -109,15 +111,25 @@ Third-party components (of the entity-component-system pattern).
 - [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
 - [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls/) - Orbit camera around an entity
 - [Physics](https://github.com/ngokevin/aframe-physics-components) - Rigid-body physics
+- [Polygon](https://github.com/andreasplesch/aframe-polygon-primitive) - n-sided polygons
 - [Proxy Controls](https://proxy-controls.donmccurdy.com) - Connect input devices from your desktop to your mobile phone with WebRTC
 - [Randomizer](https://github.com/ngokevin/aframe-randomizer-components) - Set random values
 - [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors
+- [Star](https://github.com/andreasplesch/aframe-star-component) - 2D stars
 - [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
 - [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
 - [Text Wrap](https://github.com/maxkrieger/aframe-textwrap-component) - Wrapping text dynamically rendered onto the `draw` component
 - [Text](https://github.com/ngokevin/aframe-text-component) - Polygonal text
 - [UI Modal](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
 - [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls/) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse, touch alongside physics
+- [Faceset](https://github.com/andreasplesch/aframe-faceset-component) - Geometry from vertices and faces
+- [glTF](https://github.com/xirvr/aframe-gltf/) - glTF models
+- [Checkpoint Controls](https://github.com/donmccurdy/aframe-extras/blob/master/src/controls/checkpoint-controls.js) - Eased linear locomotion
+- [Height Grid](https://github.com/andreasplesch/aframe-heightgrid-component) - Terrain
+- [Leap Hands](https://github.com/donmccurdy/aframe-leap-hands) - Leap Motion
+- [Particle System](https://github.com/IdeaSpaceVR/aframe-particle-system-component) - Particle systems (e.g., rain, dust, snow, fire)
+- [WebVR Controller](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
+- [Keyboard](https://github.com/richardanaya/aframe-keyboard) - Full VR keyboard for use with WebVR controllers
 
 ### Materials
 
@@ -225,6 +237,21 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Aquila VR](http://www.aquilavr.com/) - Mapping of the universe using actual star data
 - [Plink](http://drawvr.com/plinko/) - Can you make it into the middle slot?
 - [Foosball](http://drawvr.com/foosball/) - Everyone's second favorite tabletop game, with physics
+- [Redwood Dusk](http://www.skyislandsvr.com/pages/redwooddusk.html) - Meditate under nature's giants
+- [Womynography](http://deenakhattab.com/thesis/womynography.html) - An immersive map-based archive of urban women's experiences in Cairo
+- [EVA](http://www.jmvisualcreativity.es/vr_eva/) - Prototype mecha in lava
+- [Space Shark Room](http://liooil.neocities.org/VR_webStuff/room+07/room07.html) - Hinduist shark cage in space
+- [Metal Gear REX](http://www.jmvisualcreativity.es/vr_metal/) - Return to Shadow Moses. SNAKE!
+- [Meditation Orbs](http://www.skyislandsvr.com/pages/meditationorbs.html) - A place to meditate
+- [Welcome](http://drawvr.com/welcome/) - To A-Frame
+- [Vapor Wave](http://liooil.neocities.org/VR_webStuff/vaporWave.html) - Trippy purgatory room
+- [Jump Island](http://www.jmvisualcreativity.es/vr_jump/) - Can you make it to the top?
+- [Roof Escape](http://www.jmvisualcreativity.es/vr_roof/) - Parkour!
+- [TumbVR](http://tumbvr.herokuapp.com/theonlymagicleftisart) - VR gallery for Tumblr
+- [VR Wiki Museum](http://vrwikimuseum.com/wiki/Stegoceras) - Full Wikipedia in VR
+- [Where is Piers Morgan Disliked the Most?](http://almossawi.com/aframe-d3-visualization/demo/) - D3 data visualization
+- [First Citdael](http://www.skyislandsvr.com/pages/firstcitadel.html) - Citadel with flowing waterfalls
+- [Missed Connections](http://armthethinker.github.io/webVR-experiments/5--missed-connections.html) - Visualization of Craigslist "Missed Connections" section
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
