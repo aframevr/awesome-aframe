@@ -60,7 +60,7 @@ Learn about A-Frame.
 - [D3 + 3D: Using d3.js with A-Frame](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
 - [Build the Virtual Reality Web with A-Frame](https://www.youtube.com/watch?v=f2pu-oMspLs) - Talk on A-Frame at ForwardJS
 - [VR on the Open Web with A-Frame and WebVR](http://voicesofvr.com/350-vr-on-the-open-web-with-a-frame-and-webvr/) - Voices of VR podcast featuring Josh Carpenter
-- [A-Frame: VR for Developers](https://www.youtube.com/watch?v=wRqoSdPZQBY) (by [@dmarcos] and [@ngokevin]) - Talk on A-Frame at [SFHTML5](http://www.meetup.com/sfhtml5/)
+- [A-Frame: VR for Developers](https://www.youtube.com/watch?v=wRqoSdPZQBY) - Talk on A-Frame at SFHTML5
 
 #### Entity-Component-System (ECS)
 
@@ -76,47 +76,50 @@ Learn about the entity-component-system pattern which A-Frame is based on.
 
 ### Components
 
-Third-party A-Frame components (of the entity-component-system pattern).
+Third-party components (of the entity-component-system pattern).
 
 - [Component Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate) - Boilerplate for creating and sharing A-Frame VR components
+- [aframe-extras](https://github.com/donmccurdy/aframe-extras) - Don's collection of A-Frame components
+- [k-frame](https://github.com/donmccurdy/aframe-extras) - Kevin's collection of A-Frame components
 - [Along Path](https://jsbin.com/dasefeh/edit?html,output) - Interpolating an entity's position along a path
+- [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
+- [Audio Visualizer](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using WebAudio API
+- [Broadcast](https://github.com/ngokevin/aframe-broadcast-component) - Multiuser with WebSockets
+- [Collider, Explode, Spawner](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
+- [Cubemap](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
+- [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
+- [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
+- [Entity Generator](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
 - [Extrude and Lathe](https://github.com/JosePedroDias/aframe-extrude-and-lathe) - Extrude and lathe geometries
 - [FPS Look](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse
+- [Fence](https://github.com/atomicguy/aframe-fence-component) - Set boundaries on entity position
+- [Firebase](https://github.com/ngokevin/aframe-firebase-component) - Multiuser with Firebase
+- [Fit Texture](https://github.com/nylki/aframe-fit-texture-component) - Automatically scale entities relative to their texture, so you don't need to set width/height manually
+- [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
 - [Gamepad Controls](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
+- [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Create customizable grids
+- [href](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
+- [HTML Texture](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas
+- [Interpolation](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
 - [Layout](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
+- [Mesh Line](https://github.com/andreasplesch/aframe-meshline-component) - Draw thick lines
+- [Mouse Cursor](https://github.com/mayognaise/aframe-mouse-cursor-component) - Use mouse as a direct pointer
 - [No-click Look Controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mousedown + drag
 - [OBJ and MTL Loader](https://github.com/donmccurdy/aframe-obj-loader-component) - Loader for .OBJ models and .MTL materials
+- [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
+- [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls/) - Orbit camera around an entity
 - [Physics](https://github.com/ngokevin/aframe-physics-components) - Rigid-body physics
 - [Proxy Controls](https://proxy-controls.donmccurdy.com) - Connect input devices from your desktop to your mobile phone with WebRTC
-- [Text](https://github.com/ngokevin/aframe-text-component) - Polygonal text
-- [Collider, Explode, Spawner](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
-- [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
-- [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
-- [Text Wrap](https://github.com/maxkrieger/aframe-textwrap-component) - Wrapping text dynamically rendered onto the `draw` component
-- [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
-- [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
-- [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
-- [Interpolation](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
-- [HTML Texture](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas
-- [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors
-- [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls/) - Orbit camera around an entity
-- [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls/) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse, touch alongside physics
 - [Randomizer](https://github.com/ngokevin/aframe-randomizer-components) - Set random values
-- [Mesh Line](https://github.com/andreasplesch/aframe-meshline-component) - Draw thick lines
-- [Fence](https://github.com/atomicguy/aframe-fence-component) - Set boundaries on entity position
-- [Mouse Cursor](https://github.com/mayognaise/aframe-mouse-cursor-component) - Use mouse as a direct pointer
-- [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
-- [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Helper to add customizable grids to your scene, useful for editors
-- [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
-- [Fit Texture](https://github.com/nylki/aframe-fit-texture-component) - Automatically scale entities relative to their texture, so you don't need to set width/height manually
-- [Audio Visualizer](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using dancer.js
-- [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Create customizable grids
-- [Entity Generator](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
-- [href](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
+- [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors
+- [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
+- [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
+- [Text Wrap](https://github.com/maxkrieger/aframe-textwrap-component) - Wrapping text dynamically rendered onto the `draw` component
+- [Text](https://github.com/ngokevin/aframe-text-component) - Polygonal text
 - [UI Modal](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
-- [Cubemap](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
+- [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls/) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse, touch alongside physics
 
-### Shaders
+### Materials
 
 - [Draw](https://github.com/mayognaise/aframe-draw-shader) - Render from canvas
 - [HTML](https://github.com/mayognaise/aframe-html-shader) - Render from HTML
@@ -217,6 +220,11 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Welcome to A-Frame](http://drawvr.com/welcome/) (by [@drawvr]) - Quick introduction to A-Frame
 - [Photo Sphere Diver](https://www.ideaspacevr.org/themes/web-vr-photo-sphere-diver) (by [IdeaSpace](https://www.ideaspacevr.org/)) - Dive into your photo spheres
 - [Sketch VR](https://uniform-futures.github.io/sketch-vr/) (by [@uniformfutures]) - Doodle on paper, take a picture, and view it in VR [[Code]](https://github.com/uniform-futures/sketch-vr/)
+- [Celestial Dancers](http://celestial.elliotplant.com/) - An orbital mechanics simulation of celestial bodies
+- [Dark Lotus](http://www.skyislandsvr.com/pages/darklotus.html) - Lotus flowers on churning water
+- [Aquila VR](http://www.aquilavr.com/) - Mapping of the universe using actual star data
+- [Plink](http://drawvr.com/plinko/) - Can you make it into the middle slot?
+- [Foosball](http://drawvr.com/foosball/) - Everyone's second favorite tabletop game, with physics
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
