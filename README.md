@@ -122,6 +122,7 @@ Third-party components (of the entity-component-system pattern).
 - [Text](https://github.com/ngokevin/aframe-text-component) - Polygonal text
 - [UI Modal](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
 - [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls/) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse, touch alongside physics
+- [Video Controls] (https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
 - [Faceset](https://github.com/andreasplesch/aframe-faceset-component) - Geometry from vertices and faces
 - [glTF](https://github.com/xirvr/aframe-gltf/) - glTF models
 - [Checkpoint Controls](https://github.com/donmccurdy/aframe-extras/blob/master/src/controls/checkpoint-controls.js) - Eased linear locomotion
