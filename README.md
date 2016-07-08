@@ -80,7 +80,7 @@ Third-party components (of the entity-component-system pattern).
 
 - [Component Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate) - Boilerplate for creating and sharing A-Frame VR components
 - [aframe-extras](https://github.com/donmccurdy/aframe-extras) - Don's collection of A-Frame components
-- [k-frame](https://github.com/donmccurdy/aframe-extras) - Kevin's collection of A-Frame components
+- [k-frame](https://github.com/ngokevin/k-frame) - Kevin's collection of A-Frame components
 - [Along Path](https://jsbin.com/dasefeh/edit?html,output) - Interpolating an entity's position along a path
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 - [Audio Visualizer](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using WebAudio API
