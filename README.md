@@ -132,6 +132,7 @@ Third-party components (of the entity-component-system pattern).
 - [WebVR Controller](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
 - [Keyboard](https://github.com/richardanaya/aframe-keyboard) - Full VR keyboard for use with WebVR controllers
 - [Bmfont](https://github.com/bryik/aframe-bmfont-text-component) - Renders bitmap/SDF fonts for high-quality 2D text
+- [Vive Cursor](https://github.com/bryik/aframe-vive-cursor-component) - A cursor for HTC Vive controllers
 
 ### Materials
 
