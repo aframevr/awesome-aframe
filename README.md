@@ -256,6 +256,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [First Citdael](http://www.skyislandsvr.com/pages/firstcitadel.html) - Citadel with flowing waterfalls
 - [Missed Connections](http://armthethinker.github.io/webVR-experiments/5--missed-connections.html) - Visualization of Craigslist "Missed Connections" section
 - [Aeon](http://aeon.horoman.com/) (by [@h0r0man]) - Aeon is a 3D environment with VR support, where the user runs an island that tells about the prequel to the main story of Aeon.
+- [SlideAmaze](http://slideamaze.com/) - Turns your slideshow presentation [into a 3D maze](http://fouryears.eu/2016/07/27/slide-a-maze/).
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
