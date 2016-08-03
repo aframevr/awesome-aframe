@@ -61,6 +61,7 @@ Learn about A-Frame.
 - [Build the Virtual Reality Web with A-Frame](https://www.youtube.com/watch?v=f2pu-oMspLs) - Talk on A-Frame at ForwardJS
 - [VR on the Open Web with A-Frame and WebVR](http://voicesofvr.com/350-vr-on-the-open-web-with-a-frame-and-webvr/) - Voices of VR podcast featuring Josh Carpenter
 - [A-Frame: VR for Developers](https://www.youtube.com/watch?v=wRqoSdPZQBY) - Talk on A-Frame at SFHTML5
+- [Introducing WebVR with A-Frame at RunJumpDev July 2016 Monthly Meeting](https://www.youtube.com/watch?v=hHzUobbVAxQ) - Talk on WebVR (by [@nickwarner])
 
 #### Entity-Component-System (ECS)
 
@@ -277,3 +278,4 @@ Contributions and suggestions are very welcome. Check out the guidelines and [ma
 [@scenevr]: https://www.scenevr.com
 [@uniformfutures]: https://github.com/uniform-futures
 [@h0r0man]: https://github.com/h0r0man
+[@nickwarner]: https://twitter.com/nickwarner
