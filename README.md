@@ -110,8 +110,7 @@ Third-party components (of the entity-component-system pattern).
 - [No-click Look Controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mousedown + drag
 - [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
 - [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls/) - Orbit camera around an entity
-- [Physics (ngokevin)](https://github.com/ngokevin/aframe-physics-components) - Rigid-body physics using Cannon.js
-- [Physics (donmccurdy)](https://github.com/donmccurdy/aframe-extras/tree/master/src/physics) - Rigid-body physics using Cannon.js
+- [Physics](https://github.com/donmccurdy/aframe-extras/tree/master/src/physics) - Rigid-body physics using Cannon.js
 - [Physics + Vive Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/misc) - `grab` and `sphere-collider` components for combining Vive controllers with aframe-extras.physics
 - [PLY Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.PLY` models, wrapping THREE.PLYLoader
 - [Polygon](https://github.com/andreasplesch/aframe-polygon-primitive) - n-sided polygons
