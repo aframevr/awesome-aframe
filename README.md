@@ -77,7 +77,7 @@ Learn about the entity-component-system pattern which A-Frame is based on.
 
 ### Components
 
-Third-party components (of the entity-component-system pattern).
+Third-party components (of the entity-component-system pattern). To create and share a new A-Frame VR component, see the [Component Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate).
 
 - [Along Path](https://jsbin.com/dasefeh/edit?html,output) - Interpolating an entity's position along a path
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
@@ -86,7 +86,6 @@ Third-party components (of the entity-component-system pattern).
 - [Broadcast](https://github.com/ngokevin/aframe-broadcast-component) - Multiuser with WebSockets
 - [Checkpoint Controls](https://github.com/donmccurdy/aframe-extras/blob/master/src/controls/checkpoint-controls.js) - Eased linear locomotion between designated hotspots
 - [Collider, Explode, Spawner](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
-- [Component Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate) - Boilerplate for creating and sharing A-Frame VR components
 - [Crease](https://github.com/andreasplesch/aframe-crease-component) - Creased shading
 - [Cubemap](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
 - [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
