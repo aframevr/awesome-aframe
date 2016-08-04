@@ -108,19 +108,24 @@ Third-party components (of the entity-component-system pattern).
 - [Mesh Line](https://github.com/andreasplesch/aframe-meshline-component) - Draw thick lines
 - [Mouse Cursor](https://github.com/mayognaise/aframe-mouse-cursor-component) - Use mouse as a direct pointer
 - [No-click Look Controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mousedown + drag
-- [OBJ and MTL Loader](https://github.com/donmccurdy/aframe-obj-loader-component) - Loader for .OBJ models and .MTL materials
 - [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
 - [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls/) - Orbit camera around an entity
-- [Physics](https://github.com/ngokevin/aframe-physics-components) - Rigid-body physics
+- [Physics (ngokevin)](https://github.com/ngokevin/aframe-physics-components) - Rigid-body physics using Cannon.js
+- [Physics (donmccurdy)](https://github.com/donmccurdy/aframe-extras/tree/master/src/physics) - Rigid-body physics using Cannon.js
+- [Physics + Vive Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/misc) - `grab` and `sphere-collider` components for combining Vive controllers with aframe-extras.physics
+- [PLY Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.PLY` models, wrapping THREE.PLYLoader
 - [Polygon](https://github.com/andreasplesch/aframe-polygon-primitive) - n-sided polygons
 - [Proxy Controls](https://proxy-controls.donmccurdy.com) - Connect input devices from your desktop to your mobile phone with WebRTC
 - [Randomizer](https://github.com/ngokevin/aframe-randomizer-components) - Set random values
 - [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors
+- [Shadows](https://github.com/donmccurdy/aframe-extras/tree/master/src/shadows) - Realtime shadows 
 - [Star](https://github.com/andreasplesch/aframe-star-component) - 2D stars
 - [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
 - [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
 - [Text Wrap](https://github.com/maxkrieger/aframe-textwrap-component) - Wrapping text dynamically rendered onto the `draw` component
 - [Text](https://github.com/ngokevin/aframe-text-component) - Polygonal text
+- [THREE Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.json` models, wrapping THREE.JSONLoader and THREE.ObjectLoader
+- [Tube](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-tube.js) - Cylindrical primitive that shapes itself to a given path
 - [UI Modal](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
 - [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls/) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse, touch alongside physics
 - [Video Controls] (https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
@@ -128,7 +133,7 @@ Third-party components (of the entity-component-system pattern).
 - [glTF](https://github.com/xirvr/aframe-gltf/) - glTF models
 - [Checkpoint Controls](https://github.com/donmccurdy/aframe-extras/blob/master/src/controls/checkpoint-controls.js) - Eased linear locomotion
 - [Height Grid](https://github.com/andreasplesch/aframe-heightgrid-component) - Terrain
-- [Leap Hands](https://github.com/donmccurdy/aframe-leap-hands) - Leap Motion
+- [Leap Hands](https://github.com/openleap/aframe-leap-hands) - Leap Motion
 - [Particle System](https://github.com/IdeaSpaceVR/aframe-particle-system-component) - Particle systems (e.g., rain, dust, snow, fire)
 - [WebVR Controller](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
 - [Keyboard](https://github.com/richardanaya/aframe-keyboard) - Full VR keyboard for use with WebVR controllers
