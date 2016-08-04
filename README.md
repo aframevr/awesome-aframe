@@ -79,39 +79,47 @@ Learn about the entity-component-system pattern which A-Frame is based on.
 
 Third-party components (of the entity-component-system pattern).
 
-- [Component Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate) - Boilerplate for creating and sharing A-Frame VR components
-- [aframe-extras](https://github.com/donmccurdy/aframe-extras) - Don's collection of A-Frame components
-- [k-frame](https://github.com/ngokevin/k-frame) - Kevin's collection of A-Frame components
 - [Along Path](https://jsbin.com/dasefeh/edit?html,output) - Interpolating an entity's position along a path
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 - [Audio Visualizer](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using WebAudio API
+- [Bmfont](https://github.com/bryik/aframe-bmfont-text-component) - Renders bitmap/SDF fonts for high-quality 2D text
 - [Broadcast](https://github.com/ngokevin/aframe-broadcast-component) - Multiuser with WebSockets
+- [Checkpoint Controls](https://github.com/donmccurdy/aframe-extras/blob/master/src/controls/checkpoint-controls.js) - Eased linear locomotion between designated hotspots
 - [Collider, Explode, Spawner](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
+- [Component Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate) - Boilerplate for creating and sharing A-Frame VR components
 - [Crease](https://github.com/andreasplesch/aframe-crease-component) - Creased shading
 - [Cubemap](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
 - [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
 - [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
 - [Entity Generator](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
 - [Event Set](https://github.com/ngokevin/aframe-event-set-component) - Set properties in response to events, replacement for declarative events
+- [Extras](https://github.com/donmccurdy/aframe-extras) - Don's collection of A-Frame components
 - [Extrude and Lathe](https://github.com/JosePedroDias/aframe-extrude-and-lathe) - Extrude and lathe geometries
-- [FPS Look](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse
+- [Faceset](https://github.com/andreasplesch/aframe-faceset-component) - Geometry from vertices and faces
 - [Fence](https://github.com/atomicguy/aframe-fence-component) - Set boundaries on entity position
 - [Firebase](https://github.com/ngokevin/aframe-firebase-component) - Multiuser with Firebase
 - [Fit Texture](https://github.com/nylki/aframe-fit-texture-component) - Automatically scale entities relative to their texture, so you don't need to set width/height manually
-- [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
+- [FPS Look](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse
 - [Gamepad Controls](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
+- [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
+- [glTF](https://github.com/xirvr/aframe-gltf/) - glTF models
 - [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Create customizable grids
+- [Height Grid](https://github.com/andreasplesch/aframe-heightgrid-component) - Terrain
 - [href](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
 - [HTML Texture](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas
 - [Interpolation](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
+- [k-frame](https://github.com/ngokevin/k-frame) - Kevin's collection of A-Frame components
+- [Keyboard](https://github.com/richardanaya/aframe-keyboard) - Full VR keyboard for use with WebVR controllers
 - [Layout](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
+- [Leap Hands](https://github.com/openleap/aframe-leap-hands) - Leap Motion
 - [Mesh Line](https://github.com/andreasplesch/aframe-meshline-component) - Draw thick lines
 - [Mouse Cursor](https://github.com/mayognaise/aframe-mouse-cursor-component) - Use mouse as a direct pointer
 - [No-click Look Controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mousedown + drag
 - [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
 - [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls/) - Orbit camera around an entity
-- [Physics](https://github.com/donmccurdy/aframe-extras/tree/master/src/physics) - Rigid-body physics using Cannon.js
+- [Particle System](https://github.com/IdeaSpaceVR/aframe-particle-system-component) - Particle systems (e.g., rain, dust, snow, fire)
 - [Physics + Vive Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/misc) - `grab` and `sphere-collider` components for combining Vive controllers with aframe-extras.physics
+- [Physics](https://github.com/donmccurdy/aframe-extras/tree/master/src/physics) - Rigid-body physics using Cannon.js
 - [PLY Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.PLY` models, wrapping THREE.PLYLoader
 - [Polygon](https://github.com/andreasplesch/aframe-polygon-primitive) - n-sided polygons
 - [Proxy Controls](https://proxy-controls.donmccurdy.com) - Connect input devices from your desktop to your mobile phone with WebRTC
@@ -128,16 +136,8 @@ Third-party components (of the entity-component-system pattern).
 - [UI Modal](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
 - [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls/) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse + pointerlock, touch-to-move, with physics compatibility
 - [Video Controls] (https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
-- [Faceset](https://github.com/andreasplesch/aframe-faceset-component) - Geometry from vertices and faces
-- [glTF](https://github.com/xirvr/aframe-gltf/) - glTF models
-- [Checkpoint Controls](https://github.com/donmccurdy/aframe-extras/blob/master/src/controls/checkpoint-controls.js) - Eased linear locomotion between designated hotspots
-- [Height Grid](https://github.com/andreasplesch/aframe-heightgrid-component) - Terrain
-- [Leap Hands](https://github.com/openleap/aframe-leap-hands) - Leap Motion
-- [Particle System](https://github.com/IdeaSpaceVR/aframe-particle-system-component) - Particle systems (e.g., rain, dust, snow, fire)
-- [WebVR Controller](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
-- [Keyboard](https://github.com/richardanaya/aframe-keyboard) - Full VR keyboard for use with WebVR controllers
-- [Bmfont](https://github.com/bryik/aframe-bmfont-text-component) - Renders bitmap/SDF fonts for high-quality 2D text
 - [Vive Cursor](https://github.com/bryik/aframe-vive-cursor-component) - A cursor for HTC Vive controllers
+- [WebVR Controller](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
 
 ### Materials
 
