@@ -124,7 +124,7 @@ Third-party components (of the entity-component-system pattern). To create and s
 - [Proxy Controls](https://proxy-controls.donmccurdy.com) - Connect input devices from your desktop to your mobile phone with WebRTC
 - [Randomizer](https://github.com/ngokevin/aframe-randomizer-components) - Set random values
 - [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors
-- [Shadows](https://github.com/donmccurdy/aframe-extras/tree/master/src/shadows) - Realtime shadows 
+- [Shadows](https://github.com/donmccurdy/aframe-extras/tree/master/src/shadows) - Realtime shadows
 - [Star](https://github.com/andreasplesch/aframe-star-component) - 2D stars
 - [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
 - [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
@@ -134,9 +134,16 @@ Third-party components (of the entity-component-system pattern). To create and s
 - [Tube](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-tube.js) - Cylindrical primitive that shapes itself to a given path
 - [UI Modal](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
 - [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls/) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse + pointerlock, touch-to-move, with physics compatibility
-- [Video Controls] (https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
+- [Video Controls](https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
 - [Vive Cursor](https://github.com/bryik/aframe-vive-cursor-component) - A cursor for HTC Vive controllers
 - [WebVR Controller](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
+- [Look At and Billboard](https://github.com/blairmacintyre/aframe-look-at-billboard-component) (by [@blairmacintyre]) - Component to tell an entity to face another entity, or to face the camera.
+- [Animation](https://ngokevin.github.io/aframe-animation-component/) (by [@ngokevin]) - New and improved animation system using components. [[Code](https://github.com/ngokevin/aframe-animation-component)]
+- [ChartBuilder](https://github.com/impronunciable/aframe-chartbuilder-component) (by [@impronunciable]) - A component for using [ChartBuilder](http://quartz.github.io/Chartbuilder/) charts.
+- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) (by [@ngokevin]) -  CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
+- [Stereo Cube](https://github.com/wallabyway/aframe-stereocube) (by [@mkeblx]) - A component for stereo cubemap textures (i.e., left and right eye textures).
+- [Trigger Box](https://github.com/Utopiah/aframe-triggerbox-component) (by [@utopiah]) - A component that emits an event when it enters or leaves a predefined area.
+- [L-System](https://github.com/nylki/aframe-lsystem-component) (by [@nylk]) - A component for rendering [Lindenmayer](https://en.wikipedia.org/wiki/L-system) systems.
 
 ### Materials
 
@@ -158,6 +165,8 @@ Integration with existing tools, frameworks, and libraries.
 - [Meteor](https://github.com/vladbalan/meteor-aframe) - A-Frame with [Meteor](https://www.meteor.com/), a JavaScript app framework
 - [Altspace](https://github.com/AltspaceVR/aframe-altspace-component) - Integration with AltspaceVR
 - [IdeaSpace](https://github.com/IdeaSpaceVR/IdeaSpace) - IdeaSpace CMS for the virtual reality web
+- [Angular 2 Boilerplate](https://github.com/brakmic/Angular_VRDemo) (by [@brakmic]) - An environment for developing WebVR apps with Angular 2 with A-Frame.
+- [Drupal](https://www.drupal.org/project/aframe) - Drupal module for integration with A-Frame.
 
 #### [React](https://github.com/facebook/react)
 
@@ -263,7 +272,45 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Aeon](http://aeon.horoman.com/) (by [@h0r0man]) - Aeon is a 3D environment with VR support, where the user runs an island that tells about the prequel to the main story of Aeon.
 - [SlideAmaze](http://slideamaze.com/) - Turns your slideshow presentation [into a 3D maze](http://fouryears.eu/2016/07/27/slide-a-maze/).
 - [A-Frame AR](https://github.com/autonome/aframe-ar) (by [@dietrich]) - Experimenting with AR using A-Frame and getUserMedia.
-- [Outside Lands VR](https://ngokevin.github.io/aframe-magicavoxel-projects/outsidelands/) (by [@andgokevin]) - VR preview of the San Francisco Outside Lands music festival.
+- [Outside Lands VR](https://ngokevin.github.io/aframe-magicavoxel-projects/outsidelands/) (by [@ngokevin]) - VR preview of the San Francisco Outside Lands music festival.
+- [Home/Hope](https://homehope.corriere.it/) (by [@FulvioRomanin])- Narrated journalism piece about humanitarian work in South Sudan. Featured on Italy’s top news site.
+- [RunJumpDevSlides](http://webvr-demos-nikolaiwarner.c9users.io:8081/) (by [@nickwarner]) - Virtual slidedeck for an A-Frame talk at RunJumpDev.
+- [Multiplayer Tic Tac Toe](http://jsbin.com/janevom/edit?html,output) (by [@utopi0ah]) - Prototype of networked Vives playing Tic Tac Toe. [[Video](https://www.youtube.com/watch?v=vGjIWwozOU4)]
+- [30 Days of WebVR](http://codepen.io/collection/AKkywv/) (by [@davatron5000]) - One order of A-Frame and WebVR per day, all on Codepen.
+- [Dominoes](https://bryik.github.io/aframe-dominoes/) (by [@bryik_ws]) - Demonstration of HTC Vive with physics using dominoes. [[Code](https://github.com/bryik/aframe-dominoes/blob/master/index.html), [Video](https://www.youtube.com/watch?v=gU-P-56kAnI)]
+- [Ball Throw](https://bryik.github.io/aframe-ball-throw/) (by [@bryik_ws]) -  Throw balls at blocks using Vive controllers and [Don McCurdy’s](https://twitter.com/donrmccurdy) physics. [[Code](https://github.com/bryik/aframe-ball-throw)]
+- [Terrain Model Component](https://bryik.github.io/aframe-terrain-model-component/) (by [@bryik_ws]) - Generating terrains using TerrainLoader used in LA Times’ Discovering Gale Crater. [[Code](https://github.com/bryik/aframe-terrain-model-component)]
+- [Lyrics VR](https://gurumukhi.github.io/vr-ram/demos/lyricsVR/index.html) (by [@ram_gurumukhi]) - Watch lyrics fly past you in time with the music. [[Code](https://github.com/gurumukhi/vr-ram/tree/gh-pages/demos/lyricsVR)]
+- [Rubik's Cube](http://tushararora.github.io/rubiks-cube/) (by [@tusharaoljgd]) - Spinning Rubik’s Cube featuring a multicolored-cube component.[[Code](https://github.com/tushararora/tushararora.github.io/tree/master/rubiks-cube)]
+- [Shopify - City Shoes](https://shopifyvr.myshopify.com/) (by [@shopify]) -  Shop in VR! Pick up some trainers and see if they match your swagger.
+- [Vrogger](https://carbonfive.github.io/vrogger/) (by [@carbonfive]) - Frogger in VR. Hop and get across the road.
+- [A-Frame Statistics Dashboard](https://ngokevin.github.io/aframe-statistics-dashboard/) (by [@ngokevin]) - d3.js calendar heatmap of A-Frame GitHub Stargazers per day.
+- [Pokemon Stadium](https://ngokevin.github.io/aframe-magicavoxel-projects/pokemon/) (by [@ngokevin]) - Face off against Charizard on the Pokemon Stadium.
+- [Design Portfolio](http://eddiebarkman.github.io/VR-Design-Portfolio/) (by [@VRWebIO]) - About pages in 3D space with neat transitions.
+- [Stand at the Edge of Geologic Time](http://apps.npr.org/rockymountain-vr/) (by [@tylrfishr]) - A virtual reality tour from NPR of Rocky Mountain National Park. [[Code](https://github.com/nprapps/rockymountain)]
+- [MagicaVoxel: A-Frame](https://ngokevin.github.io/aframe-magicavoxel-projects/aframe/) (by [@ngokevin]) - A-Frame in MagicaVoxel in A-Frame.
+- [Earth Rover](https://www.hackster.io/RONDAGDAG/control-your-earth-rover-in-virtual-reality-15a9fe) (by [@rondagdag]) - Controlling a physical robot from outer space using Intel Edison and Leap Motion.
+- [Imagined Reality](https://bryik.github.io/aframe-metaverse-contest/examples/imagined-reality.html) (by [@bryik_ws]) - Stereoscopic cubemaps, taken from winners of OTOY’s Render the Metaverse context.
+- [Star Crossed](http://vrweb.io/p/starCrossed/) (by [@VRWebIO]) - Piano and stars.
+- [Vive Starter](https://github.com/richardanaya/aframe-vive-starter) (by [@richardanaya]) - Simple boilerplate for a Vive project using the third-party aframe-webvr-controller component.
+- [Procedural Forest](http://nylki.github.io/aframe-lsystem-component/forrest/) (by [@nylk]) - A procedural forest with procedural trees using the [L-System Component](https://github.com/nylki/aframe-lsystem-component).
+- [MagicaVoxel: City](https://ngokevin.github.io/aframe-magicavoxel-projects/city/) (by [@ngokevin]) - A city built using [MagicaVoxel](https://ephtracy.github.io/). [[Tutorial](https://github.com/ngokevin/aframe-magicavoxel-projects#tutorial)]
+- [Sad Island](http://www.skyislandsvr.com/pages/SadIsland.html) (by [@EricaLayton]) - An island in the sea. Strangely you feel like you are being watched.
+- [iStaging LiveTour](http://vrviewer.istaging.co/#!/684173) (by [@alexcheninfo]) - 360 and virtual tours with a neat mini-map.
+- [Tanks](http://www.bubbletanks.biz/) (by [@ourvrisrealerthanyours]) - A multiplayer tank game. [[Code](https://github.com/ourvrisrealerthanyours/tanks)]
+- [Choose Your Own VR](https://github.com/dannielle/tinier-house) (by [@dirosaur]) - Which cup will you choose?
+- [Cat Garden](http://dirosa.me/cat-garden/) (by [@dirosaur]) - Float through a space of cats and balloons.
+- [Virtual Symphony](https://flexingdream.github.io/aframe_demo/) (by [@flexingdream]) - Experience music in a new way on this symphonic trip through Martin Garrix and Third Party - Lions in the Wild.
+- [Brexit in Berlin](https://popathon.github.io/Gexit/hq.html) (by [@juliakarmo]) - Listen to Europeans talk and react to Brexit.
+- [Virtual Symphony II](https://musicpua.firebaseapp.com/) (by [@flexingdream]) - Fly through particles, eagles, and horses while listening to Chainsmokers - Inside Out (Remix).
+- [VRVisitors](http://georational.github.io/VRVisitors/VRVisitors.html) (by [@georational]) - Multi-user gallery of photogrammetric museum artifacts.
+- [Head-Tracked Transformations](http://armthethinker.github.io/webVR-experiments/6--head-tracked-transformations.html) (by [@armthethinker]) -  VR UX prototype of transforming objects’ orientations with your head to enhance VR experiences that don’t have positional tracking. Read the instructions listed at [#6](http://armthethinker.github.io/webVR-experiments/). [[Code](https://github.com/armthethinker/webVR-experiments)]
+- [SFMTA Van Ness BRT Model](https://brt-webvr-fjrtyyjbhf.now.sh/vn-geary.html) (by [@kfarr]) - Model of the new Bus Rapid Transit project in San Francisco.
+- [Virtual Reality Music Player](https://young-refuge-92841.herokuapp.com/) (by [@SebScholl]) - WebVR music player in space using the Spotify API. [[Code](https://github.com/sebscholl/koo-WebVR)]
+- [Weather Room](http://weatherroom.herokuapp.com/) (by [@SebScholl]) - What’s the forecast for WebVR? Sunny with no chance of rain. [[Code](https://github.com/sebscholl/weatherroom)]
+- [Bullets](https://twitter.com/fernandojsg/status/740685191581175810) (by [@fernandojsg]) - Ever wanted to feel like Lara Croft?
+- [A-Frame Painter](https://twitter.com/fernandojsg/status/739967255098851328/photo/1) (by [@fernandojsg]) - Using geometry instead of screenspace lines.
+- [CinemVR Design Prototype](http://valentin.design/vr) (by [@LeBinoclard]) - Design prototype of a VR cinema.
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
@@ -286,4 +333,31 @@ Contributions and suggestions are very welcome. Check out the guidelines and [ma
 [@h0r0man]: https://github.com/h0r0man
 [@nickwarner]: https://twitter.com/nickwarner
 [@dietrich]: https://twitter.com/dietrich
-[@andgokevin]: https://twitter.com/andgokevin
+[@bryik_ws]: https://twitter.com/bryik_ws
+[@ram_gurumukhi]: https://twitter.com/ram_gurumukhi
+[@tusharaoljgd]: https://twitter.com/tusharaoljgd
+[@FulvioRomanin]: https://twitter.com/FulvioRomanin
+[@utopiah]: https://twitter.com/utopiah
+[@davatron5000]: https://twitter.com/davatron5000
+[@blairmacintyre]: https://github.com/blairmacintyre
+[@shopify]: https://twitter.com/shopify
+[@carbonfive]: https://twitter.com/carbonfive
+[@VRWebIO]: https://twitter.com/VRWebIO
+[@tylrfishr]: https://twitter.com/tylrfishr
+[@rondagdag]: https://twitter.com/rondagdag
+[@richardanaya]: https://github.com/richardanaya
+[@nylk]: https://twitter.com/nylk
+[@EricaLayton]: https://twitter.com/EricaLayton
+[@impronunciable]: https://twitter.com/impronunciable
+[@brakmic]: https://twitter.com/brakmic
+[@alexcheninfo]: https://github.com/alexcheninfo
+[@mkeblx]: https://twitter.com/mkeblx
+[@dirosaur]: https://twitter.com/dirosaur
+[@flexingdream]: https://github.com/flexingdream
+[@juliakarmo]: https://github.com/juliakarmo
+[@georational]: https://twitter.com/georational
+[@kfarr]: https://twitter.com/kfarr
+[@fernandojsg]: https://twitter.com/fernandojsg
+[@LeBinoclard]: https://twitter.com/LeBinoclard
+[@SebScholl]: https://twitter.com/SebScholl
+[@armthethinker]: https://twitter.com/armthethinker
