@@ -328,6 +328,10 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Trident](http://codepen.io/bryik/pen/XKWgvK) - Code experiment with cursor events in d3.js
 - [VR Inception School](https://output.jsbin.com/pisaje/) - Learn a bit about WebVR in WebVR.
 - [RCS Gallery](http://fercastillo.com/rcs/volcan/) - Gallery of father’s photographs.
+- [GuriVR](https://gurivr.com/) - Create sharable VR scenes using natural language and zero code. [[Code](https://github.com/opennewslabs/guri-vr)]
+- [VR Space Builder](http://vr.greenbushlabs.com/) - Simple VR builder for kids using a form to import models and images.
+- [WebVR API Simulation Extension](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil) - Run WebVR 1.0 content without a supported headset or even a compatible browser/platform. Great for development.
+- [WebVR Solar System](http://vrspace.jmvisualcreativity.es/) - Solar System using A-Frame.
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
