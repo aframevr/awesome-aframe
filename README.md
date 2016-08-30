@@ -140,11 +140,10 @@ Third-party components (of the entity-component-system pattern). To create and s
 - [Look At and Billboard](https://github.com/blairmacintyre/aframe-look-at-billboard-component) - Component to tell an entity to face another entity, or to face the camera.
 - [Animation](https://ngokevin.github.io/aframe-animation-component/) - New and improved animation system using components. [[Code](https://github.com/ngokevin/aframe-animation-component)]
 - [ChartBuilder](https://github.com/impronunciable/aframe-chartbuilder-component) - A component for using [ChartBuilder](http://quartz.github.io/Chartbuilder/) charts.
-- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) -  CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
 - [Stereo Cube](https://github.com/wallabyway/aframe-stereocube) - A component for stereo cubemap textures (i.e., left and right eye textures).
 - [Trigger Box](https://github.com/Utopiah/aframe-triggerbox-component) - A component that emits an event when it enters or leaves a predefined area.
 - [L-System](https://github.com/nylki/aframe-lsystem-component) - A component for rendering [Lindenmayer](https://en.wikipedia.org/wiki/L-system) systems.
-- [Terrain Model Component](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
+- [Terrain Model](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
 
 ### Materials
 
@@ -168,6 +167,7 @@ Integration with existing tools, frameworks, and libraries.
 - [IdeaSpace](https://github.com/IdeaSpaceVR/IdeaSpace) - IdeaSpace CMS for the virtual reality web
 - [Angular 2 Boilerplate](https://github.com/brakmic/Angular_VRDemo) - An environment for developing WebVR apps with Angular 2 with A-Frame.
 - [Drupal](https://www.drupal.org/project/aframe) - Drupal module for integration with A-Frame.
+- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) -  CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
 
 #### [React](https://github.com/facebook/react)
 
