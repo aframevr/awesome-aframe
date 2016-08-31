@@ -1,6 +1,8 @@
 ## awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome things regarding [A-Frame](https://github.com/aframevr/aframe), the WebVR framework.
+A collection of awesome things regarding
+[A-Frame](https://github.com/aframevr/aframe), a framework for building virtual
+reality experiences on the Web.
 
 ## Table of Contents
 
@@ -52,7 +54,7 @@ Learn about A-Frame.
 - [Using Thingiverse Files in A-Frame](https://medium.com/@bnolan/using-thingiverse-files-in-a-frame-50641ca3f721)
 - [Building 3D Games on the Web](https://hacks.mozilla.org/2016/06/basics-of-building-3d-games-on-the-web/) - Basics of building 3D games on the web
 - [Getting Started With A-Frame](http://www.tomango.co.uk/thinks/getting-started-aframe/) - Building the Olympic rings using A-Frame
-- [Head Tracked Transformations](https://medium.com/humane-virtuality/head-tracked-transformations-e7102d3c9789)- How to look behind an object in VR if you can’t walk around it
+- [Head Tracked Transformations](https://medium.com/humane-virtuality/head-tracked-transformations-e7102d3c9789) - How to look behind an object in VR if you can’t walk around it
 - [Porting a Water Shader to A-Frame for the Track Demo](https://medium.com/samsung-internet-dev/i-made-my-first-pr-to-a-frame-3675d596a2d8)
 - [Interactive 360 Video: Accurate Positioning and Smooth Tracking](https://corp.hapyak.com/resources/interactive-360-videos-accuracy/) - Interactive 360 videos by overlaying DOM elements and live editing 360 videos
 
@@ -149,13 +151,12 @@ Third-party components (of the entity-component-system pattern). To create and s
 - [Look At and Billboard](https://github.com/blairmacintyre/aframe-look-at-billboard-component) - Component to tell an entity to face another entity, or to face the camera.
 - [Animation](https://ngokevin.github.io/aframe-animation-component/) - New and improved animation system using components. [[Code](https://github.com/ngokevin/aframe-animation-component)]
 - [ChartBuilder](https://github.com/impronunciable/aframe-chartbuilder-component) - A component for using [ChartBuilder](http://quartz.github.io/Chartbuilder/) charts.
-- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) -  CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
 - [Stereo Cube](https://github.com/wallabyway/aframe-stereocube) - A component for stereo cubemap textures (i.e., left and right eye textures).
 - [Trigger Box](https://github.com/Utopiah/aframe-triggerbox-component) - A component that emits an event when it enters or leaves a predefined area.
 - [L-System](https://github.com/nylki/aframe-lsystem-component) - A component for rendering [Lindenmayer](https://en.wikipedia.org/wiki/L-system) systems.
-- [Terrain Model Component](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
+- [Terrain Model](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
 - [Orbit Controls Component](https://github.com/tizzle/aframe-orbit-controls-component) - Allow desktop users to rotate the camera around an object.
-- [Sprite Component](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always faces the camera.
+- [Sprite Component](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera.
 
 ### Materials
 
@@ -179,6 +180,7 @@ Integration with existing tools, frameworks, and libraries.
 - [IdeaSpace](https://github.com/IdeaSpaceVR/IdeaSpace) - IdeaSpace CMS for the virtual reality web
 - [Angular 2 Boilerplate](https://github.com/brakmic/Angular_VRDemo) - An environment for developing WebVR apps with Angular 2 with A-Frame.
 - [Drupal](https://www.drupal.org/project/aframe) - Drupal module for integration with A-Frame.
+- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) -  CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
 
 #### [React](https://github.com/facebook/react)
 
@@ -307,7 +309,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Procedural Forest](http://nylki.github.io/aframe-lsystem-component/forrest/) - A procedural forest with procedural trees using the [L-System Component](https://github.com/nylki/aframe-lsystem-component).
 - [MagicaVoxel: City](https://ngokevin.github.io/aframe-magicavoxel-projects/city/) - A city built using [MagicaVoxel](https://ephtracy.github.io/). [[Tutorial](https://github.com/ngokevin/aframe-magicavoxel-projects#tutorial)]
 - [Sad Island](http://www.skyislandsvr.com/pages/SadIsland.html) - An island in the sea. Strangely you feel like you are being watched.
-- [iStaging LiveTour](http://vrviewer.istaging.co/#!/684173) - 360 and virtual tours with a neat mini-map.
+- [iStaging LiveTour](http://vrviewer.istaging.co/#!/684173) - 360&degree; real estate tours with a neat mini-map.
 - [Tanks](http://www.bubbletanks.biz/) - A multiplayer tank game. [[Code](https://github.com/ourvrisrealerthanyours/tanks)]
 - [Choose Your Own VR](https://github.com/dannielle/tinier-house) - Which cup will you choose?
 - [Cat Garden](http://dirosa.me/cat-garden/) - Float through a space of cats and balloons.
@@ -343,18 +345,18 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [VR Space Builder](http://vr.greenbushlabs.com/) - Simple VR builder for kids using a form to import models and images.
 - [WebVR API Simulation Extension](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil) - Run WebVR 1.0 content without a supported headset or even a compatible browser/platform. Great for development.
 - [WebVR Solar System](http://vrspace.jmvisualcreativity.es/) - Solar System using A-Frame.
-- [Track](https://samsunginternet.github.io/a-frame-demos/racer.html) - Zooming on the track with the ocean water reflecting the sunset sky. [[Code](https://github.com/SamsungInternet/a-frame-demos/blob/gh-pages/racer.md)]
+- [Track](https://samsunginternet.github.io/a-frame-demos/racer/) - Zooming on the track with the ocean water reflecting the sunset sky. [[Code](https://github.com/SamsungInternet/a-frame-demos/blob/gh-pages/racer/index.html)]
 - [AaMAZE Music Festival](http://vr.aamaze.dk/) - Fully responsive official VR website for the AaMAZE music festival in Denmark.
 - [Heart](https://s3.amazonaws.com/vr-asset-repo/heart_demo_slack.html) - An educating and interactive tour of the heart. But a life is at stake.
 - [Miradas 360](https://miradas360.github.io/miradas360-01/) - 360 experiences created by media production teams. [[Code](https://github.com/Miradas360/miradas360-01)]
 - [Interactive 360 Videos](http://s3.amazonaws.com/hapyak_demos/interactive360video/edit.html) - Upload and edit 360 interactive videos by overlaying DOM elements.
 - [Unity Exporter to A-Frame](https://github.com/if1live/unity-scene-web-exporter) - Export Unity scenes to three.js or A-Frame with lightmapping.
-- [Wordpress Template](http://www.construktiv.de/imagine/webvr-mit-a-frame/) - Wordpress template that displays the four most recent posts in VR.
+- [WordPress Template](http://www.construktiv.de/imagine/webvr-mit-a-frame/) - WordPress template that displays the four most recent posts in VR.
 - [Web Speech API Test](https://codepen.io/bryik/pen/mErOOR?editors=0010) - A demo of the Speech Recognition API to change object colors.
-- [Apollo 11 Scan](http://math.nist.gov/~SRessler/aframe/ebd/projects/apollo/) - View the inside of the Apollo 11 Command Module thanks for the National Air and Space Museum.
+- [Apollo 11 Scan](http://math.nist.gov/~SRessler/aframe/ebd/projects/apollo/) - View the inside of the Apollo 11 Command Module, thanks to the National Air and Space Museum.
 - [Olympic Rings](https://trys.github.io/aframe/2/) - A-Frame gets the gold at Rio 2016.
 - [Covo](https://s3-us-west-1.amazonaws.com/geopogo/covo/aframe_0_1_0/index.html) - Architectural visualization with baked global illumination.
-- [Humanity](http://codepen.io/davatron5000/pen/RRmVQz) - Day 8 of Dave’s 30 Days of WebVR.
+- [Humanity](https://codepen.io/davatron5000/pen/RRmVQz) - Day 8 of Dave’s 30 Days of WebVR.
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
