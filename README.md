@@ -298,7 +298,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Procedural Forest](http://nylki.github.io/aframe-lsystem-component/forrest/) - A procedural forest with procedural trees using the [L-System Component](https://github.com/nylki/aframe-lsystem-component).
 - [MagicaVoxel: City](https://ngokevin.github.io/aframe-magicavoxel-projects/city/) - A city built using [MagicaVoxel](https://ephtracy.github.io/). [[Tutorial](https://github.com/ngokevin/aframe-magicavoxel-projects#tutorial)]
 - [Sad Island](http://www.skyislandsvr.com/pages/SadIsland.html) - An island in the sea. Strangely you feel like you are being watched.
-- [iStaging LiveTour](http://vrviewer.istaging.co/#!/684173) - 360 and virtual tours with a neat mini-map.
+- [iStaging LiveTour](http://vrviewer.istaging.co/#!/684173) - 360&degree; real estate tours with a neat mini-map.
 - [Tanks](http://www.bubbletanks.biz/) - A multiplayer tank game. [[Code](https://github.com/ourvrisrealerthanyours/tanks)]
 - [Choose Your Own VR](https://github.com/dannielle/tinier-house) - Which cup will you choose?
 - [Cat Garden](http://dirosa.me/cat-garden/) - Float through a space of cats and balloons.
