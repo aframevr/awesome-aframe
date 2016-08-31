@@ -52,6 +52,11 @@ Learn about A-Frame.
 - [Lightmapping on the Server](https://medium.com/@bnolan/lightmapping-on-the-server-5485177ef2fa) - Server-side lightmapping with Blender
 - [Scene Export](https://medium.com/@bnolan/scene-export-89cc1c985ac8) - Exporting A-Frame-based scenes in SceneVR
 - [Using Thingiverse Files in A-Frame](https://medium.com/@bnolan/using-thingiverse-files-in-a-frame-50641ca3f721)
+- [Building 3D Games on the Web](https://hacks.mozilla.org/2016/06/basics-of-building-3d-games-on-the-web/) - Basics of building 3D games on the web
+- [Getting Started With A-Frame](http://www.tomango.co.uk/thinks/getting-started-aframe/) - Building the Olympic rings using A-Frame
+- [Head Tracked Transformations](https://medium.com/humane-virtuality/head-tracked-transformations-e7102d3c9789) - How to look behind an object in VR if you can’t walk around it
+- [Porting a Water Shader to A-Frame for the Track Demo](https://medium.com/samsung-internet-dev/i-made-my-first-pr-to-a-frame-3675d596a2d8)
+- [Interactive 360 Video: Accurate Positioning and Smooth Tracking](https://corp.hapyak.com/resources/interactive-360-videos-accuracy/) - Interactive 360 videos by overlaying DOM elements and live editing 360 videos
 
 #### Talks and Videos
 
@@ -64,6 +69,10 @@ Learn about A-Frame.
 - [VR on the Open Web with A-Frame and WebVR](http://voicesofvr.com/350-vr-on-the-open-web-with-a-frame-and-webvr/) - Voices of VR podcast featuring Josh Carpenter
 - [A-Frame: VR for Developers](https://www.youtube.com/watch?v=wRqoSdPZQBY) - Talk on A-Frame at SFHTML5
 - [Introducing WebVR with A-Frame at RunJumpDev July 2016 Monthly Meeting](https://www.youtube.com/watch?v=hHzUobbVAxQ) - Talk on WebVR
+- [A-Frame: A Beginner Lesson](http://www.slideshare.net/ellisonmu/a-frame-beginner-lesson) - A-Frame for Beginners Slideshow
+- [WebVR: Virtual Reality on Web Pages](http://math.nist.gov/~SRessler/aframe/ebd/presentation.html) - Presentation on WebVR and A-Frame
+- [A-Frame Presentation Kit](https://github.com/ngokevin/aframe-presentation-kit) - Official A-Frame Presentation Kit
+- [A-Frame WebVR Tutorial](https://www.youtube.com/watch?v=dv6_C4UqTfs&list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr) - A-Frame WebVR tutorial series
 
 #### Entity-Component-System (ECS)
 
@@ -146,6 +155,8 @@ Third-party components (of the entity-component-system pattern). To create and s
 - [Trigger Box](https://github.com/Utopiah/aframe-triggerbox-component) - A component that emits an event when it enters or leaves a predefined area.
 - [L-System](https://github.com/nylki/aframe-lsystem-component) - A component for rendering [Lindenmayer](https://en.wikipedia.org/wiki/L-system) systems.
 - [Terrain Model](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
+- [Orbit Controls Component](https://github.com/tizzle/aframe-orbit-controls-component) - Allow desktop users to rotate the camera around an object.
+- [Sprite Component](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera.
 
 ### Materials
 
@@ -334,6 +345,18 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [VR Space Builder](http://vr.greenbushlabs.com/) - Simple VR builder for kids using a form to import models and images.
 - [WebVR API Simulation Extension](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil) - Run WebVR 1.0 content without a supported headset or even a compatible browser/platform. Great for development.
 - [WebVR Solar System](http://vrspace.jmvisualcreativity.es/) - Solar System using A-Frame.
+- [Track](https://samsunginternet.github.io/a-frame-demos/racer/) - Zooming on the track with the ocean water reflecting the sunset sky. [[Code](https://github.com/SamsungInternet/a-frame-demos/blob/gh-pages/racer/index.html)]
+- [AaMAZE Music Festival](http://vr.aamaze.dk/) - Fully responsive official VR website for the AaMAZE music festival in Denmark.
+- [Heart](https://s3.amazonaws.com/vr-asset-repo/heart_demo_slack.html) - An educating and interactive tour of the heart. But a life is at stake.
+- [Miradas 360](https://miradas360.github.io/miradas360-01/) - 360 experiences created by media production teams. [[Code](https://github.com/Miradas360/miradas360-01)]
+- [Interactive 360 Videos](http://s3.amazonaws.com/hapyak_demos/interactive360video/edit.html) - Upload and edit 360 interactive videos by overlaying DOM elements.
+- [Unity Exporter to A-Frame](https://github.com/if1live/unity-scene-web-exporter) - Export Unity scenes to three.js or A-Frame with lightmapping.
+- [WordPress Template](http://www.construktiv.de/imagine/webvr-mit-a-frame/) - WordPress template that displays the four most recent posts in VR.
+- [Web Speech API Test](https://codepen.io/bryik/pen/mErOOR?editors=0010) - A demo of the Speech Recognition API to change object colors.
+- [Apollo 11 Scan](http://math.nist.gov/~SRessler/aframe/ebd/projects/apollo/) - View the inside of the Apollo 11 Command Module, thanks to the National Air and Space Museum.
+- [Olympic Rings](https://trys.github.io/aframe/2/) - A-Frame gets the gold at Rio 2016.
+- [Covo](https://s3-us-west-1.amazonaws.com/geopogo/covo/aframe_0_1_0/index.html) - Architectural visualization with baked global illumination.
+- [Humanity](https://codepen.io/davatron5000/pen/RRmVQz) - Day 8 of Dave’s 30 Days of WebVR.
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
