@@ -196,6 +196,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 
 ### Scenes
 
+- [A-Painter](https://aframe.io/a-painter/) - Paint in VR [[Code]](https://github.com/aframevr/a-painter)
 - [a-invaders](http://swimminglessonsformodernlife.com/a-invaders/) - Space invaders game [[Code]](https://github.com/dmarcos/a-invaders)
 - [a-wakens](https://ngokevin.github.com/a-wakens) - Star Wars Audio Visualization [[Code]](https://github.com/ngokevin/a-wakens)
 - [VR Website Navigation](http://drawvr.com/)
