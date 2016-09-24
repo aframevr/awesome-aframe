@@ -12,6 +12,7 @@ reality experiences on the Web.
 - [Components](#components)
 - [Integration](#integration)
 - [Scenes](#scenes)
+- [Misc. Projects](#misc-projects)
 
 ### Official Resources
 
@@ -359,6 +360,10 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Olympic Rings](https://trys.github.io/aframe/2/) - A-Frame gets the gold at Rio 2016.
 - [Covo](https://s3-us-west-1.amazonaws.com/geopogo/covo/aframe_0_1_0/index.html) - Architectural visualization with baked global illumination.
 - [Humanity](https://codepen.io/davatron5000/pen/RRmVQz) - Day 8 of Dave’s 30 Days of WebVR.
+
+### Misc. Projects
+
+- [Control an "Earth Rover" with WebVR](https://www.hackster.io/RONDAGDAG/control-your-earth-rover-in-virtual-reality-15a9fe) - Project using A-Frame, Leap Motion, and the Johnny-Five (JS framework for robotics) to drive an Arduino Bluetooth-enabled RC car for the Oculus Rift. 
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
