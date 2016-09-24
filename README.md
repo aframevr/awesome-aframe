@@ -363,7 +363,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 
 ### Misc. Projects
 
-- [Control an "Earth Rover" with WebVR](https://www.hackster.io/RONDAGDAG/control-your-earth-rover-in-virtual-reality-15a9fe) - Project using A-Frame, Leap Motion, and the Johnny-Five (JS framework for robotics) to drive an Arduino Bluetooth-enabled RC car for the Oculus Rift. 
+- [Control an "Earth Rover" with A-Frame & Oculus Rift](https://www.hackster.io/RONDAGDAG/control-your-earth-rover-in-virtual-reality-15a9fe) - Project using A-Frame, Leap Motion, and the Johnny-Five (JS framework for robotics) to drive an Arduino Bluetooth-enabled RC car for the Oculus Rift. 
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
