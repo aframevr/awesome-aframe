@@ -91,7 +91,7 @@ Learn about the entity-component-system pattern which A-Frame is based on.
 
 Third-party components (of the entity-component-system pattern). To create and share a new A-Frame VR component, see the [Component Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate).
 
-- [Along Path](https://jsbin.com/dasefeh/edit?html,output) - Interpolating an entity's position along a path
+- [Along Path](https://github.com/protyze/aframe-alongpath-component) - Interpolating an entity's position along a path
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 - [Audio Visualizer](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using WebAudio API
 - [Bmfont](https://github.com/bryik/aframe-bmfont-text-component) - Renders bitmap/SDF fonts for high-quality 2D text
