@@ -22,6 +22,8 @@ Straight from the horse's mouth.
 - [Team Site](http://mozvr.com)
 - [Examples](https://aframe.io/examples/)
 - [CodePen](https://codepen.io/mozvr/pens/public/)
+- [Inspector](https://github.com/aframevr/aframe-inspector)
+- [Registry](https://github.com/aframevr/aframe-registry)
 - [Presentation Kit](https://github.com/aframevr/aframe-presentation-kit)
 
 ### Community
