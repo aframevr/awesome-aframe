@@ -1,8 +1,11 @@
 ## awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things regarding
-[A-Frame](https://github.com/aframevr/aframe), a framework for building virtual
-reality experiences on the Web.
+[A-Frame](https://github.com/aframevr/aframe), a web framework for building
+virtual reality (VR) experiences.
+
+This list is synced now and then. For some of the more recent stuff, check out
+the recent [A Week of A-Frame](https://aframe.io/blog/) roundups on the blog.
 
 ## Table of Contents
 
