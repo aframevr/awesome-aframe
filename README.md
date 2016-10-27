@@ -43,6 +43,7 @@ Learn about A-Frame.
 
 #### Articles
 
+- [Official Wikipedia Page](https://en.wikipedia.org/wiki/A-Frame_(VR))
 - [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
 - [Hands-on With Virtual Reality Using A-Frame, React and Redux](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7#.nce7sfdzl)
 - [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-einstieg)
