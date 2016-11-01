@@ -146,6 +146,7 @@ Third-party components (of the entity-component-system pattern). To create and s
 - [Shadows](https://github.com/donmccurdy/aframe-extras/tree/master/src/shadows) - Realtime shadows
 - [Star](https://github.com/andreasplesch/aframe-star-component) - 2D stars
 - [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
+- [Teleport Controls](https://github.com/fernandojsg/aframe-teleport-controls) - Teleportation with tracked controllers
 - [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
 - [Text Wrap](https://github.com/maxkrieger/aframe-textwrap-component) - Wrapping text dynamically rendered onto the `draw` component
 - [Text](https://github.com/ngokevin/aframe-text-component) - Polygonal text
