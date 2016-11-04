@@ -369,6 +369,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Covo](https://s3-us-west-1.amazonaws.com/geopogo/covo/aframe_0_1_0/index.html) - Architectural visualization with baked global illumination.
 - [Humanity](https://codepen.io/davatron5000/pen/RRmVQz) - Day 8 of Dave’s 30 Days of WebVR.
 - [TrippyVR.Tech](http://trippyvr.tech) - A showcase of various trippy VR experiences.
+- [Speed VReader](http://vrindle.herokuapp.com) - A Virtual Reality Speed Reader built with React and A-Frame.
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
