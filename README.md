@@ -191,6 +191,9 @@ Integration with existing tools, frameworks, and libraries.
 - [Angular 2 Boilerplate](https://github.com/brakmic/Angular_VRDemo) - An environment for developing WebVR apps with Angular 2 with A-Frame.
 - [Drupal](https://www.drupal.org/project/aframe) - Drupal module for integration with A-Frame.
 - [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) -  CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
+- [aframe-d3-3d-graph-example/](http://cjroth.com/aframe-d3-3d-graph-example/) - An example of a 3D weighted graph using D3.js and Aframe.
+
+
 
 #### [React](https://github.com/facebook/react)
 
