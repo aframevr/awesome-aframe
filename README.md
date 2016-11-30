@@ -194,7 +194,7 @@ Integration with existing tools, frameworks, and libraries.
 - [aframe-d3-3d-graph-example](http://cjroth.com/aframe-d3-3d-graph-example/) - An example of a 3D weighted graph using D3 and Aframe.
 - [aframe-d3-3d-bars-example](http://cjroth.com/aframe-d3-3d-bars-example/) - An example of a 3D bar chart using D3 and Aframe.
 - [aframe-phantomjs-continuous-streaming](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the web in VR by live streaming a web page into Aframe using PhantomJS and ffmpeg.
-
+- [aframe-keyboard](https://github.com/cjroth/aframe-keyboard) - A virtual reality keyboard and text editor in Aframe
 
 #### [React](https://github.com/facebook/react)
 
@@ -374,6 +374,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Humanity](https://codepen.io/davatron5000/pen/RRmVQz) - Day 8 of Dave’s 30 Days of WebVR.
 - [TrippyVR.Tech](http://trippyvr.tech) - A showcase of various trippy VR experiences.
 - [Speed VReader](http://vrindle.herokuapp.com) - A Virtual Reality Speed Reader built with React and A-Frame.
+
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
