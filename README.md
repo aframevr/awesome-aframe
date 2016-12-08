@@ -99,6 +99,7 @@ Third-party components (of the entity-component-system pattern). To create and s
 
 - [Along Path](https://github.com/protyze/aframe-alongpath-component) - Interpolating an entity's position along a path
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
+- [Asset On-Demand](https://github.com/protyze/aframe-asset-on-demand-component) - Load Assets dynamically when needed (and properly clean them up if not)
 - [Audio Visualizer](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using WebAudio API
 - [Bmfont](https://github.com/bryik/aframe-bmfont-text-component) - Renders bitmap/SDF fonts for high-quality 2D text
 - [Broadcast](https://github.com/ngokevin/aframe-broadcast-component) - Multiuser with WebSockets
