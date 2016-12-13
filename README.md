@@ -166,7 +166,7 @@ Third-party components (of the entity-component-system pattern). To create and s
 - [Terrain Model](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
 - [Orbit Controls Component](https://github.com/tizzle/aframe-orbit-controls-component) - Allow desktop users to rotate the camera around an object.
 - [Sprite Component](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera.
-- [UI Components](https://github.com/gmarty/aframe-ui-components) - A collection of components related to UI. [[Code](https://github.com/ngokevin/aframe-mss)]
+- [UI Components](https://github.com/gmarty/aframe-ui-components) - A [collection of useful UI components](https://gmarty.github.io/aframe-ui-components/)
 
 ### Materials
 
@@ -205,11 +205,11 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [aframe-react-starter](https://github.com/fouad/aframe-react-starter)
 - [React + Redux Demo (including switching between 2D and 3D)](https://github.com/RSpace/aframe-meetup-example)
 - [React + TweenMax Demo](http://codepen.io/cheapsteak/pen/pgbdGa?editors=001)
-- [React Redux Boilerplate](https://github.com/HeartRunner/react-redux-aframe-boilerplate/) - Combining React, Redux, React Router, A-Frame and Webpack
+- [React Redux Boilerplate](https://github.com/HeartRunner/react-redux-aframe-boilerplate/) - Combining React, Redux, React Router, A-Frame, and Webpack
 
 ### Scenes
 
-- [A-Painter](https://aframe.io/a-painter/) - Paint in VR [[Code]](https://github.com/aframevr/a-painter)
+- [A-Painter](https://aframe.io/a-painter/) - Paint in VR [[Code]](https://github.com/aframevr/a-painter) [[Post]](https://blog.mozvr.com/a-painter/)
 - [a-invaders](http://swimminglessonsformodernlife.com/a-invaders/) - Space invaders game [[Code]](https://github.com/dmarcos/a-invaders)
 - [a-wakens](https://ngokevin.github.com/a-wakens) - Star Wars Audio Visualization [[Code]](https://github.com/ngokevin/a-wakens)
 - [VR Website Navigation](http://drawvr.com/)
