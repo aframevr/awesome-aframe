@@ -55,22 +55,22 @@ Learn about A-Frame.
 - [Building Cardboard Dungeon with A-Frame](https://hacks.mozilla.org/2016/03/building-cardboard-dungeon-with-a-frame/) - A case study on building a simple dungeon game usign A-Frame
 - [A-Frame: The Easiest Way to Bring VR to the Web Today](http://www.sitepoint.com/a-frame-the-easiest-way-to-bring-vr-to-the-web-today/) - Getting started on WebVR with A-Frame
 - [A-Frame 0.2.0 - The Extensible VR Web](https://hacks.mozilla.org/2016/03/a-frame-0-2-0-the-extensible-vr-web/) - Release of A-Frame 0.2.0
-- [Building a Simple Web VR UI with A-Frame](https://blog.neondaylight.com/build-a-simple-web-vr-ui-with-a-frame-a17a2d5b484) - Using cursor and components to swap photospheres
+- [Building a Simple WebVR UI with A-Frame](https://blog.neondaylight.com/build-a-simple-web-vr-ui-with-a-frame-a17a2d5b484) - Using cursor and components to swap photospheres
 - [Lightmapping on the Server](https://medium.com/@bnolan/lightmapping-on-the-server-5485177ef2fa) - Server-side lightmapping with Blender
 - [Scene Export](https://medium.com/@bnolan/scene-export-89cc1c985ac8) - Exporting A-Frame-based scenes in SceneVR
 - [Using Thingiverse Files in A-Frame](https://medium.com/@bnolan/using-thingiverse-files-in-a-frame-50641ca3f721)
 - [Building 3D Games on the Web](https://hacks.mozilla.org/2016/06/basics-of-building-3d-games-on-the-web/) - Basics of building 3D games on the web
 - [Getting Started With A-Frame](http://www.tomango.co.uk/thinks/getting-started-aframe/) - Building the Olympic rings using A-Frame
-- [Head Tracked Transformations](https://medium.com/humane-virtuality/head-tracked-transformations-e7102d3c9789) - How to look behind an object in VR if you can’t walk around it
+- [Head-Tracked Transformations](https://medium.com/humane-virtuality/head-tracked-transformations-e7102d3c9789) - How to look behind an object in VR if you can’t walk around it
 - [Porting a Water Shader to A-Frame for the Track Demo](https://medium.com/samsung-internet-dev/i-made-my-first-pr-to-a-frame-3675d596a2d8)
-- [Interactive 360 Video: Accurate Positioning and Smooth Tracking](https://corp.hapyak.com/resources/interactive-360-videos-accuracy/) - Interactive 360 videos by overlaying DOM elements and live editing 360 videos
+- [Interactive 360 Video: Accurate Positioning and Smooth Tracking](https://corp.hapyak.com/resources/interactive-360-videos-accuracy/) - Interactive 360° videos by overlaying DOM elements and live-editing 360° videos
+- [First Steps in VR](https://24ways.org/2016/first-steps-in-vr/) - Learn how to create a [simple locomotion-based maze game](https://shanehudson.net/tools/first-steps-in-vr/02-maze-map/index.html) [[Code](https://github.com/ShaneHudson/First-Steps-In-VR)]
 
 #### Talks and Videos
 
 - [Building a Virtual Reality Web Experience](https://air.mozilla.org/josh-carpenter-building-a-virtual-reality-web-experience/) - A sneak peek of A-Frame before it was released
 - [A Review of Mozilla's A-Frame WebVR Framework](https://www.youtube.com/watch?v=4IqBLoJd0ww)
-- [Responsive Web Design with A-Frame](https://www.youtube.com/watch?v=HogJdsepZRo)
-- [Using A-Frame with Epson Moverio and Crosswalk](https://www.youtube.com/watch?v=Tt-pX1JMt60) - Tech talk on building WebVR and VR apps with Crosswalk and A-Frame for the [Epson Moverio](http://www.epson.com/moverio) augmented-reality smart glasses
+- [Responsive Web Design with A-Frame](https://www.youtube.com/watch?v=HogJdsepZRo)- [Using A-Frame with Epson Moverio and Crosswalk](https://www.youtube.com/watch?v=Tt-pX1JMt60) - Tech talk on building WebVR and VR apps with Crosswalk and A-Frame for the [Epson Moverio](http://www.epson.com/moverio) augmented-reality smart glasses
 - [D3 + 3D: Using d3.js with A-Frame](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
 - [Build the Virtual Reality Web with A-Frame](https://www.youtube.com/watch?v=f2pu-oMspLs) - Talk on A-Frame at ForwardJS
 - [VR on the Open Web with A-Frame and WebVR](http://voicesofvr.com/350-vr-on-the-open-web-with-a-frame-and-webvr/) - Voices of VR podcast featuring Josh Carpenter
@@ -166,7 +166,7 @@ Third-party components (of the entity-component-system pattern). To create and s
 - [Terrain Model](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
 - [Orbit Controls Component](https://github.com/tizzle/aframe-orbit-controls-component) - Allow desktop users to rotate the camera around an object.
 - [Sprite Component](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera.
-- [UI Components](https://github.com/gmarty/aframe-ui-components) - A collection of components related to UI.
+- [UI Components](https://github.com/gmarty/aframe-ui-components) - A [collection of useful UI components](https://gmarty.github.io/aframe-ui-components/)
 
 ### Materials
 
@@ -190,7 +190,7 @@ Integration with existing tools, frameworks, and libraries.
 - [IdeaSpace](https://github.com/IdeaSpaceVR/IdeaSpace) - IdeaSpace CMS for the virtual reality web
 - [Angular 2 Boilerplate](https://github.com/brakmic/Angular_VRDemo) - An environment for developing WebVR apps with Angular 2 with A-Frame.
 - [Drupal](https://www.drupal.org/project/aframe) - Drupal module for integration with A-Frame.
-- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) -  CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
+- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) - CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
 - [aframe-d3-3d-graph-example](http://cjroth.com/aframe-d3-3d-graph-example/) - An example of a 3D weighted graph using D3 and Aframe.
 - [aframe-d3-3d-bars-example](http://cjroth.com/aframe-d3-3d-bars-example/) - An example of a 3D bar chart using D3 and Aframe.
 - [aframe-phantomjs-continuous-streaming](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the web in VR by live streaming a web page into Aframe using PhantomJS and ffmpeg.
@@ -205,11 +205,11 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [aframe-react-starter](https://github.com/fouad/aframe-react-starter)
 - [React + Redux Demo (including switching between 2D and 3D)](https://github.com/RSpace/aframe-meetup-example)
 - [React + TweenMax Demo](http://codepen.io/cheapsteak/pen/pgbdGa?editors=001)
-- [React Redux Boilerplate](https://github.com/HeartRunner/react-redux-aframe-boilerplate/) - Combining React, Redux, React Router, A-Frame and Webpack
+- [React Redux Boilerplate](https://github.com/HeartRunner/react-redux-aframe-boilerplate/) - Combining React, Redux, React Router, A-Frame, and Webpack
 
 ### Scenes
 
-- [A-Painter](https://aframe.io/a-painter/) - Paint in VR [[Code]](https://github.com/aframevr/a-painter)
+- [A-Painter](https://aframe.io/a-painter/) - Paint in VR [[Code]](https://github.com/aframevr/a-painter) [[Post]](https://blog.mozvr.com/a-painter/)
 - [a-invaders](http://swimminglessonsformodernlife.com/a-invaders/) - Space invaders game [[Code]](https://github.com/dmarcos/a-invaders)
 - [a-wakens](https://ngokevin.github.com/a-wakens) - Star Wars Audio Visualization [[Code]](https://github.com/ngokevin/a-wakens)
 - [VR Website Navigation](http://drawvr.com/)
