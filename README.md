@@ -332,8 +332,8 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Virtual Symphony](https://flexingdream.github.io/aframe_demo/) - Experience music in a new way on this symphonic trip through Martin Garrix and Third Party - Lions in the Wild.
 - [Brexit in Berlin](https://popathon.github.io/Gexit/hq.html) - Listen to Europeans talk and react to Brexit.
 - [Virtual Symphony II](https://musicpua.firebaseapp.com/) - Fly through particles, eagles, and horses while listening to Chainsmokers - Inside Out (Remix).
-- [VRVisitors](http://georational.github.io/VRVisitors/VRVisitors.html) - Multi-user gallery of photogrammetric museum artifacts.
-- [Head-Tracked Transformations](http://armthethinker.github.io/webVR-experiments/6--head-tracked-transformations.html) -  VR UX prototype of transforming objects’ orientations with your head to enhance VR experiences that don’t have positional tracking. Read the instructions listed at [#6](http://armthethinker.github.io/webVR-experiments/). [[Code](https://github.com/armthethinker/webVR-experiments)]
+- [VRVisitors](https://georational.github.io/VRVisitors/VRVisitors.html) - Multi-user gallery of photogrammetric museum artifacts.
+- [Head-Tracked Transformations](https://armthethinker.github.io/webVR-experiments/6--head-tracked-transformations.html) -  VR UX prototype of transforming objects’ orientations with your head to enhance VR experiences that don’t have positional tracking. Read the instructions listed at [#6](http://armthethinker.github.io/webVR-experiments/). [[Code](https://github.com/armthethinker/webVR-experiments)]
 - [SFMTA Van Ness BRT Model](https://brt-webvr-fjrtyyjbhf.now.sh/vn-geary.html) - Model of the new Bus Rapid Transit project in San Francisco.
 - [Virtual Reality Music Player](https://young-refuge-92841.herokuapp.com/) - WebVR music player in space using the Spotify API. [[Code](https://github.com/sebscholl/koo-WebVR)]
 - [Weather Room](http://weatherroom.herokuapp.com/) - What’s the forecast for WebVR? Sunny with no chance of rain. [[Code](https://github.com/sebscholl/weatherroom)]
@@ -354,7 +354,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [PoopVR](http://www.poopvr.biz/) - Life-altering possibilities of VR at the San Francisco Stupid Hackathon.
 - [Low Nausea FPS Locomotion](http://farbs.org/lownauseavrfps/) - Locomotion prototype for using 6DoF controllers (e.g., Vive) to grab and swing through scenes.
 - [WebVR Soccer Stadium Complex](https://s3.amazonaws.com/cassell-webvr/webvr-soccer-stadium-multiplex/index.html) - Watch several video feeds at once in a soccer stadium. [[Code](https://github.com/cassell/webvr-soccer-stadium-multiplex)]
-- [Trident](http://codepen.io/bryik/pen/XKWgvK) - Code experiment with cursor events in d3.js
+- [Trident](https://codepen.io/bryik/pen/XKWgvK) - Code experiment with cursor events in d3.js
 - [VR Inception School](https://output.jsbin.com/pisaje/) - Learn a bit about WebVR in WebVR.
 - [RCS Gallery](http://fercastillo.com/rcs/volcan/) - Gallery of father’s photographs.
 - [GuriVR](https://gurivr.com/) - Create sharable VR scenes using natural language and zero code. [[Code](https://github.com/opennewslabs/guri-vr)]
@@ -375,7 +375,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Humanity](https://codepen.io/davatron5000/pen/RRmVQz) - Day 8 of Dave’s 30 Days of WebVR.
 - [TrippyVR.Tech](http://trippyvr.tech) - A showcase of various trippy VR experiences.
 - [Speed VReader](http://vrindle.herokuapp.com) - A Virtual Reality Speed Reader built with React and A-Frame.
-- [Asteroids](http://headshotvr.herokuapp.com) - FPS of Asteroids made with A-Frame and React.
+- [Asteroids](https://headshotvr.herokuapp.com) - FPS of Asteroids made with A-Frame and React.
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
