@@ -98,6 +98,7 @@ Learn about the entity-component-system pattern which A-Frame is based on.
 Third-party components (of the entity-component-system pattern). To create and share a new A-Frame VR component, see the [Component Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate).
 
 - [Along Path](https://github.com/protyze/aframe-alongpath-component) - Interpolating an entity's position along a path
+- [Always Fullscreen](https://github.com/protyze/aframe-always-fullscreen-component) - Provide ways to enable Fullscreen on iOS (Scroll to Minimal-UI) and Android/Desktop (Fullscreen API)
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 - [Asset On-Demand](https://github.com/protyze/aframe-asset-on-demand-component) - Load Assets dynamically when needed (and properly clean them up if not)
 - [Audio Visualizer](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using WebAudio API
