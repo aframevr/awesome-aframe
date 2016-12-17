@@ -5,7 +5,7 @@ A collection of awesome things regarding
 virtual reality (VR) experiences.
 
 This list is synced now and then. For some of the more recent stuff, check out
-the recent [A Week of A-Frame](https://aframe.io/blog/) roundups on the blog.
+the recent [A Week of A-Frame](https://aframe.io/blog/) roundups on the blog
 
 ## Table of Contents
 
@@ -20,14 +20,19 @@ the recent [A Week of A-Frame](https://aframe.io/blog/) roundups on the blog.
 
 Straight from the horse's mouth.
 
-- [Blog](https://aframe.io/blog/)
 - [Official Site](https://aframe.io)
-- [Team Site](http://mozvr.com)
+- [Documentation and Guides](https://aframe.io/docs/)
+- [Blog](https://aframe.io/blog/)
 - [Examples](https://aframe.io/examples/)
-- [CodePen](https://codepen.io/mozvr/pens/public/)
 - [Inspector](https://github.com/aframevr/aframe-inspector)
 - [Registry](https://github.com/aframevr/aframe-registry)
 - [Presentation Kit](https://github.com/aframevr/aframe-presentation-kit)
+- [Team Site](http://mozvr.com)
+- [Command Line Interface](https://github.com/ngokevin/angle)
+
+Scenes built by the A-Frame team.
+
+- [A-Painter](https://aframe.io/a-painter)
 
 ### Community
 
@@ -35,7 +40,7 @@ Find human beings using A-Frame.
 
 - [Slack](http://aframevr-slack.herokuapp.com/)
 - [Twitter](https://twitter.com/aframevr)
-- IRC: `irc://irc.mozilla.org:6697/#VR`
+- [A-Frame Japan Facebook](https://www.facebook.com/groups/1250425238325010/)
 
 ### Learning
 
@@ -43,59 +48,61 @@ Learn about A-Frame.
 
 #### Articles
 
-- [Official Wikipedia Page](https://en.wikipedia.org/wiki/A-Frame_(VR))
+##### Introduction
+
+- [Official Introduction and Guide](https://aframe.io/docs/)
+- [Wikipedia Page](https://en.wikipedia.org/wiki/A-Frame_(VR))
 - [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
-- [Hands-on With Virtual Reality Using A-Frame, React and Redux](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7#.nce7sfdzl)
+- [A-Frame: The Easiest Way to Bring VR to the Web Today](http://www.sitepoint.com/a-frame-the-easiest-way-to-bring-vr-to-the-web-today/) - Getting started on WebVR with A-Frame
+- [Getting Started With A-Frame](http://www.tomango.co.uk/thinks/getting-started-aframe/) - Building the Olympic rings using A-Frame
+- [Relative Positioning in A-Frame](https://medium.com/immersion-for-the-win/relative-positioning-in-a-frame-d839fc0e3249) - How to use `<a-entity>` as a wrapper to create local coordinate spaces
+- [Entity-Component-System Wikipedia](https://en.wikipedia.org/wiki/Entity_component_system)
 - [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-einstieg)
 - [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-grundlagen)
-- [Introduction to A-Frame](http://www.slideshare.net/ellisonmu/introduction-to-aframe-57170744) - Slides from talk at Mozilla Taipei
-- [Build the Virtual Reality Web with A-Frame](http://www.slideshare.net/MozVR/build-the-virtual-reality-web-with-aframe/) - Slides from talk at ForwardJS
-- [Build a Simple First-Person-Shooter Using Components](https://hacks.mozilla.org/2016/03/build-the-virtual-reality-web-with-a-frame/) - Mozilla Hacks post showing off an entity-component-system pattern workflow to build an interactive scene
-- [Relative Positioning in A-Frame](https://medium.com/immersion-for-the-win/relative-positioning-in-a-frame-d839fc0e3249) - How to use `<a-entity>` as a wrapper to create local coordinate spaces
+
+##### Case Studies
+
+- [First Steps in VR](https://24ways.org/2016/first-steps-in-vr/) - Building a maze game in VR
+- [Why iStaging Chose A-Frame](https://aframe.io/blog/istaging/) - Building a large-scale real estate tour application
+- [Building Ghost Train Builder](https://aframe.io/blog/ghost-train-builder/) - Building a Halloween ghost train builder application
+- [Build a Simple First-Person-Shooter Using Components](https://hacks.mozilla.org/2016/03/build-the-virtual-reality-web-with-a-frame/) - Entity-component-system pattern workflow to build an interactive scene
 - [Building Cardboard Dungeon with A-Frame](https://hacks.mozilla.org/2016/03/building-cardboard-dungeon-with-a-frame/) - A case study on building a simple dungeon game usign A-Frame
-- [A-Frame: The Easiest Way to Bring VR to the Web Today](http://www.sitepoint.com/a-frame-the-easiest-way-to-bring-vr-to-the-web-today/) - Getting started on WebVR with A-Frame
-- [A-Frame 0.2.0 - The Extensible VR Web](https://hacks.mozilla.org/2016/03/a-frame-0-2-0-the-extensible-vr-web/) - Release of A-Frame 0.2.0
-- [Building a Simple WebVR UI with A-Frame](https://blog.neondaylight.com/build-a-simple-web-vr-ui-with-a-frame-a17a2d5b484) - Using cursor and components to swap photospheres
+- [Developing an A-Frame Teleport Component](https://aframe.io/blog/teleport-component/) - Building a component to teleport with tracked controllers
+- [Building a Simple Web VR UI with A-Frame](https://blog.neondaylight.com/build-a-simple-web-vr-ui-with-a-frame-a17a2d5b484) - Using cursor and components to swap photospheres
 - [Lightmapping on the Server](https://medium.com/@bnolan/lightmapping-on-the-server-5485177ef2fa) - Server-side lightmapping with Blender
 - [Scene Export](https://medium.com/@bnolan/scene-export-89cc1c985ac8) - Exporting A-Frame-based scenes in SceneVR
 - [Using Thingiverse Files in A-Frame](https://medium.com/@bnolan/using-thingiverse-files-in-a-frame-50641ca3f721)
-- [Building 3D Games on the Web](https://hacks.mozilla.org/2016/06/basics-of-building-3d-games-on-the-web/) - Basics of building 3D games on the web
-- [Getting Started With A-Frame](http://www.tomango.co.uk/thinks/getting-started-aframe/) - Building the Olympic rings using A-Frame
-- [Head-Tracked Transformations](https://medium.com/humane-virtuality/head-tracked-transformations-e7102d3c9789) - How to look behind an object in VR if you can’t walk around it
+- [Head Tracked Transformations](https://medium.com/humane-virtuality/head-tracked-transformations-e7102d3c9789) - How to look behind an object in VR if you can't walk around it
 - [Porting a Water Shader to A-Frame for the Track Demo](https://medium.com/samsung-internet-dev/i-made-my-first-pr-to-a-frame-3675d596a2d8)
-- [Interactive 360 Video: Accurate Positioning and Smooth Tracking](https://corp.hapyak.com/resources/interactive-360-videos-accuracy/) - Interactive 360° videos by overlaying DOM elements and live-editing 360° videos
-- [First Steps in VR](https://24ways.org/2016/first-steps-in-vr/) - Learn how to create a [simple locomotion-based maze game](https://shanehudson.net/tools/first-steps-in-vr/02-maze-map/index.html) [[Code](https://github.com/ShaneHudson/First-Steps-In-VR)]
+- [Interactive 360 Video: Accurate Positioning and Smooth Tracking](https://corp.hapyak.com/resources/interactive-360-videos-accuracy/) - Interactive 360 videos by overlaying DOM elements and live editing 360 videos
+- [Hands-on With Virtual Reality Using A-Frame, React and Redux](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7)
 
-#### Talks and Videos
+#### Videos
 
-- [Building a Virtual Reality Web Experience](https://air.mozilla.org/josh-carpenter-building-a-virtual-reality-web-experience/) - A sneak peek of A-Frame before it was released
-- [A Review of Mozilla's A-Frame WebVR Framework](https://www.youtube.com/watch?v=4IqBLoJd0ww)
-- [Responsive Web Design with A-Frame](https://www.youtube.com/watch?v=HogJdsepZRo)- [Using A-Frame with Epson Moverio and Crosswalk](https://www.youtube.com/watch?v=Tt-pX1JMt60) - Tech talk on building WebVR and VR apps with Crosswalk and A-Frame for the [Epson Moverio](http://www.epson.com/moverio) augmented-reality smart glasses
+- [A-Frame WebVR Tutorials](https://www.youtube.com/watch?v=dv6_C4UqTfs&list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr) - A-Frame WebVR tutorial series
+- [Responsive Web Design with A-Frame](https://www.youtube.com/watch?v=HogJdsepZRo)
+>>>>>>> updates
 - [D3 + 3D: Using d3.js with A-Frame](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
+- [Using A-Frame with Epson Moverio and Crosswalk](https://www.youtube.com/watch?v=Tt-pX1JMt60) - Tech talk on building WebVR and VR apps with Crosswalk and A-Frame for the [Epson Moverio](http://www.epson.com/moverio) augmented-reality smart glasses
+- [A Review of Mozilla's A-Frame WebVR Framework](https://www.youtube.com/watch?v=4IqBLoJd0ww)
+
+#### Talks
+
+- [A-Frame](https://www.youtube.com/watch?list=PLo3w8EB99pqIj_XNvNEMAaBtL_jyxSLmz&v=FWqgP3-9mOw) - Lightning talk on A-Frame introduction at W3C WebVR Workshop [[slides](https://github.com/ngokevin/w3c-webvr-presentation)]
+- [A-Frame: VR for Developers](https://www.youtube.com/watch?v=wRqoSdPZQBY) - Talk on A-Frame at SFHTML5 [[slides](https://github.com/ngokevin/aframe-sfhtml5-presentation)]
+- [How to Build Pokemon Go in 100% JS](https://www.youtube.com/embed/kGXpgAb3Sbk?start=3970&end=5735) - Talk at JSConf AU 2016 [[slides](https://jesstelford.github.io/js-go-presentation/#/0/0)]
+- [Building Virtual Reality on the Web](https://www.youtube.com/watch?v=Ucsshrblkok) - Talk on A-Frame at NingJS 2016
 - [Build the Virtual Reality Web with A-Frame](https://www.youtube.com/watch?v=f2pu-oMspLs) - Talk on A-Frame at ForwardJS
+- [Building a Virtual Reality Web Experience](https://air.mozilla.org/josh-carpenter-building-a-virtual-reality-web-experience/) - A sneak peek of A-Frame before it was released
 - [VR on the Open Web with A-Frame and WebVR](http://voicesofvr.com/350-vr-on-the-open-web-with-a-frame-and-webvr/) - Voices of VR podcast featuring Josh Carpenter
-- [A-Frame: VR for Developers](https://www.youtube.com/watch?v=wRqoSdPZQBY) - Talk on A-Frame at SFHTML5
 - [Introducing WebVR with A-Frame at RunJumpDev July 2016 Monthly Meeting](https://www.youtube.com/watch?v=hHzUobbVAxQ) - Talk on WebVR
-- [A-Frame: A Beginner Lesson](http://www.slideshare.net/ellisonmu/a-frame-beginner-lesson) - A-Frame for Beginners Slideshow
-- [WebVR: Virtual Reality on Web Pages](http://math.nist.gov/~SRessler/aframe/ebd/presentation.html) - Presentation on WebVR and A-Frame
-- [A-Frame Presentation Kit](https://github.com/ngokevin/aframe-presentation-kit) - Official A-Frame Presentation Kit
-- [A-Frame WebVR Tutorial](https://www.youtube.com/watch?v=dv6_C4UqTfs&list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr) - A-Frame WebVR tutorial series
-
-#### Entity-Component-System (ECS)
-
-Learn about the entity-component-system pattern which A-Frame is based on.
-
-- [Entity Systems Wiki](http://entity-systems.wikidot.com/)
-- [Wikipedia Entry](https://en.wikipedia.org/wiki/Entity_component_system)
-- [How A-Frame is Different from Other 3D Markup Languages](http://ngokevin.com/blog/aframe-vs-3dml/)
-- [Das Objekt-Komponenten System von A-Frame verstehen](http://thevrjump.com/de/aframe-system) (German) - [Translated](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-system&edit-text=)
-- [Eigene Komponenten für A-Frame programmieren](http://thevrjump.com/de/aframe-komponenten) (German) - [Translated](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-komponenten&edit-text=)
-- [Kommunikation zwischen A-Frame und JavaScript](http://thevrjump.com/de/aframe-js) (German) - [Translated](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-js&edit-text=)
-- [How to Write an A-Frame VR Component](http://ngokevin.com/blog/aframe-component/)
 
 ### Components
 
-Third-party components (of the entity-component-system pattern). To create and share a new A-Frame VR component, see the [Component Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate).
+Community components. To create and share a component, see
+[angle](https://github.com/ngokevin/angle) or the [Component
+Boilerplate](https://github.com/ngokevin/aframe-component-boilerplate). For
+curated components, see the [Registry](https://aframe.io/aframe-registry).
 
 - [Along Path](https://github.com/protyze/aframe-alongpath-component) - Interpolating an entity's position along a path
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
@@ -105,6 +112,7 @@ Third-party components (of the entity-component-system pattern). To create and s
 - [Broadcast](https://github.com/ngokevin/aframe-broadcast-component) - Multiuser with WebSockets
 - [Checkpoint Controls](https://github.com/donmccurdy/aframe-extras/blob/master/src/controls/checkpoint-controls.js) - Eased linear locomotion between designated hotspots
 - [Collider, Explode, Spawner](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
+- [Crawling Cursor](https://github.com/jujunjun110/aframe-crawling-cursor) - Cursor projected onto surfaces
 - [Crease](https://github.com/andreasplesch/aframe-crease-component) - Creased shading
 - [Cubemap](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
 - [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
@@ -145,6 +153,7 @@ Third-party components (of the entity-component-system pattern). To create and s
 - [Randomizer](https://github.com/ngokevin/aframe-randomizer-components) - Set random values
 - [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com/)- Click on an entity to select it, handy for editors
 - [Shadows](https://github.com/donmccurdy/aframe-extras/tree/master/src/shadows) - Realtime shadows
+- [Shake-to-Show](https://github.com/rdub80/aframe-shake2show-component) - Using shake.js to toggle UI
 - [Star](https://github.com/andreasplesch/aframe-star-component) - 2D stars
 - [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
 - [Teleport Controls](https://github.com/fernandojsg/aframe-teleport-controls) - Teleportation with tracked controllers
@@ -158,16 +167,16 @@ Third-party components (of the entity-component-system pattern). To create and s
 - [Video Controls](https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
 - [Vive Cursor](https://github.com/bryik/aframe-vive-cursor-component) - A cursor for HTC Vive controllers
 - [WebVR Controller](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
-- [Look At and Billboard](https://github.com/blairmacintyre/aframe-look-at-billboard-component) - Component to tell an entity to face another entity, or to face the camera.
+- [Look At and Billboard](https://github.com/blairmacintyre/aframe-look-at-billboard-component) - Component to tell an entity to face another entity, or to face the camera
 - [Animation](https://ngokevin.github.io/aframe-animation-component/) - New and improved animation system using components. [[Code](https://github.com/ngokevin/aframe-animation-component)]
-- [ChartBuilder](https://github.com/impronunciable/aframe-chartbuilder-component) - A component for using [ChartBuilder](http://quartz.github.io/Chartbuilder/) charts.
-- [Stereo Cube](https://github.com/wallabyway/aframe-stereocube) - A component for stereo cubemap textures (i.e., left and right eye textures).
-- [Trigger Box](https://github.com/Utopiah/aframe-triggerbox-component) - A component that emits an event when it enters or leaves a predefined area.
-- [L-System](https://github.com/nylki/aframe-lsystem-component) - A component for rendering [Lindenmayer](https://en.wikipedia.org/wiki/L-system) systems.
+- [ChartBuilder](https://github.com/impronunciable/aframe-chartbuilder-component) - A component for using [ChartBuilder](http://quartz.github.io/Chartbuilder/) charts
+- [Stereo Cube](https://github.com/wallabyway/aframe-stereocube) - A component for stereo cubemap textures (i.e., left and right eye textures)
+- [Trigger Box](https://github.com/Utopiah/aframe-triggerbox-component) - A component that emits an event when it enters or leaves a predefined area
+- [L-System](https://github.com/nylki/aframe-lsystem-component) - A component for rendering [Lindenmayer](https://en.wikipedia.org/wiki/L-system) systems
 - [Terrain Model](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
-- [Orbit Controls Component](https://github.com/tizzle/aframe-orbit-controls-component) - Allow desktop users to rotate the camera around an object.
-- [Sprite Component](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera.
-- [UI Components](https://github.com/gmarty/aframe-ui-components) - A [collection of useful UI components](https://gmarty.github.io/aframe-ui-components/)
+- [Orbit Controls Component](https://github.com/tizzle/aframe-orbit-controls-component) - Allow desktop users to rotate the camera around an object
+- [Sprite Component](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera
+- [UI Components](https://github.com/gmarty/aframe-ui-components) - A collection of components related to UI
 
 ### Materials
 
@@ -182,13 +191,14 @@ Integration with existing tools, frameworks, and libraries.
 
 - [aframe-jade-boilerplate](https://github.com/KevinGrandon/aframe-jade-boilerplate) - A-Frame with the Jade templating engine
 - [aframe-role](https://github.com/Popmotion/aframe-role) - A-Frame with Popmotion for animations, physics, and input tracking
-- [D3.js](http://blockbuilder.org/enjalot/1fd196cd99f8d58a56d3) - A-Frame with D3.js [[Video Tutorial]](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
+- [D3.js](http://blockbuilder.org/search#text=aframe) - Many A-Frame projects done with D3.js [[Video Tutorial]](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
 - [Vue.js + TweenMax demo](http://codepen.io/cheapsteak/pen/dGXZjx?editors=101) - Example of A-Frame with Vue.js for reactive components
 - [aframe-templating-examples](https://github.com/ngokevin/aframe-templating-examples) - A-Frame with templating engines such as Handlebars, mustache, Nunjucks
 - [SpineFrame](https://github.com/JoshGalvin/SpineFrame/) - Component for 2D sprite animation with [Spine](http://esotericsoftware.com/)
 - [Meteor](https://github.com/vladbalan/meteor-aframe) - A-Frame with [Meteor](https://www.meteor.com/), a JavaScript app framework
 - [Altspace](https://github.com/AltspaceVR/aframe-altspace-component) - Integration with AltspaceVR
 - [IdeaSpace](https://github.com/IdeaSpaceVR/IdeaSpace) - IdeaSpace CMS for the virtual reality web
+<<<<<<< HEAD
 - [Angular 2 Boilerplate](https://github.com/brakmic/Angular_VRDemo) - An environment for developing WebVR apps with Angular 2 with A-Frame.
 - [Drupal](https://www.drupal.org/project/aframe) - Drupal module for integration with A-Frame.
 - [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) - CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
@@ -196,6 +206,10 @@ Integration with existing tools, frameworks, and libraries.
 - [aframe-d3-3d-bars-example](http://cjroth.com/aframe-d3-3d-bars-example/) - An example of a 3D bar chart using D3 and Aframe.
 - [aframe-phantomjs-continuous-streaming](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the web in VR by live streaming a web page into Aframe using PhantomJS and ffmpeg.
 
+=======
+- [Drupal](https://www.drupal.org/project/aframe) - Drupal module for integration with A-Frame
+- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) -  CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
+>>>>>>> updates
 
 #### [React](https://github.com/facebook/react)
 
@@ -203,7 +217,6 @@ Use React with A-Frame. Share your A-Frame React Components!
 
 - [aframe-react](https://github.com/ngokevin/aframe-react)
 - [aframe-react-boilerplate (with Webpack)](https://github.com/ngokevin/aframe-react-boilerplate)
-- [aframe-react-starter](https://github.com/fouad/aframe-react-starter)
 - [React + Redux Demo (including switching between 2D and 3D)](https://github.com/RSpace/aframe-meetup-example)
 - [React + TweenMax Demo](http://codepen.io/cheapsteak/pen/pgbdGa?editors=001)
 - [React Redux Boilerplate](https://github.com/HeartRunner/react-redux-aframe-boilerplate/) - Combining React, Redux, React Router, A-Frame, and Webpack
@@ -212,7 +225,6 @@ Use React with A-Frame. Share your A-Frame React Components!
 
 - [A-Painter](https://aframe.io/a-painter/) - Paint in VR [[Code]](https://github.com/aframevr/a-painter) [[Post]](https://blog.mozvr.com/a-painter/)
 - [a-invaders](http://swimminglessonsformodernlife.com/a-invaders/) - Space invaders game [[Code]](https://github.com/dmarcos/a-invaders)
-- [a-wakens](https://ngokevin.github.com/a-wakens) - Star Wars Audio Visualization [[Code]](https://github.com/ngokevin/a-wakens)
 - [VR Website Navigation](http://drawvr.com/)
 - [Tron-Inspired VR Website Experience](http://drawvr.com/tron/)
 - [Minecraft-Inspired VR Website Experience](http://drawvr.com/minecraft/)
@@ -250,13 +262,13 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Hello VR](http://pixelz.de/vr/hellovr/) - Moody dark scene with cool shadows, reflections, and animated clouds
 - [32Studios Lounge](http://32studios.magichandsrepair.com/browsertour/lounge/) - Enjoy a lounge with coffee machines, laptops, and VR headsets while grooving to SoundCloud
 - [Mars: An Interactive Journey](https://www.washingtonpost.com/video/mars/public/) - Explore Mars in virtual reality. Published by the Washington Post and created by a group at University of Texas at Austin. Read [their thoughts on A-Frame and WebVR](https://developer.washingtonpost.com/pb/blog/post/2016/03/11/vr-for-all/)
-- [Subreddit gallery](https://www.scenevr.com/r/aww) - View subreddits as virtual galleries
+- [Subreddit Gallery](https://www.scenevr.com/r/aww) - View subreddits as virtual galleries
 - [360 Syria](http://360syria.com/) - View the devastation of barrel bombs in Aleppo, Syria. Created in partnership with [AllJunior](http://junior.io) and Amnesty International UK
 - [PerspecTV VR Player](http://32studios.magichandsrepair.com/designstudio/2016/03/perspectv-vr-player/) - 360-video VR player that allows you to view any 360-video from the web. Compatible with mobile
 - [Escape Game](http://drawvr.com/escape/) - Can you escape?
-- [Escape Game 2: The Game](http://drawvr.com/escape/) - Can you escape again?
+- [Escape Game 2: The Game](http://drawvr.com/escape2/) - Can you escape again?
 - [Tron World - Carpet Ride](http://alexoviedo999.github.io/vr-carpet-ride/tron-world/)
-- [OverWater](http://www.skyislandsvr.com/pages/overwater.html) - SkyIslands VR piece.
+- [OverWater](http://www.skyislandsvr.com/pages/overwater.html) - SkyIslands VR piece
 - [Voxel Castle](https://www.scenevr.com/scenes/398/view) - Castle created with MagicaVoxel and baked in Blender
 - [Monument Valley Castle](https://www.scenevr.com/scenes/397/view) - Another castle created with MagicaVoxel and baked in Blender
 - [Lava Cave Game](http://drawvr.com/lava-cave) - Don't touch the lava
@@ -299,85 +311,88 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Where is Piers Morgan Disliked the Most?](http://almossawi.com/aframe-d3-visualization/demo/) - D3 data visualization
 - [First Citdael](http://www.skyislandsvr.com/pages/firstcitadel.html) - Citadel with flowing waterfalls
 - [Missed Connections](http://armthethinker.github.io/webVR-experiments/5--missed-connections.html) - Visualization of Craigslist "Missed Connections" section
-- [Aeon](http://aeon.horoman.com/) - Aeon is a 3D environment with VR support, where the user runs an island that tells about the prequel to the main story of Aeon.
-- [SlideAmaze](http://slideamaze.com/) - Turns your slideshow presentation [into a 3D maze](http://fouryears.eu/2016/07/27/slide-a-maze/).
-- [A-Frame AR](https://github.com/autonome/aframe-ar) - Experimenting with AR using A-Frame and getUserMedia.
-- [Outside Lands VR](https://ngokevin.github.io/aframe-magicavoxel-projects/outsidelands/) - VR preview of the San Francisco Outside Lands music festival.
-- [Home/Hope](https://homehope.corriere.it/) )- Narrated journalism piece about humanitarian work in South Sudan. Featured on Italy’s top news site.
-- [RunJumpDevSlides](http://webvr-demos-nikolaiwarner.c9users.io:8081/) - Virtual slidedeck for an A-Frame talk at RunJumpDev.
+- [Aeon](http://aeon.horoman.com/) - Aeon is a 3D environment with VR support, where the user runs an island that tells about the prequel to the main story of Aeon
+- [SlideAmaze](http://slideamaze.com/) - Turns your slideshow presentation [into a 3D maze](http://fouryears.eu/2016/07/27/slide-a-maze/)
+- [A-Frame AR](https://github.com/autonome/aframe-ar) - Experimenting with AR using A-Frame and getUserMedia
+- [Outside Lands VR](https://ngokevin.github.io/aframe-magicavoxel-projects/outsidelands/) - VR preview of the San Francisco Outside Lands music festival
+- [Home/Hope](https://homehope.corriere.it/) )- Narrated journalism piece about humanitarian work in South Sudan. Featured on Italy’s top news site
+- [RunJumpDevSlides](http://webvr-demos-nikolaiwarner.c9users.io:8081/) - Virtual slidedeck for an A-Frame talk at RunJumpDev
 - [Multiplayer Tic Tac Toe](http://jsbin.com/janevom/edit?html,output) - Prototype of networked Vives playing Tic Tac Toe. [[Video](https://www.youtube.com/watch?v=vGjIWwozOU4)]
-- [30 Days of WebVR](http://codepen.io/collection/AKkywv/) - One order of A-Frame and WebVR per day, all on CodePen.
+- [30 Days of WebVR](http://codepen.io/collection/AKkywv/) - One order of A-Frame and WebVR per day, all on CodePen
 - [Dominoes](https://bryik.github.io/aframe-dominoes/) - Demonstration of HTC Vive with physics using dominoes. [[Code](https://github.com/bryik/aframe-dominoes/blob/master/index.html), [Video](https://www.youtube.com/watch?v=gU-P-56kAnI)]
 - [Ball Throw](https://bryik.github.io/aframe-ball-throw/) -  Throw balls at blocks using Vive controllers and [Don McCurdy's](https://twitter.com/donrmccurdy) physics. [[Code](https://github.com/bryik/aframe-ball-throw)]
 - [Lyrics VR](https://gurumukhi.github.io/vr-ram/demos/lyricsVR/index.html) - Watch lyrics fly past you in time with the music. [[Code](https://github.com/gurumukhi/vr-ram/tree/gh-pages/demos/lyricsVR)]
-- [Rubik's Cube](http://tushararora.github.io/rubiks-cube/) - Spinning Rubik’s Cube featuring a multicolored-cube component.[[Code](https://github.com/tushararora/tushararora.github.io/tree/master/rubiks-cube)]
-- [Shopify - City Shoes](https://shopifyvr.myshopify.com/) -  Shop in VR! Pick up some trainers and see if they match your swagger.
-- [Vrogger](https://carbonfive.github.io/vrogger/) - Frogger in VR. Hop and get across the road.
-- [A-Frame Statistics Dashboard](https://ngokevin.github.io/aframe-statistics-dashboard/) - d3.js calendar heatmap of A-Frame GitHub Stargazers per day.
-- [Pokemon Stadium](https://ngokevin.github.io/aframe-magicavoxel-projects/pokemon/) - Face off against Charizard on the Pokemon Stadium.
-- [Design Portfolio](http://eddiebarkman.github.io/VR-Design-Portfolio/) - About pages in 3D space with neat transitions.
+- [Rubik's Cube](http://tushararora.github.io/rubiks-cube/) - Spinning Rubik's Cube featuring a multicolored-cube component.[[Code](https://github.com/tushararora/tushararora.github.io/tree/master/rubiks-cube)]
+- [Shopify - City Shoes](https://shopifyvr.myshopify.com/) -  Shop in VR! Pick up some trainers and see if they match your swagger
+- [Vrogger](https://carbonfive.github.io/vrogger/) - Frogger in VR. Hop and get across the road
+- [A-Frame Statistics Dashboard](https://ngokevin.github.io/aframe-statistics-dashboard/) - d3.js calendar heatmap of A-Frame GitHub Stargazers per day
+- [Pokemon Stadium](https://ngokevin.github.io/aframe-magicavoxel-projects/pokemon/) - Face off against Charizard on the Pokemon Stadium
+- [Design Portfolio](http://eddiebarkman.github.io/VR-Design-Portfolio/) - About pages in 3D space with neat transitions
 - [Stand at the Edge of Geologic Time](http://apps.npr.org/rockymountain-vr/) - A virtual reality tour from NPR of Rocky Mountain National Park. [[Code](https://github.com/nprapps/rockymountain)]
-- [MagicaVoxel: A-Frame](https://ngokevin.github.io/aframe-magicavoxel-projects/aframe/) - A-Frame in MagicaVoxel in A-Frame.
-- [Earth Rover](https://www.hackster.io/RONDAGDAG/control-your-earth-rover-in-virtual-reality-15a9fe) - Controlling a physical robot from outer space using Intel Edison and Leap Motion.
-- [Imagined Reality](https://bryik.github.io/aframe-metaverse-contest/examples/imagined-reality.html) - Stereoscopic cubemaps, taken from winners of OTOY’s Render the Metaverse context.
-- [Star Crossed](http://vrweb.io/p/starCrossed/) - Piano and stars.
-- [Vive Starter](https://github.com/richardanaya/aframe-vive-starter) - Simple boilerplate for a Vive project using the third-party aframe-webvr-controller component.
-- [Procedural Forest](http://nylki.github.io/aframe-lsystem-component/forrest/) - A procedural forest with procedural trees using the [L-System Component](https://github.com/nylki/aframe-lsystem-component).
+- [MagicaVoxel: A-Frame](https://ngokevin.github.io/aframe-magicavoxel-projects/aframe/) - A-Frame in MagicaVoxel in A-Frame
+- [Earth Rover](https://www.hackster.io/RONDAGDAG/control-your-earth-rover-in-virtual-reality-15a9fe) - Controlling a physical robot from outer space using Intel Edison and Leap Motion
+- [Imagined Reality](https://bryik.github.io/aframe-metaverse-contest/examples/imagined-reality.html) - Stereoscopic cubemaps, taken from winners of OTOY’s Render the Metaverse context
+- [Star Crossed](http://vrweb.io/p/starCrossed/) - Piano and stars
+- [Vive Starter](https://github.com/richardanaya/aframe-vive-starter) - Simple boilerplate for a Vive project using the third-party aframe-webvr-controller component
+- [Procedural Forest](http://nylki.github.io/aframe-lsystem-component/forrest/) - A procedural forest with procedural trees using the [L-System Component](https://github.com/nylki/aframe-lsystem-component)
 - [MagicaVoxel: City](https://ngokevin.github.io/aframe-magicavoxel-projects/city/) - A city built using [MagicaVoxel](https://ephtracy.github.io/). [[Tutorial](https://github.com/ngokevin/aframe-magicavoxel-projects#tutorial)]
-- [Sad Island](http://www.skyislandsvr.com/pages/SadIsland.html) - An island in the sea. Strangely you feel like you are being watched.
-- [iStaging LiveTour](http://vrviewer.istaging.co/#!/684173) - 360&degree; real estate tours with a neat mini-map.
+- [Sad Island](http://www.skyislandsvr.com/pages/SadIsland.html) - An island in the sea. Strangely you feel like you are being watched
+- [iStaging LiveTour](http://vrviewer.istaging.co/#!/684173) - 360&degree; real estate tours with a neat mini-map
 - [Tanks](http://www.bubbletanks.biz/) - A multiplayer tank game. [[Code](https://github.com/ourvrisrealerthanyours/tanks)]
 - [Choose Your Own VR](https://github.com/dannielle/tinier-house) - Which cup will you choose?
-- [Cat Garden](http://dirosa.me/cat-garden/) - Float through a space of cats and balloons.
-- [Virtual Symphony](https://flexingdream.github.io/aframe_demo/) - Experience music in a new way on this symphonic trip through Martin Garrix and Third Party - Lions in the Wild.
-- [Brexit in Berlin](https://popathon.github.io/Gexit/hq.html) - Listen to Europeans talk and react to Brexit.
-- [Virtual Symphony II](https://musicpua.firebaseapp.com/) - Fly through particles, eagles, and horses while listening to Chainsmokers - Inside Out (Remix).
-- [VRVisitors](https://georational.github.io/VRVisitors/VRVisitors.html) - Multi-user gallery of photogrammetric museum artifacts.
+- [Cat Garden](http://dirosa.me/cat-garden/) - Float through a space of cats and balloons
+- [Virtual Symphony](https://flexingdream.github.io/aframe_demo/) - Experience music in a new way on this symphonic trip through Martin Garrix and Third Party - Lions in the Wild
+- [Brexit in Berlin](https://popathon.github.io/Gexit/hq.html) - Listen to Europeans talk and react to Brexit
+- [Virtual Symphony II](https://musicpua.firebaseapp.com/) - Fly through particles, eagles, and horses while listening to Chainsmokers - Inside Out (Remix)
+- [VRVisitors](https://georational.github.io/VRVisitors/VRVisitors.html) - Multi-user gallery of photogrammetric museum artifacts
 - [Head-Tracked Transformations](https://armthethinker.github.io/webVR-experiments/6--head-tracked-transformations.html) -  VR UX prototype of transforming objects’ orientations with your head to enhance VR experiences that don’t have positional tracking. Read the instructions listed at [#6](http://armthethinker.github.io/webVR-experiments/). [[Code](https://github.com/armthethinker/webVR-experiments)]
-- [SFMTA Van Ness BRT Model](https://brt-webvr-fjrtyyjbhf.now.sh/vn-geary.html) - Model of the new Bus Rapid Transit project in San Francisco.
+- [SFMTA Van Ness BRT Model](https://brt-webvr-fjrtyyjbhf.now.sh/vn-geary.html) - Model of the new Bus Rapid Transit project in San Francisco
 - [Virtual Reality Music Player](https://young-refuge-92841.herokuapp.com/) - WebVR music player in space using the Spotify API. [[Code](https://github.com/sebscholl/koo-WebVR)]
 - [Weather Room](http://weatherroom.herokuapp.com/) - What’s the forecast for WebVR? Sunny with no chance of rain. [[Code](https://github.com/sebscholl/weatherroom)]
-- [CinemVR Design Prototype](http://valentin.design/vr) - Design prototype of a VR cinema.
-- [Insurance World](https://hellocreep.github.io/webvr/) - Insurance in suburbia.
-- [JM Visual Creativity](http://vr.jmvisualcreativity.es/) - Web designer and motion graphics artist Jose Manuel Serna’s portfolio.
-- [WebVR Forest](https://danstrong.com/webvr/) - At A-Frame National Park.
-- [Breathing Scape](http://www.jon-ibe.be/aframe/) - A tree-adorned hill that slowly breathes.
-- [A-Runner](https://joshgalvin.github.io/arunner/) - Infinite runner game with cubes.
-- [FireFrame](https://joshgalvin.github.io/aframemulti/) - Multiuser experiment using Firebase for synchronizing users connected to the same A-Frame scene.
-- [Kinect Scans](http://stampswebdesign.com/withersc/kinectscans/) - Students 3D-scanned with Xbox Kinect sensors and exported to .OBJ models. The winning project at University of Michigan’s Makeathon 2016.
-- [Zenspot](https://s3-us-west-2.amazonaws.com/zenpath/pz/main.html)- Relaxing nature experiences with soothing music.
-- [World](http://www.anj.fyi/world/) - Explore 360° photos using globe navigation.
-- [Matrix](http://www.anj.fyi/matrix/) - Jump and push around raining blocks in the Matrix.
-- [Force Push](https://sandbox.donmccurdy.com/vr/force-push/) - Become a block bender.
-- [SpaceTrek](http://spacepants.azurewebsites.net/homevr.html) - Explore 360° videos of space and atmosphere.
-- [Firebase Presentation](https://ngokevin.github.io/aframe-firebase-component/presentation/) - A multiuser demo scene for the SFHTML5 presentation.
-- [PoopVR](http://www.poopvr.biz/) - Life-altering possibilities of VR at the San Francisco Stupid Hackathon.
-- [Low Nausea FPS Locomotion](http://farbs.org/lownauseavrfps/) - Locomotion prototype for using 6DoF controllers (e.g., Vive) to grab and swing through scenes.
+- [CinemVR Design Prototype](http://valentin.design/vr) - Design prototype of a VR cinema
+- [Insurance World](https://hellocreep.github.io/webvr/) - Insurance in suburbia
+- [JM Visual Creativity](http://vr.jmvisualcreativity.es/) - Web designer and motion graphics artist Jose Manuel Serna’s portfolio
+- [WebVR Forest](https://danstrong.com/webvr/) - At A-Frame National Park
+- [Breathing Scape](http://www.jon-ibe.be/aframe/) - A tree-adorned hill that slowly breathes
+- [A-Runner](https://joshgalvin.github.io/arunner/) - Infinite runner game with cubes
+- [FireFrame](https://joshgalvin.github.io/aframemulti/) - Multiuser experiment using Firebase for synchronizing users connected to the same A-Frame scene
+- [Kinect Scans](http://stampswebdesign.com/withersc/kinectscans/) - Students 3D-scanned with Xbox Kinect sensors and exported to .OBJ models. The winning project at University of Michigan’s Makeathon 2016
+- [Zenspot](https://s3-us-west-2.amazonaws.com/zenpath/pz/main.html)- Relaxing nature experiences with soothing music
+- [World](http://www.anj.fyi/world/) - Explore 360° photos using globe navigation
+- [Matrix](http://www.anj.fyi/matrix/) - Jump and push around raining blocks in the Matrix
+- [Force Push](https://sandbox.donmccurdy.com/vr/force-push/) - Become a block bender
+- [SpaceTrek](http://spacepants.azurewebsites.net/homevr.html) - Explore 360° videos of space and atmosphere
+- [Firebase Presentation](https://ngokevin.github.io/aframe-firebase-component/presentation/) - A multiuser demo scene for the SFHTML5 presentation
+- [Low Nausea FPS Locomotion](http://farbs.org/lownauseavrfps/) - Locomotion prototype for using 6DoF controllers (e.g., Vive) to grab and swing through scenes
 - [WebVR Soccer Stadium Complex](https://s3.amazonaws.com/cassell-webvr/webvr-soccer-stadium-multiplex/index.html) - Watch several video feeds at once in a soccer stadium. [[Code](https://github.com/cassell/webvr-soccer-stadium-multiplex)]
 - [Trident](https://codepen.io/bryik/pen/XKWgvK) - Code experiment with cursor events in d3.js
 - [VR Inception School](https://output.jsbin.com/pisaje/) - Learn a bit about WebVR in WebVR.
 - [RCS Gallery](http://fercastillo.com/rcs/volcan/) - Gallery of father’s photographs.
 - [GuriVR](https://gurivr.com/) - Create sharable VR scenes using natural language and zero code. [[Code](https://github.com/opennewslabs/guri-vr)]
-- [VR Space Builder](http://vr.greenbushlabs.com/) - Simple VR builder for kids using a form to import models and images.
-- [WebVR API Simulation Extension](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil) - Run WebVR 1.0 content without a supported headset or even a compatible browser/platform. Great for development.
-- [WebVR Solar System](http://vrspace.jmvisualcreativity.es/) - Solar System using A-Frame.
+- [VR Space Builder](http://vr.greenbushlabs.com/) - Simple VR builder for kids using a form to import models and images
+- [WebVR API Simulation Extension](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil) - Run WebVR 1.0 content without a supported headset or even a compatible browser/platform. Great for development
+- [WebVR Solar System](http://vrspace.jmvisualcreativity.es/) - Solar System using A-Frame
 - [Track](https://samsunginternet.github.io/a-frame-demos/racer/) - Zooming on the track with the ocean water reflecting the sunset sky. [[Code](https://github.com/SamsungInternet/a-frame-demos/blob/gh-pages/racer/index.html)]
-- [AaMAZE Music Festival](http://vr.aamaze.dk/) - Fully responsive official VR website for the AaMAZE music festival in Denmark.
-- [Heart](https://s3.amazonaws.com/vr-asset-repo/heart_demo_slack.html) - An educating and interactive tour of the heart. But a life is at stake.
+- [AaMAZE Music Festival](http://vr.aamaze.dk/) - Fully responsive official VR website for the AaMAZE music festival in Denmark
+- [Heart](https://s3.amazonaws.com/vr-asset-repo/heart_demo_slack.html) - An educating and interactive tour of the heart. But a life is at stake
 - [Miradas 360](https://miradas360.github.io/miradas360-01/) - 360 experiences created by media production teams. [[Code](https://github.com/Miradas360/miradas360-01)]
-- [Interactive 360 Videos](http://s3.amazonaws.com/hapyak_demos/interactive360video/edit.html) - Upload and edit 360 interactive videos by overlaying DOM elements.
-- [Unity Exporter to A-Frame](https://github.com/if1live/unity-scene-web-exporter) - Export Unity scenes to three.js or A-Frame with lightmapping.
-- [WordPress Template](http://www.construktiv.de/imagine/webvr-mit-a-frame/) - WordPress template that displays the four most recent posts in VR.
-- [Web Speech API Test](https://codepen.io/bryik/pen/mErOOR?editors=0010) - A demo of the Speech Recognition API to change object colors.
-- [Apollo 11 Scan](http://math.nist.gov/~SRessler/aframe/ebd/projects/apollo/) - View the inside of the Apollo 11 Command Module, thanks to the National Air and Space Museum.
-- [Olympic Rings](https://trys.github.io/aframe/2/) - A-Frame gets the gold at Rio 2016.
-- [Covo](https://s3-us-west-1.amazonaws.com/geopogo/covo/aframe_0_1_0/index.html) - Architectural visualization with baked global illumination.
-- [Humanity](https://codepen.io/davatron5000/pen/RRmVQz) - Day 8 of Dave’s 30 Days of WebVR.
-- [TrippyVR.Tech](http://trippyvr.tech) - A showcase of various trippy VR experiences.
-- [Speed VReader](http://vrindle.herokuapp.com) - A Virtual Reality Speed Reader built with React and A-Frame.
+- [Interactive 360 Videos](http://s3.amazonaws.com/hapyak_demos/interactive360video/edit.html) - Upload and edit 360 interactive videos by overlaying DOM elements
+- [Unity Exporter to A-Frame](https://github.com/if1live/unity-scene-web-exporter) - Export Unity scenes to three.js or A-Frame with lightmapping
+- [WordPress Template](http://www.construktiv.de/imagine/webvr-mit-a-frame/) - WordPress template that displays the four most recent posts in VR
+- [Web Speech API Test](https://codepen.io/bryik/pen/mErOOR?editors=0010) - A demo of the Speech Recognition API to change object colors
+- [Apollo 11 Scan](http://math.nist.gov/~SRessler/aframe/ebd/projects/apollo/) - View the inside of the Apollo 11 Command Module, thanks to the National Air and Space Museum
+- [Olympic Rings](https://trys.github.io/aframe/2/) - A-Frame gets the gold at Rio 2016
+- [Covo](https://s3-us-west-1.amazonaws.com/geopogo/covo/aframe_0_1_0/index.html) - Architectural visualization with baked global illumination
+- [Humanity](https://codepen.io/davatron5000/pen/RRmVQz) - Day 8 of Dave’s 30 Days of WebVR
+- [TrippyVR.Tech](http://trippyvr.tech) - A showcase of various trippy VR experiences
+- [Speed VReader](http://vrindle.herokuapp.com) - A Virtual Reality Speed Reader built with React and A-Frame
 - [Asteroids](https://headshotvr.herokuapp.com) - FPS of Asteroids made with A-Frame and React.
+- [ScreenVR](https://jonathanzwhite.github.io/screenvr/) - Use your desktop in the Web in VR
+- [Let it Snow](https://surebak.github.io/) - Snowflake maker
+- [City Builder](https://kfarr.github.io/aframe-city-builder) - Room scale city builder [[code](https://github.com/kfarr/aframe-city-builder)]
+- [PhantomJS Continuous Streaming](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the Web in VR by live-streaming a web page using PhantomJS and ffmpeg
 
-Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
+Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md)
 
 ## License
 
