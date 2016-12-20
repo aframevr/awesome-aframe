@@ -81,7 +81,6 @@ Learn about A-Frame.
 
 - [A-Frame WebVR Tutorials](https://www.youtube.com/watch?v=dv6_C4UqTfs&list=PLRtjMdoYXLf4inSULAHyCMqpIUj4cmBTr) - A-Frame WebVR tutorial series
 - [Responsive Web Design with A-Frame](https://www.youtube.com/watch?v=HogJdsepZRo)
->>>>>>> updates
 - [D3 + 3D: Using d3.js with A-Frame](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
 - [Using A-Frame with Epson Moverio and Crosswalk](https://www.youtube.com/watch?v=Tt-pX1JMt60) - Tech talk on building WebVR and VR apps with Crosswalk and A-Frame for the [Epson Moverio](http://www.epson.com/moverio) augmented-reality smart glasses
 - [A Review of Mozilla's A-Frame WebVR Framework](https://www.youtube.com/watch?v=4IqBLoJd0ww)
@@ -192,24 +191,16 @@ Integration with existing tools, frameworks, and libraries.
 - [aframe-jade-boilerplate](https://github.com/KevinGrandon/aframe-jade-boilerplate) - A-Frame with the Jade templating engine
 - [aframe-role](https://github.com/Popmotion/aframe-role) - A-Frame with Popmotion for animations, physics, and input tracking
 - [D3.js](http://blockbuilder.org/search#text=aframe) - Many A-Frame projects done with D3.js [[Video Tutorial]](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
+- [aframe-d3-3d-graph-example](http://cjroth.com/aframe-d3-3d-graph-example/) - An example of a 3D weighted graph using D3 and A-Frame
+- [aframe-d3-3d-bars-example](http://cjroth.com/aframe-d3-3d-bars-example/) - An example of a 3D bar chart using D3 and A-Frame
 - [Vue.js + TweenMax demo](http://codepen.io/cheapsteak/pen/dGXZjx?editors=101) - Example of A-Frame with Vue.js for reactive components
 - [aframe-templating-examples](https://github.com/ngokevin/aframe-templating-examples) - A-Frame with templating engines such as Handlebars, mustache, Nunjucks
 - [SpineFrame](https://github.com/JoshGalvin/SpineFrame/) - Component for 2D sprite animation with [Spine](http://esotericsoftware.com/)
 - [Meteor](https://github.com/vladbalan/meteor-aframe) - A-Frame with [Meteor](https://www.meteor.com/), a JavaScript app framework
 - [Altspace](https://github.com/AltspaceVR/aframe-altspace-component) - Integration with AltspaceVR
 - [IdeaSpace](https://github.com/IdeaSpaceVR/IdeaSpace) - IdeaSpace CMS for the virtual reality web
-<<<<<<< HEAD
-- [Angular 2 Boilerplate](https://github.com/brakmic/Angular_VRDemo) - An environment for developing WebVR apps with Angular 2 with A-Frame.
 - [Drupal](https://www.drupal.org/project/aframe) - Drupal module for integration with A-Frame.
 - [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) - CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
-- [aframe-d3-3d-graph-example](http://cjroth.com/aframe-d3-3d-graph-example/) - An example of a 3D weighted graph using D3 and Aframe.
-- [aframe-d3-3d-bars-example](http://cjroth.com/aframe-d3-3d-bars-example/) - An example of a 3D bar chart using D3 and Aframe.
-- [aframe-phantomjs-continuous-streaming](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the web in VR by live streaming a web page into Aframe using PhantomJS and ffmpeg.
-
-=======
-- [Drupal](https://www.drupal.org/project/aframe) - Drupal module for integration with A-Frame
-- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) -  CSS-like stylesheets for A-Frame for declaring mixins. [[Code](https://github.com/ngokevin/aframe-mss)]
->>>>>>> updates
 
 #### [React](https://github.com/facebook/react)
 
