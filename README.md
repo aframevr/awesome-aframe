@@ -176,6 +176,7 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [Orbit Controls Component](https://github.com/tizzle/aframe-orbit-controls-component) - Allow desktop users to rotate the camera around an object
 - [Sprite Component](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera
 - [UI Components](https://github.com/gmarty/aframe-ui-components) - A collection of components related to UI
+- [Pipe](https://github.com/jellix79/aframe-pipe-component) - A pipe with inner and outer radius
 
 ### Materials
 
