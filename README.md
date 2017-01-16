@@ -138,6 +138,7 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [Keyboard](https://github.com/richardanaya/aframe-keyboard) - Full VR keyboard for use with WebVR controllers
 - [Layout](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
 - [Leap Hands](https://github.com/openleap/aframe-leap-hands) - Leap Motion
+- [Mario Star Texture](https://github.com/casonclagg/aframe-mario-star-component) - Texture that cycles colors like stars in Mario using canvas
 - [Mesh Line](https://github.com/andreasplesch/aframe-meshline-component) - Draw thick lines
 - [Mouse Cursor](https://github.com/mayognaise/aframe-mouse-cursor-component) - Use mouse as a direct pointer
 - [No-click Look Controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mousedown + drag
