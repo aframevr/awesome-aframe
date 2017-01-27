@@ -129,6 +129,7 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [Gamepad Controls](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
 - [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
 - [glTF](https://github.com/xirvr/aframe-gltf/) - glTF models
+- [Gradient Sky](https://github.com/zcanter/aframe-gradient-sky) - Gradient sky box
 - [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Create customizable grids
 - [Height Grid](https://github.com/andreasplesch/aframe-heightgrid-component) - Terrain
 - [href](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
