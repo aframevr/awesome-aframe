@@ -316,7 +316,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [MagicaVoxel: City](https://ngokevin.github.io/aframe-magicavoxel-projects/city/) - A city built using [MagicaVoxel](https://ephtracy.github.io/). [[Tutorial](https://github.com/ngokevin/aframe-magicavoxel-projects#tutorial)]
 - [Sad Island](http://www.skyislandsvr.com/pages/SadIsland.html) - An island in the sea. Strangely you feel like you are being watched
 - [iStaging LiveTour](http://vrviewer.istaging.co/#!/684173) - 360&degree; real estate tours with a neat mini-map
-- [Tanks](http://www.bubbletanks.biz/) - A multiplayer tank game. [[Code](https://github.com/ourvrisrealerthanyours/tanks)]
+- [Tanks](http://www.bubbletanks.biz/) - A multiplayer tank game. [[Code](https://github.com/ourvrisrealerthanyours/tanks)] (The demo doesnt work. look at the code)
 - [Choose Your Own VR](https://github.com/dannielle/tinier-house) - Which cup will you choose?
 - [Cat Garden](http://dirosa.me/cat-garden/) - Float through a space of cats and balloons
 - [Virtual Symphony](https://flexingdream.github.io/aframe_demo/) - Experience music in a new way on this symphonic trip through Martin Garrix and Third Party - Lions in the Wild
@@ -325,7 +325,6 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [VRVisitors](https://georational.github.io/VRVisitors/VRVisitors.html) - Multi-user gallery of photogrammetric museum artifacts
 - [Head-Tracked Transformations](https://armthethinker.github.io/webVR-experiments/6--head-tracked-transformations.html) -  VR UX prototype of transforming objects’ orientations with your head to enhance VR experiences that don’t have positional tracking. Read the instructions listed at [#6](http://armthethinker.github.io/webVR-experiments/). [[Code](https://github.com/armthethinker/webVR-experiments)]
 - [SFMTA Van Ness BRT Model](https://brt-webvr-fjrtyyjbhf.now.sh/vn-geary.html) - Model of the new Bus Rapid Transit project in San Francisco
-- [Virtual Reality Music Player](https://young-refuge-92841.herokuapp.com/) - WebVR music player in space using the Spotify API. [[Code](https://github.com/sebscholl/koo-WebVR)]
 - [Weather Room](http://weatherroom.herokuapp.com/) - What’s the forecast for WebVR? Sunny with no chance of rain. [[Code](https://github.com/sebscholl/weatherroom)]
 - [CinemVR Design Prototype](http://valentin.design/vr) - Design prototype of a VR cinema
 - [Insurance World](https://hellocreep.github.io/webvr/) - Insurance in suburbia
@@ -334,7 +333,6 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Breathing Scape](http://www.jon-ibe.be/aframe/) - A tree-adorned hill that slowly breathes
 - [A-Runner](https://joshgalvin.github.io/arunner/) - Infinite runner game with cubes
 - [FireFrame](https://joshgalvin.github.io/aframemulti/) - Multiuser experiment using Firebase for synchronizing users connected to the same A-Frame scene
-- [Kinect Scans](http://stampswebdesign.com/withersc/kinectscans/) - Students 3D-scanned with Xbox Kinect sensors and exported to .OBJ models. The winning project at University of Michigan’s Makeathon 2016
 - [Zenspot](https://s3-us-west-2.amazonaws.com/zenpath/pz/main.html)- Relaxing nature experiences with soothing music
 - [World](http://www.anj.fyi/world/) - Explore 360° photos using globe navigation
 - [Matrix](http://www.anj.fyi/matrix/) - Jump and push around raining blocks in the Matrix
@@ -345,7 +343,6 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [WebVR Soccer Stadium Complex](https://s3.amazonaws.com/cassell-webvr/webvr-soccer-stadium-multiplex/index.html) - Watch several video feeds at once in a soccer stadium. [[Code](https://github.com/cassell/webvr-soccer-stadium-multiplex)]
 - [Trident](https://codepen.io/bryik/pen/XKWgvK) - Code experiment with cursor events in d3.js
 - [VR Inception School](https://output.jsbin.com/pisaje/) - Learn a bit about WebVR in WebVR.
-- [RCS Gallery](http://fercastillo.com/rcs/volcan/) - Gallery of father’s photographs.
 - [GuriVR](https://gurivr.com/) - Create sharable VR scenes using natural language and zero code. [[Code](https://github.com/opennewslabs/guri-vr)]
 - [VR Space Builder](http://vr.greenbushlabs.com/) - Simple VR builder for kids using a form to import models and images
 - [WebVR API Simulation Extension](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil) - Run WebVR 1.0 content without a supported headset or even a compatible browser/platform. Great for development
