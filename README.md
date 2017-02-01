@@ -59,7 +59,6 @@ Learn about A-Frame.
 - [Entity-Component-System Wikipedia](https://en.wikipedia.org/wiki/Entity_component_system)
 - [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-einstieg)
 - [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-grundlagen)
-- [Text in A-frame](https://aframe.io/docs/master/components/text.html) - Introdution to using text componenent to display font text.
 
 
 ##### Case Studies
@@ -79,8 +78,7 @@ Learn about A-Frame.
 - [Interactive 360 Video: Accurate Positioning and Smooth Tracking](https://corp.hapyak.com/resources/interactive-360-videos-accuracy/) - Interactive 360 videos by overlaying DOM elements and live editing 360 videos
 - [Hands-on With Virtual Reality Using A-Frame, React and Redux](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7)
 - [The Bow & Arrow is Virtual Reality’s “Hello, World”](https://medium.com/@jamesbpollack/the-bow-arrow-is-virtual-realitys-hello-world-b0556faa3ef8) - Building a Bow & Arrow game for tracked controllers with A-frame
-- [Painting Jam WriteUp](https://github.com/JamsCenter/PaintingJam_EditionJan2017/wiki/WriteUp) - All about the Painting Jam Jan. 2017
-- [Seminar on WebVR](https://nazmusshakib.wordpress.com/2017/01/26/webvrctg/) - Writeup for a Seminar at IIUC, Bangladesh
+
 
 
 #### Videos
@@ -186,9 +184,9 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [Sprite Component](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera
 - [UI Components](https://github.com/gmarty/aframe-ui-components) - A collection of components related to UI
 - [Pipe](https://github.com/jellix79/aframe-pipe-component) - A pipe with inner and outer radius
-- [Persist component](https://github.com/Utopiah/aframe-persist-component) - Use localStorage to make data persist over experiences.
-- [Gradient Sky](https://github.com/zcanter/aframe-gradient-sky) - A gradient sky component for the A-Frame WebVR Framework.
-- [Mouse Cursor Component](https://github.com/mayognaise/aframe-mouse-cursor-component) - A-Frame Mouse Cursor Component for A-Frame VR.
+- [Persist Component](https://github.com/Utopiah/aframe-persist-component) - Use localStorage to make data persist over experiences
+- [Gradient Sky](https://github.com/zcanter/aframe-gradient-sky) - Use a gradient on sky
+- [Mouse Cursor Component](https://github.com/mayognaise/aframe-mouse-cursor-component) - Add interaction to the mouse cursor
 
 ### Materials
 
@@ -376,12 +374,8 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [City Builder](https://kfarr.github.io/aframe-city-builder) - Room scale city builder [[code](https://github.com/kfarr/aframe-city-builder)]
 - [PhantomJS Continuous Streaming](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the Web in VR by live-streaming a web page using PhantomJS and ffmpeg
 - [Low Poly Forest Scene](http://forestvr.onepopcorn.com/) - Scene with snow and low poly forest
-- [Star Wars - The Last Jedi Poster with A-frame](https://t.co/jbu2UikOFF) - Scrolling Logo for latest Star wars movie
-- [Firefox Nightly WebExtension to add VR interface to your local filesystem](http://www.virtuleap.com/apps/details/dc) - Explore your filesystem in your browser
 - [Tarski’s Truth Machine](https://apps.tlt.stonybrook.edu/tarski/) - Tarski’s Truth Machine for HTC Vive
-- [AARRRR! THE WAVES!!](http://globalgamejam.org/2017/games/aarrrr-waves) - Multiplayer VR game of a pirate battleship battle
-- [Cambridge Census](https://scatterviz.neocities.org/census.html) - Plotting Data in VR - [MIT/IAP Course DataVR](https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR)
-- [Tattoo Simulator](http://www.tattoosim.com/) - **NSFW (Nudity)** Place tattoos on a human model.
+- [Tattoo Simulator](http://www.tattoosim.com/) - **NSFW (Nudity)** Place tattoos on a human model
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md)
 
