@@ -60,7 +60,6 @@ Learn about A-Frame.
 - [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-einstieg)
 - [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-grundlagen)
 
-
 ##### Case Studies
 
 - [First Steps in VR](https://24ways.org/2016/first-steps-in-vr/) - Building a maze game in VR
@@ -78,8 +77,6 @@ Learn about A-Frame.
 - [Interactive 360 Video: Accurate Positioning and Smooth Tracking](https://corp.hapyak.com/resources/interactive-360-videos-accuracy/) - Interactive 360 videos by overlaying DOM elements and live editing 360 videos
 - [Hands-on With Virtual Reality Using A-Frame, React and Redux](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7)
 - [The Bow & Arrow is Virtual Reality’s “Hello, World”](https://medium.com/@jamesbpollack/the-bow-arrow-is-virtual-realitys-hello-world-b0556faa3ef8) - Building a Bow & Arrow game for tracked controllers with A-frame
-
-
 
 #### Videos
 
