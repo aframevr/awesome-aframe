@@ -1,4 +1,4 @@
-## awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things regarding
 [A-Frame](https://github.com/aframevr/aframe), a web framework for building
@@ -51,7 +51,7 @@ Learn about A-Frame.
 ##### Introduction
 
 - [Official Introduction and Guide](https://aframe.io/docs/)
-- [Wikipedia Page](https://en.wikipedia.org/wiki/A-Frame_(VR))
+- [Wikipedia Page]('https://en.wikipedia.org/wiki/A-Frame_(VR)')
 - [A-Frame - Virtual Reality on the Web Simplified](http://ngokevin.com/blog/aframe)
 - [A-Frame: The Easiest Way to Bring VR to the Web Today](http://www.sitepoint.com/a-frame-the-easiest-way-to-bring-vr-to-the-web-today/) - Getting started on WebVR with A-Frame
 - [Getting Started With A-Frame](http://www.tomango.co.uk/thinks/getting-started-aframe/) - Building the Olympic rings using A-Frame
@@ -148,7 +148,7 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [Particle System](https://github.com/IdeaSpaceVR/aframe-particle-system-component) - Particle systems (e.g., rain, dust, snow, fire)
 - [Passthrough](https://github.com/flysonic10/aframe-passthrough) - Show video feed from device's camera
 - [Physics + Vive Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/misc) - `grab` and `sphere-collider` components for combining Vive controllers with aframe-extras.physics
-- [Physics](https://github.com/donmccurdy/aframe-extras/tree/master/src/physics) - Rigid-body physics using Cannon.js
+- [Physics](https://github.com/donmccurdy/aframe-physics-system) - Rigid-body physics using Cannon.js
 - [PLY Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.PLY` models, wrapping THREE.PLYLoader
 - [Polygon](https://github.com/andreasplesch/aframe-polygon-primitive) - n-sided polygons
 - [Proxy Controls](https://proxy-controls.donmccurdy.com) - Connect input devices from your desktop to your mobile phone with WebRTC
@@ -193,7 +193,6 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 Integration with existing tools, frameworks, and libraries.
 
 - [aframe-jade-boilerplate](https://github.com/KevinGrandon/aframe-jade-boilerplate) - A-Frame with the Jade templating engine
-- [aframe-role](https://github.com/Popmotion/aframe-role) - A-Frame with Popmotion for animations, physics, and input tracking
 - [D3.js](http://blockbuilder.org/search#text=aframe) - Many A-Frame projects done with D3.js [[Video Tutorial]](https://www.youtube.com/watch?v=Tb2b5nFmmsM)
 - [aframe-d3-3d-graph-example](http://cjroth.com/aframe-d3-3d-graph-example/) - An example of a 3D weighted graph using D3 and A-Frame
 - [aframe-d3-3d-bars-example](http://cjroth.com/aframe-d3-3d-bars-example/) - An example of a 3D bar chart using D3 and A-Frame
@@ -315,8 +314,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Procedural Forest](http://nylki.github.io/aframe-lsystem-component/forrest/) - A procedural forest with procedural trees using the [L-System Component](https://github.com/nylki/aframe-lsystem-component)
 - [MagicaVoxel: City](https://ngokevin.github.io/aframe-magicavoxel-projects/city/) - A city built using [MagicaVoxel](https://ephtracy.github.io/). [[Tutorial](https://github.com/ngokevin/aframe-magicavoxel-projects#tutorial)]
 - [Sad Island](http://www.skyislandsvr.com/pages/SadIsland.html) - An island in the sea. Strangely you feel like you are being watched
-- [iStaging LiveTour](http://vrviewer.istaging.co/#!/684173) - 360&degree; real estate tours with a neat mini-map
-- [Tanks](http://www.bubbletanks.biz/) - A multiplayer tank game. [[Code](https://github.com/ourvrisrealerthanyours/tanks)] (The demo doesnt work. look at the code)
+- [iStaging LiveTour](http://vrviewer.istaging.co/#!/684173) - 360&deg; real estate tours with a neat mini-map
 - [Choose Your Own VR](https://github.com/dannielle/tinier-house) - Which cup will you choose?
 - [Cat Garden](http://dirosa.me/cat-garden/) - Float through a space of cats and balloons
 - [Virtual Symphony](https://flexingdream.github.io/aframe_demo/) - Experience music in a new way on this symphonic trip through Martin Garrix and Third Party - Lions in the Wild
