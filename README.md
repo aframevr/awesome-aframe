@@ -280,7 +280,6 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Plink](http://drawvr.com/plinko/) - Can you make it into the middle slot?
 - [Foosball](http://drawvr.com/foosball/) - Everyone's second favorite tabletop game, with physics
 - [Redwood Dusk](http://www.skyislandsvr.com/pages/redwooddusk.html) - Meditate under nature's giants
-- [Womynography](http://deenakhattab.com/thesis/womynography.html) - An immersive map-based archive of urban women's experiences in Cairo
 - [EVA](http://www.jmvisualcreativity.es/vr_eva/) - Prototype mecha in lava
 - [Space Shark Room](http://liooil.neocities.org/VR_webStuff/room+07/room07.html) - Hinduist shark cage in space
 - [Metal Gear REX](http://www.jmvisualcreativity.es/vr_metal/) - Return to Shadow Moses. SNAKE!
