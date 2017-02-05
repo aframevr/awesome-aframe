@@ -75,7 +75,7 @@ Learn about A-Frame.
 - [Porting a Water Shader to A-Frame for the Track Demo](https://medium.com/samsung-internet-dev/i-made-my-first-pr-to-a-frame-3675d596a2d8)
 - [Interactive 360 Video: Accurate Positioning and Smooth Tracking](https://corp.hapyak.com/resources/interactive-360-videos-accuracy/) - Interactive 360 videos by overlaying DOM elements and live editing 360 videos
 - [Hands-on With Virtual Reality Using A-Frame, React and Redux](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7)
-- [The Bow & Arrow is Virtual Reality’s “Hello, World”](https://medium.com/@jamesbpollack/the-bow-arrow-is-virtual-realitys-hello-world-b0556faa3ef8) - Building a Bow & Arrow game for tracked controllers
+- [The Bow & Arrow is Virtual Reality’s “Hello, World”](https://medium.com/@jamesbpollack/the-bow-arrow-is-virtual-realitys-hello-world-b0556faa3ef8) - Building a bow and arrow for tracked controllers
 
 #### Videos
 
@@ -181,8 +181,8 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [UI Components](https://github.com/gmarty/aframe-ui-components) - A collection of components related to UI
 - [Pipe](https://github.com/jellix79/aframe-pipe-component) - A pipe with inner and outer radius
 - [Persist Component](https://github.com/Utopiah/aframe-persist-component) - Use localStorage to make data persist over experiences
-- [Gradient Sky](https://github.com/zcanter/aframe-gradient-sky) - Use a gradient on sky
-- [Mouse Cursor Component](https://github.com/mayognaise/aframe-mouse-cursor-component) - Add interaction to the mouse cursor
+- [Gradient Sky](https://github.com/zcanter/aframe-gradient-sky) - Use two colors to create a gradient shader for colorful skies
+- [Mouse Cursor Component](https://github.com/mayognaise/aframe-mouse-cursor-component) - Add interaction to the hardware mouse, by raycasting from XY position on canvas
 
 ### Materials
 
