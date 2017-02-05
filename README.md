@@ -249,7 +249,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Alien Abduction](http://vedm.xyz/abductionvr) - Alien Abduction demo
 - [Hello VR](http://pixelz.de/vr/hellovr) - Moody dark scene with cool shadows, reflections, and animated clouds
 - [32Studios Lounge](http://32studios.magichandsrepair.com/browsertour/lounge) - Enjoy a lounge with coffee machines, laptops, and VR headsets while grooving to SoundCloud
-- [Mars: An Interactive Journey](https://www.washingtonpost.com/video/mars/public) - Explore Mars in virtual reality. Published by the Washington Post and created by a group at University of Texas at Austin. Read [their thoughts on A-Frame and WebVR](https://developer.washingtonpost.com/pb/blog/post/2016/03/11/vr-for-all)
+- [Mars: An Interactive Journey](http://wapo.st/marsvr) - Explore Mars in virtual reality. Published by the Washington Post and created by a group at University of Texas at Austin. Read [their thoughts on A-Frame and WebVR](https://developer.washingtonpost.com/pb/blog/post/2016/03/11/vr-for-all)
 - [360 Syria](http://360syria.com) - View the devastation of barrel bombs in Aleppo, Syria. Created in partnership with [AllJunior](http://junior.io) and Amnesty International UK
 - [Escape Game](http://drawvr.com/escape) - Can you escape?
 - [Escape Game 2: The Game](http://drawvr.com/escape2) - Can you escape again?
@@ -353,7 +353,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Miradas 360](https://miradas360.github.io/miradas360-01) - 360 experiences created by media production teams. [[Code](https://github.com/Miradas360/miradas360-01)]
 - [Interactive 360 Videos](http://s3.amazonaws.com/hapyak_demos/interactive360video/edit.html) - Upload and edit 360 interactive videos by overlaying DOM elements
 - [Unity Exporter to A-Frame](https://github.com/if1live/unity-scene-web-exporter) - Export Unity scenes to three.js or A-Frame with lightmapping
-- [WordPress Template](http://www.construktiv.de/imagine/webvr-mit-a-frame) - WordPress template that displays the four most recent posts in VR
+- [WordPress Template](https://www.construktiv.de/imagine/?p=557) - WordPress template that displays the four most recent posts in VR
 - [Web Speech API Test](https://codepen.io/bryik/pen/mErOOR?editors=0010) - A demo of the Speech Recognition API to change object colors
 - [Apollo 11 Scan](http://math.nist.gov/~SRessler/aframe/ebd/projects/apollo) - View the inside of the Apollo 11 Command Module, thanks to the National Air and Space Museum
 - [Olympic Rings](https://trys.github.io/aframe/2) - A-Frame gets the gold at Rio 2016
