@@ -348,7 +348,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [VR Space Builder](http://vr.greenbushlabs.com/) - Simple VR builder for kids using a form to import models and images
 - [WebVR API Simulation Extension](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil) - Run WebVR 1.0 content without a supported headset or even a compatible browser/platform. Great for development
 - [WebVR Solar System](http://vrspace.jmvisualcreativity.es/) - Solar System using A-Frame
-- [Track](https://samsunginternet.github.io/a-frame-demos/racer/) - Zooming on the track with the ocean water reflecting the sunset sky. [[Code](https://github.com/SamsungInternet/a-frame-demos/blob/gh-pages/racer/index.html)]
+- [Track](https://samsunginter.net/a-frame-demos/racer/) - Zooming on the track with the ocean water reflecting the sunset sky. [[Code](https://github.com/SamsungInternet/a-frame-demos/blob/gh-pages/racer/index.html)]
 - [AaMAZE Music Festival](http://vr.aamaze.dk/) - Fully responsive official VR website for the AaMAZE music festival in Denmark
 - [Heart](https://s3.amazonaws.com/vr-asset-repo/heart_demo_slack.html) - An educating and interactive tour of the heart. But a life is at stake
 - [Miradas 360](https://miradas360.github.io/miradas360-01/) - 360 experiences created by media production teams. [[Code](https://github.com/Miradas360/miradas360-01)]
