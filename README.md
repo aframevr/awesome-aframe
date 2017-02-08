@@ -76,6 +76,7 @@ Learn about A-Frame.
 - [Interactive 360 Video: Accurate Positioning and Smooth Tracking](https://corp.hapyak.com/resources/interactive-360-videos-accuracy) - Interactive 360 videos by overlaying DOM elements and live editing 360 videos
 - [Hands-on With Virtual Reality Using A-Frame, React and Redux](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7)
 - [The Bow & Arrow is Virtual Reality’s “Hello, World”](https://medium.com/@jamesbpollack/the-bow-arrow-is-virtual-realitys-hello-world-b0556faa3ef8) - Building a bow and arrow for tracked controllers
+- [PanoModeling: Building 3D Environments from 360 Photos](http://32studios.magichandsrepair.com/designstudio/2017/01/360-panorama-to-3d/) and [demo](http://32studios.magichandsrepair.com/browsertour/condo/)- Walkthrough to create fully 3D and VR indoor virtual tours by modeling off of a flat 360° panorama
 
 #### Videos
 
@@ -105,6 +106,7 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 
 - [Along Path](https://github.com/protyze/aframe-alongpath-component) - Interpolating an entity's position along a path
 - [Always Fullscreen](https://github.com/protyze/aframe-always-fullscreen-component) - Provide ways to enable Fullscreen on iOS (Scroll to Minimal-UI) and Android/Desktop (Fullscreen API)
+- [Ammo Physics Component](https://github.com/jeromeetienne/threex.ammo) - Library integrating three.js and ammo.js to enable physics in objects
 - [Animation](https://ngokevin.github.io/aframe-animation-component) - New and improved animation system using components. [[Code](https://github.com/ngokevin/aframe-animation-component)]
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 - [Asset On-Demand](https://github.com/protyze/aframe-asset-on-demand-component) - Load Assets dynamically when needed (and properly clean them up if not)
@@ -145,6 +147,7 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [Look At and Billboard](https://github.com/blairmacintyre/aframe-look-at-billboard-component) - Component to tell an entity to face another entity, or to face the camera
 - [Mario Star Texture](https://github.com/casonclagg/aframe-mario-star-component) - Texture that cycles colors like stars in Mario using canvas
 - [Mesh Line](https://github.com/andreasplesch/aframe-meshline-component) - Draw thick lines
+- [Minecraft Avatar Components](https://jeromeetienne.github.io/threex.minecraft/a-frame/build/aframe-minecraft.js) - Allows the creation, control and custom skins on minecraft-like characters
 - [Mouse Cursor Component](https://github.com/mayognaise/aframe-mouse-cursor-component) - Add interaction to the hardware mouse, by raycasting from XY position on canvas
 - [No-click Look Controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mousedown + drag
 - [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
@@ -175,7 +178,9 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [THREE Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.json` models, wrapping THREE.JSONLoader and THREE.ObjectLoader
 - [Trigger Box](https://github.com/Utopiah/aframe-triggerbox-component) - A component that emits an event when it enters or leaves a predefined area
 - [Tube](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-tube.js) - Cylindrical primitive that shapes itself to a given path
+- [UI Components](https://github.com/gmarty/aframe-ui-components) - A collection of components related to UI
 - [UI Modal](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
+- [UI Widgets](https://github.com/caseyyee/aframe-ui-widgets) - Another set of UI components, including buttons, switchs,sliders and knobs
 - [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse + pointerlock, touch-to-move, with physics compatibility
 - [Video Controls](https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
 - [Vive Cursor](https://github.com/bryik/aframe-vive-cursor-component) - A cursor for HTC Vive controllers
@@ -366,6 +371,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Low Poly Forest Scene](http://forestvr.onepopcorn.com) - Scene with snow and low poly forest
 - [Tarski’s Truth Machine](https://apps.tlt.stonybrook.edu/tarski) - Tarski’s Truth Machine for HTC Vive
 - [Tattoo Simulator](http://www.tattoosim.com) - **NSFW (Nudity)** Place tattoos on a human model
+- [A-Blast](https://blog.mozvr.com/a-blast/) - A wave shooting game with tracked controllers
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md)
 
