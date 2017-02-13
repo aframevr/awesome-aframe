@@ -153,6 +153,7 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [Polygon](https://github.com/andreasplesch/aframe-polygon-primitive) - n-sided polygons
 - [Proxy Controls](https://proxy-controls.donmccurdy.com) - Connect input devices from your desktop to your mobile phone with WebRTC
 - [Randomizer](https://github.com/ngokevin/aframe-randomizer-components) - Set random values
+- [Scatterplot](https://github.com/zcanter/aframe-scatterplot) - Scatterplot data visualization component
 - [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com)- Click on an entity to select it, handy for editors
 - [Shadows](https://github.com/donmccurdy/aframe-extras/tree/master/src/shadows) - Realtime shadows
 - [Shake-to-Show](https://github.com/rdub80/aframe-shake2show-component) - Using shake.js to toggle UI
