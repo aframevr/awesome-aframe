@@ -169,6 +169,7 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [Video Controls](https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
 - [Vive Cursor](https://github.com/bryik/aframe-vive-cursor-component) - A cursor for HTC Vive controllers
 - [WebVR Controller](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
+- [WebVR-UI](https://github.com/googlevr/webvr-ui) - Enter VR Button by Google VR
 - [Look At and Billboard](https://github.com/blairmacintyre/aframe-look-at-billboard-component) - Component to tell an entity to face another entity, or to face the camera
 - [Animation](https://ngokevin.github.io/aframe-animation-component) - New and improved animation system using components. [[Code](https://github.com/ngokevin/aframe-animation-component)]
 - [ChartBuilder](https://github.com/impronunciable/aframe-chartbuilder-component) - A component for using [ChartBuilder](http://quartz.github.io/Chartbuilder) charts
