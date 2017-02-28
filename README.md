@@ -111,7 +111,6 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [Asset Lazy Load](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 - [Asset On-Demand](https://github.com/protyze/aframe-asset-on-demand-component) - Load Assets dynamically when needed (and properly clean them up if not)
 - [Audio Visualizer](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using WebAudio API
-- [Bmfont](https://github.com/bryik/aframe-bmfont-text-component) - Renders bitmap/SDF fonts for high-quality 2D text
 - [Broadcast](https://github.com/ngokevin/aframe-broadcast-component) - Multiuser with WebSockets
 - [ChartBuilder](https://github.com/impronunciable/aframe-chartbuilder-component) - A component for using [ChartBuilder](http://quartz.github.io/Chartbuilder) charts
 - [Checkpoint Controls](https://github.com/donmccurdy/aframe-extras/blob/master/src/controls/checkpoint-controls.js) - Eased linear locomotion between designated hotspots
@@ -174,7 +173,7 @@ curated components, see the [Registry](https://aframe.io/aframe-registry).
 - [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
 - [Terrain Model](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
 - [Text Wrap](https://github.com/maxkrieger/aframe-textwrap-component) - Wrapping text dynamically rendered onto the `draw` component
-- [Text](https://github.com/ngokevin/aframe-text-component) - Polygonal text
+- [Text Geometry](https://github.com/ngokevin/kframe/tree/master/components/text-geometry) - Polygonal text
 - [THREE Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.json` models, wrapping THREE.JSONLoader and THREE.ObjectLoader
 - [Trigger Box](https://github.com/Utopiah/aframe-triggerbox-component) - A component that emits an event when it enters or leaves a predefined area
 - [Tube](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-tube.js) - Cylindrical primitive that shapes itself to a given path
