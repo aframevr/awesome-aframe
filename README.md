@@ -58,6 +58,7 @@ Learn about A-Frame.
 - [Entity-Component-System Wikipedia](https://en.wikipedia.org/wiki/Entity_component_system)
 - [Schneller Einstieg in die WebVR Entwicklung mit A-Frame](http://thevrjump.com/de/aframe-einstieg) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-einstieg)
 - [WebVR mit A-Frame: Einführung & Grundlagen](http://thevrjump.com/de/aframe-grundlagen) (German) - [Translated](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fthevrjump.com%2Fde%2Faframe-grundlagen)
+- [Minecraft in WebVR with HTML Using A-Frame](https://css-tricks.com/minecraft-webvr-html-using-frame/) - Minecraft in WebVR tutorial.
 
 ##### Case Studies
 
