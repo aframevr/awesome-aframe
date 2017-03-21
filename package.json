@@ -10,6 +10,7 @@
   },
   "scripts": {
     "checkLinks": "node scripts/checkLinks.js",
-    "lint": "awesome-lint"
+    "lint": "awesome-lint",
+    "test": "npm run checkLinks && npm run lint"
   }
 }
