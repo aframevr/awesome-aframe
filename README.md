@@ -27,7 +27,7 @@ Straight from the horse's mouth.
 - [Inspector](https://github.com/aframevr/aframe-inspector/)
 - [Registry](https://github.com/aframevr/aframe-registry/)
 - [Presentation Kit](https://github.com/aframevr/aframe-presentation-kit/)
-- [Workshop](https://github.com/aframevr/aframe-workshop/)
+- [School](https://github.com/aframevr/aframe-school/)
 - [Command Line Interface](https://github.com/aframevr/angle/)
 - [Twitter](https://twitter.com/aframevr/)
 
