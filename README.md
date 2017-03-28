@@ -113,6 +113,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Collider, Explode, Spawner](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
 - [Crawling Cursor](https://github.com/jujunjun110/aframe-crawling-cursor) - Cursor projected onto surfaces
 - [Crease](https://github.com/andreasplesch/aframe-crease-component) - Creased shading
+- [Chromakey Material](https://github.com/nikolaiwarner/aframe-chromakey-material) - Chromakey material for green screen effects
 - [Cubemap](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
 - [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
 - [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
