@@ -140,6 +140,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [L-System](https://github.com/nylki/aframe-lsystem-component) - A component for rendering [Lindenmayer](https://en.wikipedia.org/wiki/L-system) systems
 - [Layout](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
 - [Leap Hands](https://github.com/openleap/aframe-leap-hands) - Leap Motion
+- [Lens Flare](https://github.com/mokargas/aframe-lensflare-component) - Lens flare
 - [Look At and Billboard](https://github.com/blairmacintyre/aframe-look-at-billboard-component) - Component to tell an entity to face another entity, or to face the camera
 - [Mario Star Texture](https://github.com/casonclagg/aframe-mario-star-component) - Texture that cycles colors like stars in Mario using canvas
 - [Mesh Line](https://github.com/andreasplesch/aframe-meshline-component) - Draw thick lines
@@ -162,7 +163,8 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Selectable](https://github.com/scenevr/selectable-component) by [@scenevr](https://www.scenevr.com)- Click on an entity to select it, handy for editors
 - [Shadows](https://github.com/donmccurdy/aframe-extras/tree/master/src/shadows) - Realtime shadows
 - [Shake-to-Show](https://github.com/rdub80/aframe-shake2show-component) - Using shake.js to toggle UI
-- [Sprite Component](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera
+- [Slice9](https://github.com/fernandojsg/aframe-slice9-component) - 9-Slice for creating sharp panels and tooltips for UI
+- [Sprite](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera
 - [Star](https://github.com/andreasplesch/aframe-star-component) - 2D stars
 - [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
 - [Stereo Cube](https://github.com/wallabyway/aframe-stereocube) - A component for stereo cubemap textures (i.e., left and right eye textures)
