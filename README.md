@@ -185,6 +185,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Video Controls](https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
 - [Vive Cursor](https://github.com/bryik/aframe-vive-cursor-component) - A cursor for HTC Vive controllers
 - [WebVR Controller](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
+- [WebVR-UI](https://googlevr.github.io/webvr-ui/examples/aframe.html) - "Enter VR" Button by Google VR [[Code]](https://github.com/googlevr/webvr-ui/blob/master/examples/aframe.html)
 
 ### Materials
 
