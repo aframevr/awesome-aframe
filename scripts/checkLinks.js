@@ -1,20 +1,28 @@
-const _ = require('lodash');
+const path = require('path');
 const fs = require('fs');
-const markdown = require('markdown').markdown;
-const Promise = require('bluebird');
-const request = require('request');
 const url = require('url');
+
+const _ = require('lodash');
+const markdown = require('markdown').markdown;
+const PromiseMap = require('bluebird').map;
+const request = require('request');
 
 const text = fs.readFileSync(__dirname + '/../README.md', 'utf8');
 const links = getLinks(markdown.parse(text));
 
-// Get linked pages in parallel
-const requestLinks = Promise.map(links, link => {
+const RESPONSE_ERROR_CODES = [401, 403, 404, 500, 502, 503];  // HTTP response codes.
+const RESPONSE_TIMEOUT = 5000;  // In milliseconds.
+const RESPONSE_REJECT_UNAUTHORIZED = false;  // Whether to reject "403 Unauthorized" responses.
+
+const requestLink = (link, options) => {
   return new Promise((resolve, reject) => {
-    request.head(link, {
-      rejectUnauthorized: false,
-      timeout: 5000
-    }, (error, response, body) => {
+    options = Object.assign({
+      method: 'HEAD',
+      uri: link,
+      rejectUnauthorized: RESPONSE_REJECT_UNAUTHORIZED,
+      timeout: RESPONSE_TIMEOUT
+    }, options);
+    request(options, (error, response, body) => {
       // Always resolve (do not fail fast).
       if (error) {
         resolve({link: link, error: error});
@@ -22,13 +30,24 @@ const requestLinks = Promise.map(links, link => {
         resolve({link: link, status: response.statusCode});
       }
     });
+  })
+};
+
+// Get linked pages in parallel.
+const requestLinks = PromiseMap(links, link => {
+  return requestLink(link, {method: 'HEAD'}).then(result => {
+    if (result.error) {
+      // If a `HEAD` request fails, try one more time but with a `GET`.
+      return requestLink(link, {method: 'GET'});
+    } else {
+      return link;
+    }
   });
 }, {concurrency: 10});
 
 requestLinks.then(results => {
-  const errorStatus = [401, 403, 404, 500, 502, 503];
-  return _.filter(results, result => {
-    return result.error || errorStatus.indexOf(result.status) !== -1;
+  return results.filter(result => {
+    return result.error || RESPONSE_ERROR_CODES.indexOf(result.status) !== -1;
   });
 }).then(results => {
   if (!results.length) {
@@ -39,25 +58,27 @@ requestLinks.then(results => {
   // With bad links, we need to do a little manual confirmation. For example,
   // if we get an error, it's possible the endpoint does not respond to head.
   results.forEach(result => {
-    console.error(`[${result.status || result.error.code}] ${result.link}`);
+    console.error(`[%s] ${result.link}`,
+      result.status || (result.error ? result.error.code : 'unknown'));
   });
   process.exit(1);
 });
 
 /**
- * Grab all links.
+ * Grab all URLs from a tree of a parsed Markdown document.
  */
 function getLinks (tree) {
   let links = [];
 
-  if (!_.isArray(tree)) { return links; }
+  if (!Array.isArray(tree)) { return links; }
 
   if (tree[0] === 'link') {
-    // Only absolute links.
+    // Only parse absolute links.
     var urlObj = url.parse(tree[1].href);
     if (urlObj.protocol) { links = [tree[1].href]; }
   } else {
     links = _.flatten(_.map(tree.slice(1), getLinks));
   }
+
   return links;
 }
