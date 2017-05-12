@@ -126,6 +126,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Fence](https://github.com/atomicguy/aframe-fence-component) - Set boundaries on entity position
 - [Firebase](https://github.com/ngokevin/aframe-firebase-component) - Multiuser with Firebase
 - [Fit Texture](https://github.com/nylki/aframe-fit-texture-component) - Automatically scale entities relative to their texture, so you don't need to set width/height manually
+- [Force-directed Graph](https://github.com/vasturiano/aframe-forcegraph-component) - Represent a graph data structure in a 3D force-directed iterative layout, using [d3-force-3d](https://github.com/vasturiano/d3-force-3d) for the physics simulation engine.
 - [FPS Look](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse
 - [Gamepad Controls](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
 - [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
