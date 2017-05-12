@@ -132,7 +132,9 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [glTF](https://github.com/xirvr/aframe-gltf) - glTF models
 - [Gradient Sky](https://github.com/zcanter/aframe-gradient-sky) - Use two colors to create a gradient shader for colorful skies
 - [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Create customizable grids
+- [Heatmap3d](https://github.com/morandd/aframe-heatmap3d) - Yet another heatmap/heightmap component
 - [Height Grid](https://github.com/andreasplesch/aframe-heightgrid-component) - Terrain
+- [Hexmap](https://github.com/morandd/aframe-hexgraph-hexmap) - A hex grid/map for data viz (inspired by deck.gl's hexmap layer)
 - [href](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
 - [HTML Texture](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas
 - [Interpolation](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
