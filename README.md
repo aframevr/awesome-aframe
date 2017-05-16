@@ -115,6 +115,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Crease](https://github.com/andreasplesch/aframe-crease-component) - Creased shading
 - [Chromakey Material](https://github.com/nikolaiwarner/aframe-chromakey-material) - Chromakey material for green screen effects
 - [Cubemap](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
+- [Dans-camera-juggler](https://github.com/morandd/dans-aframe-camera-juggler) - Helps juggle cameras for a seamless experience for orbit or free-look cameras across desktop, touchscreen mobile, and VR mode.
 - [Daydream Controller](https://github.com/ryanbetts/aframe-daydream-controller-component) - Daydream controls
 - [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
 - [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
@@ -151,6 +152,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Minecraft Avatar Components](https://jeromeetienne.github.io/threex.minecraft/a-frame/build/aframe-minecraft.js) - Allows the creation, control, and custom skins on Minecraft-like characters
 - [Motion Capture](https://github.com/dmarcos/aframe-motion-capture-components/) - Record and replay headset and controller pose and events
 - [Mouse Cursor Component](https://github.com/mayognaise/aframe-mouse-cursor-component) - Add interaction to the hardware mouse, by raycasting from `XY` position on canvas
+- [Multitouch-look-controls](https://github.com/morandd/aframe-multitouch-look-controls) - Touch-driven free-look camera controller with gestures for yaw, pitch, dolly, and zoom. 
 - [No-click Look Controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mouse click + drag
 - [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
 - [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls) - Orbit camera around an entity
