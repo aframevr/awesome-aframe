@@ -210,7 +210,11 @@ Integration with existing tools, frameworks, and libraries.
 - [Meteor](https://github.com/vladbalan/meteor-aframe) - A-Frame with [Meteor](https://www.meteor.com/), a JavaScript app framework
 - [Altspace](https://github.com/AltspaceVR/aframe-altspace-component) - Integration with AltspaceVR
 - [Drupal](https://www.drupal.org/project/aframe) - Drupal module for integration with A-Frame
-- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) - CSS-like stylesheets for A-Frame for declaring mixins. [[Code]](https://github.com/ngokevin/aframe-mss)
+- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) - CSS-like stylesheets for A-Frame for declaring mixins [[Code]](https://github.com/ngokevin/aframe-mss)
+- [aframe-d3-3d-graph-example](http://cjroth.com/aframe-d3-3d-graph-example/) - An example of a 3D weighted graph using D3 and Aframe.
+- [aframe-d3-3d-bars-example](http://cjroth.com/aframe-d3-3d-bars-example/) - An example of a 3D bar chart using D3 and Aframe.
+- [aframe-phantomjs-continuous-streaming](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the web in VR by live streaming a web page into A-Frame using PhantomJS and ffmpeg
+- [aframe-keyboard](https://github.com/cjroth/aframe-keyboard) - A virtual-reality keyboard and text editor in A-Frame
 
 ### Scenes
 
