@@ -60,6 +60,7 @@ Learn about A-Frame.
 - [Relative Positioning in A-Frame](https://medium.com/immersion-for-the-win/relative-positioning-in-a-frame-d839fc0e3249) - How to use `<a-entity>` as a wrapper to create local coordinate spaces
 - [Building a Simple Web VR UI with A-Frame](https://blog.neondaylight.com/build-a-simple-web-vr-ui-with-a-frame-a17a2d5b484) - Building a `set-sky` component that changes the background when an entity is clicked
 - [Hands-on With Virtual Reality Using A-Frame, React, and Redux](https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7)
+- [A-Frame: The Easiest Way to Bring VR to the Web Today](https://www.sitepoint.com/a-frame-the-easiest-way-to-bring-vr-to-the-web-today/)
 
 ##### Case Studies
 
