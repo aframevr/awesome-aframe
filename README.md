@@ -152,6 +152,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Minecraft Avatar Components](https://jeromeetienne.github.io/threex.minecraft/a-frame/build/aframe-minecraft.js) - Allows the creation, control, and custom skins on Minecraft-like characters
 - [Motion Capture](https://github.com/dmarcos/aframe-motion-capture-components/) - Record and replay headset and controller pose and events
 - [Mouse Cursor Component](https://github.com/mayognaise/aframe-mouse-cursor-component) - Add interaction to the hardware mouse, by raycasting from `XY` position on canvas
+- [Multitouch-look-controls](https://github.com/morandd/aframe-multitouch-look-controls) - Touch-driven freelook camera; drop-in replacement for look-controls
 - [No-click Look Controls](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mouse click + drag
 - [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
 - [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls) - Orbit camera around an entity
