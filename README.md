@@ -131,7 +131,6 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [FPS Look](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse
 - [Gamepad Controls](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
 - [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
-- [glTF](https://github.com/xirvr/aframe-gltf) - glTF models
 - [Gradient Sky](https://github.com/zcanter/aframe-gradient-sky) - Use two colors to create a gradient shader for colorful skies
 - [Grid Helper](https://github.com/dbradleyfl/aframe-gridhelper) - Create customizable grids
 - [Heatmap3d](https://github.com/morandd/aframe-heatmap3d) - Yet another heatmap/heightmap component
