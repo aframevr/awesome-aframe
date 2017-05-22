@@ -4,7 +4,8 @@ A collection of awesome resources for the [A-Frame](https://aframe.io) WebVR
 framework.
 
 This list is synced now and then. For some of the more recent stuff, check out
-the recent [A Week of A-Frame](https://aframe.io/blog) roundups on the blog
+the recent [A Week of A-Frame](https://aframe.io/blog) roundups on the
+[A-Frame blog](https://aframe.io/blog).
 
 ## Table of Contents
 
