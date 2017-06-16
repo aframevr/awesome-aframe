@@ -175,6 +175,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Star](https://github.com/andreasplesch/aframe-star-component) - 2D stars
 - [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using three.js layers so you can render 3D stereoscopic videos (full and half-dome)
 - [Stereo Cube](https://github.com/wallabyway/aframe-stereocube) - Use stereoscopic cube-map textures (i.e., left and right eye textures)
+- [SVG File](https://github.com/7dir/aframe-svgfile-component) - Load basic SVG files as 3d geometry
 - [Teleport Controls](https://github.com/fernandojsg/aframe-teleport-controls) - Teleportation with tracked controllers
 - [Template](https://github.com/ngokevin/kframe/tree/master/components/template) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
 - [Terrain Model](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
