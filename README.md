@@ -217,6 +217,7 @@ Integration with existing tools, frameworks, and libraries.
 - [aframe-d3-3d-bars-example](http://cjroth.com/aframe-d3-3d-bars-example/) - An example of a 3D bar chart using D3 and Aframe.
 - [aframe-phantomjs-continuous-streaming](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the web in VR by live streaming a web page into A-Frame using PhantomJS and ffmpeg
 - [aframe-keyboard](https://github.com/cjroth/aframe-keyboard) - A virtual-reality keyboard and text editor in A-Frame
+- [Virtual World Framework](https://github.com/NikolaySuslov/livecodingspace) - A-Frame with [Virtual World Framework](https://github.com/virtual-world-framework/vwf), a JavaScript app framework for building collaborative, immersive applications with live coding support
 
 ### Scenes
 
