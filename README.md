@@ -321,6 +321,7 @@ Tools built with or for A-Frame.
 - [WebVR Studio](http://webvrstudio.com/)
 - [Fader Editor](https://fader.vragments.com/)
 - [IdeaSpace VR](https://www.ideaspacevr.org/)
+- [Hologram](https://hologram.cool/)
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
