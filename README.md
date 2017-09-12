@@ -321,7 +321,7 @@ Integration with existing tools, frameworks, and libraries.
 Tools built with or for A-Frame.
 
 - [WebVR Studio](http://webvrstudio.com/)
-- [Fader Editor](https://fader.vragments.com/)
+- [Fader Editor](https://getfader.com/)
 - [IdeaSpace VR](https://www.ideaspacevr.org/)
 - [Hologram](https://hologram.cool/)
 
