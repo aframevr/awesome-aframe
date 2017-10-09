@@ -220,6 +220,7 @@ Integration with existing tools, frameworks, and libraries.
 - [aframe-phantomjs-continuous-streaming](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the web in VR by live streaming a web page into A-Frame using PhantomJS and ffmpeg
 - [aframe-keyboard](https://github.com/cjroth/aframe-keyboard) - A virtual-reality keyboard and text editor in A-Frame
 - [Virtual World Framework](https://github.com/NikolaySuslov/livecodingspace) - A-Frame with [Virtual World Framework](https://github.com/virtual-world-framework/vwf), a JavaScript app framework for building collaborative, immersive applications with live coding support
+- [aframe-next-static](https://github.com/michaltakac/aframe-next-static) - This boilerplate leverages extremely simple deployment flow from Zeit's Now, now available for WebVR with A-Frame and React
 
 ### Scenes
 
