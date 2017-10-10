@@ -102,7 +102,6 @@ Community components. To create and share a component, see
 [angle](https://github.com/aframevr/angle)'s `initcomponent` tool. For curated
 components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 
-- [Aframe Effects](https://github.com/wizgrav/aframe-effects) - A VR Ready Post processing framework for A-Frame
 - [Along Path](https://github.com/protyze/aframe-alongpath-component) - Interpolating an entity's position along a path
 - [Always Fullscreen](https://github.com/protyze/aframe-always-fullscreen-component) - Provide ways to enable Fullscreen on iOS (Scroll to Minimal-UI) and Android/Desktop (Fullscreen API)
 - [Ammo Physics Component](https://github.com/jeromeetienne/threex.ammo) - Library integrating [three.js](https://threejs.org/) and [ammo.js](https://github.com/kripken/ammo.js) to enable physics in objects
@@ -121,6 +120,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Daydream Controller](https://github.com/ryanbetts/aframe-daydream-controller-component) - Daydream controls
 - [Drag Look](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
 - [Draw](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
+- [Effects System](https://github.com/wizgrav/aframe-effects) - A VR-ready post-processing framework for A-Frame
 - [Entity Generator](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
 - [Event Set](https://github.com/ngokevin/aframe-event-set-component) - Set properties in response to events, replacement for declarative events
 - [Extras](https://github.com/donmccurdy/aframe-extras) - Don's collection of A-Frame components
